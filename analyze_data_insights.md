@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Data Insights"
+updated: "2025-12-23"
+---
+
 - You have been provided with a file containing raw data. Analyze this data thoroughly.
 - Identify any key insights, patterns, trends, or anomalies within the data.
 - Provide a comprehensive summary of these findings.

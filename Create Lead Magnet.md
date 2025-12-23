@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Lead Magnet"
+updated: "2025-12-23"
+---
+
 Prompt:
 
 - Identify a specific niche for which you want to create a lead magnet. This could be anything from health and wellness to digital marketing or personal finance.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Edit Kids Fantasy Book"
+updated: "2025-12-23"
+---
+
 I need help editing my new kids' fantasy book for 8+ year olds. Here are the specific tasks I need you to perform:
 
 - Spell-check the text, ensuring the spelling follows UK English conventions.

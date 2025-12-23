@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Funding High School Track"
+updated: "2025-12-23"
+---
+
 - You are helping a high school Track & Field coach seeking funding sources to replace a track costing approximately $670,000. 
 - Identify potential sources of funding, including grants, donors, and any relevant funding bodies that support high school athletic programs or community sports facilities.
 - List specific grants that may assist in funding the new track, along with deadlines, application criteria, and any relevant details that the coach should be aware of.

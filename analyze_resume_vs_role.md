@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Resume Vs Role"
+updated: "2025-12-23"
+---
+
 Create a customizable resume tailored to various IT job descriptions in fields such as cybersecurity, network operations, and information systems security. Here are the details and guidelines to follow:
 
 - **Experience Background**:

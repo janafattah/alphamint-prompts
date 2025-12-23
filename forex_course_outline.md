@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Forex Course Outline"
+updated: "2025-12-23"
+---
+
 Create a detailed 3-week forex course that comprehensively covers the following topics: Footprint Chart, Market Profile, Orderflow Trading, Delta Trading, Depth of Market, COT Data, and Orderbook. Structure the course to include:
 
 - **Week 1: Foundations of Forex Trading**

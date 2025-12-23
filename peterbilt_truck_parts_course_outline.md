@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Peterbilt Truck Parts Course Outline"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and detailed course outline on Peterbilt truck parts for training and teaching purposes aimed at students and staff. Ensure the course covers essential aspects such as:
 
 - **Introduction to Peterbilt Trucks:**

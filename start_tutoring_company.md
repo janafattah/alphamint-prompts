@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Start Tutoring Company"
+updated: "2025-12-23"
+---
+
 Prompt:
 
 - Help me start my own tutoring company by guiding me through the initial steps.

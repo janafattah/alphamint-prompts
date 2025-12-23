@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Improve Prompt"
+updated: "2025-12-23"
+---
+
 Create a list of advanced prompting techniques for improving the effectiveness of instructional prompts when using ChatGPT. Consider the following components in your response:
 
 - Explain the importance of a well-structured baseline prompt and how it can be enhanced for more complex tasks.

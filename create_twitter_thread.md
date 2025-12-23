@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Twitter Thread"
+updated: "2025-12-23"
+---
+
 - Read the provided article carefully to understand its key points and main arguments.
 - Analyze the content by identifying the main themes, supporting evidence, and conclusions.
 - Create a comprehensive Twitter thread based on this analysis, ensuring you:

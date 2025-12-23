@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Banking Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide or simulation for the banking and finance sector. This can include explanations, scenarios, or sample dialogues. Ensure to cover the following key areas:
 
 - **Basic Concepts**:

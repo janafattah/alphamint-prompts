@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Generate Randomized Quiz Options"
+updated: "2025-12-23"
+---
+
 Create a prompt for generating a randomized set of quiz answer options. Here are the requirements your prompt should meet:
 
 - Generate quiz answer options for a multiple-choice quiz, where the options (such as A, B, C, D) should be randomly distributed for each question.

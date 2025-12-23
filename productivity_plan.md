@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Productivity Plan"
+updated: "2025-12-23"
+---
+
 As an expert life coach, I need you to create a comprehensive and personalized productivity plan for me. Here's what I need:
 
 • Background: [Provide a detailed description of your current situation, including any challenges, constraints, or specific circumstances that are impacting your productivity]

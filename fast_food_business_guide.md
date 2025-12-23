@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Fast Food Business Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on establishing and growing a fast food business in Zimbabwe. Your response should cover the following aspects:
 
 - **Registration Process:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Signal Analysis Curriculum"
+updated: "2025-12-23"
+---
+
 Create a comprehensive curriculum for a full signal analysis course that progresses from beginner to expert level. Your task is to design the course outline, providing details for each section as follows:
 
 - **Introduction to Signal Analysis:**

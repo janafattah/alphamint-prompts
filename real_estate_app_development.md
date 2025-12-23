@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Real Estate"
+language: "en"
+tags: []
+title: "Real Estate App Development"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I want to develop a real estate app that helps clients capture mortgage financing scenarios. The app should provide a simple template where users can input a purchase price and down payment. Based on these inputs, the app should automatically generate Georgia-specific mortgage figures in a worksheet format. I previously created a similar concept using ChatGPT and Canva, but I now need a structured approach to building a functional application.  

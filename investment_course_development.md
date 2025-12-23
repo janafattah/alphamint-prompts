@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Investment Course Development"
+updated: "2025-12-23"
+---
+
 Create a comprehensive, step-by-step course on Investments tailored for audiences in Uganda, ensuring both beginners and advanced learners find it accessible and valuable. The course should follow this structured outline:
 
 - **Course Structure**: Develop a step-by-step progression of the course content, starting from basic to advanced investment topics.

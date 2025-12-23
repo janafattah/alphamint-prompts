@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Design Dei Course Structure"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I am developing an interactive digital DEI course for yoga and wellness centers. The course will educate studio owners on the key DEI challenges in the wellness industry, areas where the industry falls short, unrecognized gaps in owners' understanding, and how these gaps impact the daily experiences of individuals in their spaces. The course will also cover what it truly means to provide an inclusive environment that welcomes a diverse range of people.  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Starting Virtual Assistant Business"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for starting a virtual assistant business, tailored to someone with the following background and needs:
 
 - Extensive administrative experience and a bachelor's degree in business administration.

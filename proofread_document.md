@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Proofread Document"
+updated: "2025-12-23"
+---
+
 Proofread the attached document in a formal, business, and expert manner using track changes, as a tool like Grammarly would. 
 
 - Carefully check for and correct grammatical errors, punctuation mistakes, and any issues with syntax.

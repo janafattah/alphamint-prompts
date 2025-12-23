@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Nursingstudyguide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "Create a study guide for nursing students focused on matching vocabulary terms with their corresponding definitions or defining information. Ensure that:  

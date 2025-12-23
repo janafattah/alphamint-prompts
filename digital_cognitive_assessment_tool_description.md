@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Digital Cognitive Assessment Tool Description"
+updated: "2025-12-23"
+---
+
 Using the information I’ve provided about my grant application and digital cognitive assessment tool, please write a compelling, engaging, and commercially viable product description that will:
 
 - Clearly and persuasively describe the digital cognitive assessment tool, including:

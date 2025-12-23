@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Brainstorm Podcast Ideas"
+updated: "2025-12-23"
+---
+
 Generate out of the box ideas for a podcast. Consider the following aspects:
 
 1. **Unique Themes and Topics:**

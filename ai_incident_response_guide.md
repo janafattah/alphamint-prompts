@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Ai Incident Response Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on implementing AI for Incident Response in an organization. Include the following elements:
 
 - **Introduction to AI in Incident Response**

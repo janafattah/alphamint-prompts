@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai In Manufacturing Research Brief"
+updated: "2025-12-23"
+---
+
 Create a comprehensive research brief on the topic of AI in manufacturing for a content marketing context. Your response should include:
 
 - **Introduction to AI in Manufacturing**: Briefly explain what AI in manufacturing encompasses, including its significance and relevance in current industrial trends.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Comic Book Writing Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed and age-appropriate guide for writing a comic book about perseverance. The guide should be structured as an instructional resource and include the following key elements:
 
 - **Definition of Perseverance**: Provide a simple yet meaningful definition of perseverance and explain how it can be a central theme in a comic book.

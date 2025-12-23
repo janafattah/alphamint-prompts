@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Medical Record Translation"
+updated: "2025-12-23"
+---
+
 Please help me with the following task:
 
 I will provide you with a set of medical records, including:

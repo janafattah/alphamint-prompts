@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Instagram Growth Strategy"
+updated: "2025-12-23"
+---
+
 You are a social media strategist and small business consultant. Create a comprehensive, step-by-step Instagram growth strategy for a new Instagram page built around a security network. The goal of the page is to:
 
 - Connect security guards with companies and businesses looking to hire them.

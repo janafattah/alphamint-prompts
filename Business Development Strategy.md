@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Business Development Strategy"
+updated: "2025-12-23"
+---
+
 Act as a business development expert specializing in security services. I am launching my first security company and my goal is to secure 5 to 10 long-term security contracts in my local city within the next year. Guide me through a comprehensive, step-by-step strategy that includes:
 
 - How to identify and discover both public and private security contract opportunities in my area, including methods for uncovering lesser-known or hidden opportunities that I might not typically find.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Coaching"
+language: "en"
+tags: []
+title: "Digital Marketing Coaching Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for new coaches in digital marketing e-learning platforms aimed at helping new digital marketers. Consider including the following elements:
 
 - **Introduction to Digital Marketing E-Learning:**

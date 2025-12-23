@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Football Betting Prediction System"
+updated: "2025-12-23"
+---
+
 Create an AI-driven system for predicting online betting outcomes for football matches. The system should meet the following requirements:
 
 - **Data Integration:**

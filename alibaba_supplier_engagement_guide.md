@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Alibaba Supplier Engagement Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for a startup business in Cape Town, South Africa on how to effectively engage suppliers on Alibaba for receiving product samples before placing a larger order. Include the following elements in your response:
 
 - **Understanding Alibaba Processes:**

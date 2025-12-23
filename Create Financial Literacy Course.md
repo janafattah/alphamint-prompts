@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Financial Literacy Course"
+updated: "2025-12-23"
+---
+
 Create a comprehensive online course outline on Financial Literacy for kids. The course should be engaging, age-appropriate, and cover essential financial topics. Please include the following components:
 
 - **Course Title and Description**: Develop an engaging and descriptive title and a brief overview of the course that highlights its goals and benefits for kids.

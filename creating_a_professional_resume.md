@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Creating A Professional Resume"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for someone looking to craft a professional resume. Address the following key components:
 
 - **Introduction to Resume Building:**

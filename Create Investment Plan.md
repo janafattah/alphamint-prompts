@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Investment Plan"
+updated: "2025-12-23"
+---
+
 Create an investment plan for building a diversified portfolio that includes dividend stocks, investments with Fidelity, and high-yield savings accounts. Consider the following components:
 
 - **Dividend Stocks**: 

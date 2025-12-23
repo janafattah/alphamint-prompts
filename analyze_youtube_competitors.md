@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Youtube Competitors"
+updated: "2025-12-23"
+---
+
 Prompt:
 
 "Help me analyze competitors on YouTube by addressing the following aspects:

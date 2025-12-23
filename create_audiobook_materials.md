@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Audiobook Materials"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I need detailed source material for scenes, a voiceover script, and guidance on creating an audiobook. Please provide the following:  

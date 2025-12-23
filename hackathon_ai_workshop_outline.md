@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Hackathon Ai Workshop Outline"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 Create a comprehensive workshop outline for a hackathon session focused on ideating AI solutions using ChatGPT and other methods. The workshop is part of a series and should guide participants through structured brainstorming techniques to generate AI-driven ideas. These ideas should be specifically tailored to a large consulting organization and should aim to improve efficiency, productivity, and effectiveness at four levels: individual, team, organization, and client.  

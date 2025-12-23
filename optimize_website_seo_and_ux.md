@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Optimize Website Seo And Ux"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on optimizing website SEO and UX. Your guidance should specifically address the following aspects:
 
 - **Website Structure Optimization**: 

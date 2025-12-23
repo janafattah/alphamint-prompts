@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Organizing Knowledge Hub"
+updated: "2025-12-23"
+---
+
 Create a guide for organizing a knowledge hub in Google NotebookLM for a Global Service Desk team. Consider the following components:
 
 - **Best Practices for Organizing the Hub**: Describe effective strategies for structuring a knowledge hub that enhances accessibility and usability for the team.

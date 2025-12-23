@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Coloring Book Concept"
+updated: "2025-12-23"
+---
+
 Create a detailed coloring book concept inspired by "The Nightmare Before Christmas". The coloring book should include the following specifications:
 
 - **Theme & Style**:

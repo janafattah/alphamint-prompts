@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Pricing Strategy"
+updated: "2025-12-23"
+---
+
 Create a pricing strategy for a new product entering the market by focusing on value-based pricing. Consider the following components to generate a specific price recommendation:
 
 - **Value Proposition:** Identify and describe the unique value the product provides to the customer. What benefits does it offer that differentiate it from competitors?

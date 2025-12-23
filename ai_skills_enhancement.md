@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Skills Enhancement"
+updated: "2025-12-23"
+---
+
 - I want to improve my skills in using AI effectively. Could you provide an overview of key AI concepts that I should understand? 
 - List practical applications and tools of AI that are commonly used across different fields. 
 - Offer some best practices for learning and integrating AI tools into personal or professional projects.

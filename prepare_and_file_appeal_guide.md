@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Prepare And File Appeal Guide"
+updated: "2025-12-23"
+---
+
 Draft a comprehensive guide for preparing and filing an appeal as a pro se litigant in Appellate Court. Include the following elements:
 
 - **Overview of the Appellate Process**: Explain the appellate process, including key deadlines, how it differs from trial court procedures, and the role of the appellate court.

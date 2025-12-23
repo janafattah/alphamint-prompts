@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Strategies For Linkedin Thought Leadership"
+updated: "2025-12-23"
+---
+
 Create a comprehensive report draft on strategies for enhancing thought leadership on LinkedIn in 2025. The report should leverage insights from:
 
 - Your analysis of content trends among your five current clients.

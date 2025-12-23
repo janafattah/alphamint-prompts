@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Green Card Application Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for someone looking to apply for a Green Card through marriage to a US citizen, focusing on a UK citizen planning to move to the USA in 2025. Include the following details:
 
 - **Eligibility:** Explain the eligibility criteria for obtaining a Green Card through marriage to a US citizen.

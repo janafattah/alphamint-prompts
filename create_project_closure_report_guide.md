@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Project Closure Report Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for completing a Project Closure Report for your PJM470S Project Management course. Include the following elements:
 
 - **Introduction to Project Closure:**

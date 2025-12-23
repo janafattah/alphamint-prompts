@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Lofi Music Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on producing music similar to YouTube's Lofi Girl, including recommendations for length and accompanying graphics. Address the following components:
 
 - **Music Composition:**

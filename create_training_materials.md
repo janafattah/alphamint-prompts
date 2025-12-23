@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Training Materials"
+updated: "2025-12-23"
+---
+
 You are an employee at an insurance company responsible for implementing Group IT policies. For this task, you need to:
 
 1. Understand the content of 18 Group IT policies over a period of 2 years.

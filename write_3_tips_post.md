@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write 3 Tips Post"
+updated: "2025-12-23"
+---
+
 # Write 3 Tips Post
 
 ## Input Required:

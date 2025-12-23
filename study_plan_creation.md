@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Study Plan Creation"
+updated: "2025-12-23"
+---
+
 Help me create a study plan to prepare for the medical residency exam. Include detailed strategies to maintain discipline and stay on track. I need the plan to:
 
 1. Outline a weekly schedule with specific study times and breaks.

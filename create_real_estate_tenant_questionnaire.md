@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Real Estate"
+language: "en"
+tags: []
+title: "Create Real Estate Tenant Questionnaire"
+updated: "2025-12-23"
+---
+
 Construct a comprehensive tenant screening questionnaire for [Property Management Company] to use during the rental application process. The questionnaire should be divided into the following sections:
 
 1. **Rental History**

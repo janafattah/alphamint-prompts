@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Arts And Cultural Precinct"
+updated: "2025-12-23"
+---
+
 Design a comprehensive Arts and Cultural Precinct for Tully, ensuring the project aligns with the outlined vision and goals. Please incorporate the following key elements:
 
 - Vision and Goals:

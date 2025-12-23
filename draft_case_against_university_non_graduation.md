@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Draft Case Against University Non Graduation"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need to draft a compelling case to present to a UK university's principal, arguing against the non-graduation of a medical student due to the university’s failure to provide an adequate duty of care. The case should be legally robust and structured around mental health, equality laws, and duty of care obligations. Additionally, the university exacerbated the student's mental health challenges by imposing additional pressures unrelated to academics, which later escalated into a fitness-to-practice issue.  

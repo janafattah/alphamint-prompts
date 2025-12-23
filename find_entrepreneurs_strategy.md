@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Find Entrepreneurs Strategy"
+updated: "2025-12-23"
+---
+
 Help me develop a roadmap and strategy to find and interview 100 Business Entrepreneurs (50 Russian-speaking and 50 English-speaking) for a free strategy session. Here are the detailed sub-tasks and goals I need you to address:
 
 1. **Finding 100 Business Entrepreneurs:**

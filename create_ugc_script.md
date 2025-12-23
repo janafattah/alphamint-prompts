@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Ugc Script"
+updated: "2025-12-23"
+---
+
 Create an engaging and viral user-generated content (UGC) script for a skincare brand ad aimed at encouraging social media users to purchase the brand's products. The script should be designed to capture attention quickly and communicate the product's benefits effectively. Ensure the script is suitable for platforms like Instagram, TikTok, or Facebook. Consider the following elements while crafting the script:
 
 - Start with a catchy and relatable opening that grabs the viewer's attention within the first few seconds.

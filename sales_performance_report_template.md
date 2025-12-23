@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Sales Performance Report Template"
+updated: "2025-12-23"
+---
+
 Create a detailed report template for tracking sales performance in an investment advisory firm. Follow these guidelines:
 
 - **Purpose**: Design a report format to track sales, specifically for Bonds, Unit Trusts, and Life Insurance.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Strategic Plan For Ngo"
+updated: "2025-12-23"
+---
+
 Create a comprehensive strategic plan for a Non-Governmental Organization (NGO) over a 5-year period. The plan should include:
 
 - **Reorganization Strategy:**

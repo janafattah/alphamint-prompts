@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Generationaldifferencesmasterclass"
+updated: "2025-12-23"
+---
+
 Sure! Here’s the final ChatGPT prompt:
 
 —

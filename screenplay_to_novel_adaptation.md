@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Screenplay To Novel Adaptation"
+updated: "2025-12-23"
+---
+
 Create a comprehensive outline for transforming a screenplay into a novel. Cover the following aspects:
 
 - **Structure Adaptation**: Outline how to adjust the structure of a screenplay, which is typically heavy on dialogue and scene descriptions, into the narrative-heavy format of a novel. Discuss how to incorporate prose elements such as inner thoughts, setting details, and character development.

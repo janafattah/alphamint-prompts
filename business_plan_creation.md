@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Business Plan Creation"
+updated: "2025-12-23"
+---
+
 Create a detailed business plan for a new business venture. The business plan should include, but not be limited to, the following sections:
 
 - **Executive Summary**: Provide a brief overview of the business, its mission, and what it aims to achieve.

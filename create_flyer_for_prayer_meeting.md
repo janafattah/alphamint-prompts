@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Meetings"
+language: "en"
+tags: []
+title: "Create Flyer For Prayer Meeting"
+updated: "2025-12-23"
+---
+
 Create a flyer for the annual prayer meeting of the America Back to God Mission. The flyer should convey a patriotic theme and include the following elements:
 
 - **Theme:** Patriotic

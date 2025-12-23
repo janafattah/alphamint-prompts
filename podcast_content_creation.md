@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Podcast Content Creation"
+updated: "2025-12-23"
+---
+
 Please create a series of content prompts specifically designed for podcast creation as part of a broader content plan and media strategy. The prompts should include:
 
 - **Content Ideas**: Suggest diverse podcast topics that are engaging and relevant to the target audience.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Dropshipping Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for someone looking to start an online business in dropshipping. Include the following key areas:
 
 - **Overview of Dropshipping**: Explain what dropshipping is and how it differs from traditional retail models.

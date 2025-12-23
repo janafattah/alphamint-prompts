@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "African Folk Tale Creation"
+updated: "2025-12-23"
+---
+
 Create a detailed and captivating African folk tale story to accompany an AI-generated image. The story should be designed specifically for a YouTube channel to attract and entertain viewers. Follow these guidelines:
 
 - Begin by introducing vibrant and memorable characters inspired by African folklore. Characters could be animals, mystical beings, or humans.

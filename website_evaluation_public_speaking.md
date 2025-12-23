@@ -1,4 +1,12 @@
 ---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Website Evaluation Public Speaking"
+updated: "2025-12-23"
+---
+
+---
 
 Please evaluate a website in the public speaking industry with the following objectives in mind:
 

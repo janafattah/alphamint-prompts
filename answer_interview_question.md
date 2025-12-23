@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Answer Interview Question"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for preparing for interviews, covering two main areas: interview questions and elevator pitches. Follow these instructions:
 
 - **Interview Questions:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Optimize Landing Page Seo"
+updated: "2025-12-23"
+---
+
 Create a detailed SEO optimization guide for enhancing the performance of a landing page. Your response should focus on the following areas:
 
 - **Keyword Strategy**: 

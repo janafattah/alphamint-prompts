@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Supported Living Policy"
+updated: "2025-12-23"
+---
+
 Create a detailed and comprehensive policy for supported living in the UK. The policy should be compliant with all relevant regulations and standards. Use the following structure and guidelines:
 
 - **Introduction**: Briefly explain what supported living is and its importance within the UK healthcare and social care framework.

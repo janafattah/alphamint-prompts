@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Copywriting Guidance Tool"
+updated: "2025-12-23"
+---
+
 You have a two-hour video about expert copywriting techniques filled with practical lessons. Create a ChatGPT prompt that allows users to input specific copywriting tasks and receive guidance and solutions based on the video's teachings. Follow these guidelines:
 
 - **Objective:** Develop copywriting responses that reflect the strategic teachings from the video.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Create Cybersecurity Pitch Deck"
+updated: "2025-12-23"
+---
+
 Create a detailed and persuasive pitch deck content for a meeting with a CEO and decision-makers in the Operational Technology (OT) cybersecurity field. The pitch deck should consist of a maximum of 6 slides and needs to achieve the following:
 
 - **Introduction Slide:** Provide a brief overview of your OT cybersecurity services and their relevance in the Kingdom of Saudi Arabia (KSA). Highlight your expertise and the significance of protecting operational technology systems.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Bodybuilding Program Guide"
+updated: "2025-12-23"
+---
+
 Create a 12-week bodybuilding-focused fitness program designed for beginner to intermediate lifters aiming to build lean muscle mass through progressive overload. The program should:
 
 - Include 4 to 5 weekly workouts that target all major muscle groups

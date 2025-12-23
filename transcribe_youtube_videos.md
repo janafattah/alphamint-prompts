@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Transcribe Youtube Videos"
+updated: "2025-12-23"
+---
+
 - You are tasked with transcribing entire YouTube videos. 
 - Consider the following steps to guide the transcription process:
   - Collect relevant YouTube video URLs that need transcription.

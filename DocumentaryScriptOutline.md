@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Documentaryscriptoutline"
+updated: "2025-12-23"
+---
+
 Create a documentary script outline in bullet points with brief explanations (1-2 sentences each), structured to assist in writing a 2000-word script based on these outlines. Ensure the outline fits within a two-page limit. Your outline should:
 
 - Begin with a working title for the documentary.

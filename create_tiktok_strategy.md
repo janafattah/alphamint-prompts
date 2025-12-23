@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Tiktok Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive strategy for using AI to craft captivating TikTok videos based on interesting Wikipedia articles. Address the following aspects:
 
 - **Content Ideas:**

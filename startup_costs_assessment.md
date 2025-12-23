@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Startup Costs Assessment"
+updated: "2025-12-23"
+---
+
 - Provide a detailed outline of the start-up costs associated with establishing a consumer goods company.
 - Cover the following sub-tasks:
   - Identify and list typical fixed costs such as office/building rental, utility setup, and licensing fees.

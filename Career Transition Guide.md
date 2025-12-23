@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Transition Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide to support someone looking to transition from a career as a flight attendant to a new venture involving community building, podcasting, and digital product creation. Consider the following aspects in your response:
 
 - **Emotional Transition**: Provide strategies for managing burnout and finding personal fulfillment after a long career in a demanding industry. Discuss how to reflect on personal strengths and passions to facilitate this transition.

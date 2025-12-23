@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Non Profit Organization Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for starting, running, and growing a non-profit organization with a focus on supporting underserved communities in South Asia (specifically Pakistan and India), the Middle East, and Africa. The scope should include development, education, and women's health. Address the following aspects:
 
 - **Starting the Organization:**

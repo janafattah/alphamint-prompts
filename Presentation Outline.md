@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Presentation Outline"
+updated: "2025-12-23"
+---
+
 Create an outline for a student video presentation. The outline should be comprehensive and structured to ensure clarity and engagement throughout the presentation. Address the following points to guide the development of a robust presentation outline:
 
 - **Introduction**: 

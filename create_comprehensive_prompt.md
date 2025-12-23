@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Comprehensive Prompt"
+updated: "2025-12-23"
+---
+
 I'm here to help you with your request. Although your request was simply "all," I will create a detailed and comprehensive ChatGPT prompt to guide a response that could potentially encompass a wide range of topics or tasks. Here's an adaptable prompt:
 
 ---

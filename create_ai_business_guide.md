@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Ai Business Guide"
+updated: "2025-12-23"
+---
+
 Provide a comprehensive guide on starting an AI business. Cover the following aspects:
 
 - Overview of the AI industry and its current trends.

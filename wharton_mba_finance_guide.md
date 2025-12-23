@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Wharton Mba Finance Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide to earning an MBA in finance from the Wharton School. Address the following areas:
 
 - **Admission Requirements:**

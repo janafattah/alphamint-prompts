@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Job Application Preparation Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide to help a candidate with minimal experience, potentially someone who has a small YouTube channel, to effectively prepare for a job application and interview, highlighting their value. Follow the steps below meticulously:
 
 1. **Job Listing Analysis:**

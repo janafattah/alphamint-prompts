@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Setting Up Tiktok Shop"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on setting up and optimizing a TikTok Shop. Your response should include:
 
 - **Introduction to TikTok Shop:**

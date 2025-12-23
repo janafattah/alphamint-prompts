@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Lesson Plans"
+updated: "2025-12-23"
+---
+
 Create detailed lesson plans for online English and Portuguese classes. Each lesson plan should be engaging, effective, and tailored to the students' needs. Address the following components:
 
 - **Identify Proficiency Level and Learning Goals:**

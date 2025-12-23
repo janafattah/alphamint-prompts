@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Online Education Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for exploring online educational resources in the fields of Accounting and Finance, Financial Planning, and Financial Literacy. Your response should include:
 
 - **Identification of Platforms:** List reputable online platforms and websites that offer courses in these fields.

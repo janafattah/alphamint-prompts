@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Video Script Tiktok"
+updated: "2025-12-23"
+---
+
 - Read the provided article and identify the main ideas, key points, and any compelling quotes.
 - Summarize the article in a concise format, focusing on the most engaging and shareable elements that would be suitable for a TikTok audience.
 - Develop a script for a TikTok video that effectively communicates the essence of the article:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Psychologie"
+language: "en"
+tags: []
+title: "Cognitive Health Promotion"
+updated: "2025-12-23"
+---
+
 Create a comprehensive article aimed at promoting a company's cognitive health offerings. Follow these guidelines to address all components effectively:
 
 - **Attention-Grabbing Headline**: Craft a headline that immediately captures the reader's interest and clearly conveys the subject of cognitive health.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Options Contracts Overview"
+updated: "2025-12-23"
+---
+
 Sure! Here's the high-quality ChatGPT prompt based on the request:
 
 ---

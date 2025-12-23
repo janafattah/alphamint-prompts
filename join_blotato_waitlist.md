@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Join Blotato Waitlist"
+updated: "2025-12-23"
+---
+
 - I need information about getting on the wait list for "blotato."
 - Provide steps on how to join the wait list for "blotato."
 - Include any specific requirements, procedures, or criteria needed to join the wait list.

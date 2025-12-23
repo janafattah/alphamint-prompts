@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Wellness Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on general wellness by addressing the following components:
 
 - Discuss effective workout routines that cater to various fitness levels, including beginner, intermediate, and advanced. Incorporate a mix of cardiovascular exercises, strength training, and flexibility workouts. Explain how these exercises can benefit overall health and well-being.

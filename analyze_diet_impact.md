@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Diet Impact"
+updated: "2025-12-23"
+---
+
 Create a comprehensive analysis prompt to derive insights, present information, and suggest the best visualizations for research data related to diet, nutrition, lifestyle habits, and cognitive resilience. Here's what I need you to consider and include:
 
 - **Overview of the Data**: Assume you have access to a dataset that includes anonymous data on individuals' diet habits, lifestyle habits, cognitive scores, and more. Understand the context and any relevant variables that could impact cognitive resilience or risks of dementia.

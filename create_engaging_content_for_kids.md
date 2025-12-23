@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Engaging Content For Kids"
+updated: "2025-12-23"
+---
+
 Create content that engages and educates children under the age of 10. Keep the following guidelines in mind:
 
 - **Content Style**: Use simple and clear language to ensure comprehension. Incorporate engaging storytelling techniques, such as characters or narratives, to captivate the young audience.

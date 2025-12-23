@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Hr Coordinator Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive resource and learning guide for an HR Coordinator working in a small to medium-sized company with 50 to 500 employees. This guide should cover the following:
 
 - **Role and Responsibilities of an HR Coordinator**: Include essential tasks and functions that an HR Coordinator should be able to perform with a minimal Bachelor's degree. Mention practical examples of daily and strategic tasks.

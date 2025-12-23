@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Exploration Prompt"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT prompt that helps someone explore potential career paths.
 
 Prompt:

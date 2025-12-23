@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Viral Content Strategy"
+updated: "2025-12-23"
+---
+
 Act as a social media brand strategist and content advisor. I want you to help me develop a viral content strategy for Instagram and TikTok that can help me do the following:
 
 - Build an engaged community of people who feel lost, unsupported, financially stuck, or lacking in confidence, and want to improve their mindset, financial situation, and life trajectory through real, relatable support.

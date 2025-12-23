@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Comprehensive Unit Plan"
+updated: "2025-12-23"
+---
+
 Create a comprehensive unit plan for any subject designed for educators, ensuring it includes detailed lesson plans. Address the following components in your response:
 
 - **Unit Plan Overview:**

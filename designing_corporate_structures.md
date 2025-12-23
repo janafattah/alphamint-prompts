@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Designing Corporate Structures"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I need a structured and detailed analysis to design and optimize corporate models for fund transfers and tax minimization across international jurisdictions. The goal is to ensure regulatory compliance while reducing tax burdens by strategically structuring Host Companies (HC), Parent Companies (PC), and Branch & Banking Hubs (BBH) in tax-optimized jurisdictions.  

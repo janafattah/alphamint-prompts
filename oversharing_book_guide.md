@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Oversharing Book Guide"
+updated: "2025-12-23"
+---
+
 Help me create a book for Christmas based on my successful Instagram series "Oversharing with Strangers." I need assistance with the following:
 
 - **Content Organization:**

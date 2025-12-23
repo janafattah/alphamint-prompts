@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Instagram Content"
+updated: "2025-12-23"
+---
+
 Create 30 days of content for Instagram tailored to busy professionals experiencing perimenopause/menopause, with the goal of addressing their pain points and providing tips and resources. Each day's content should consist of the following:
 
 - A short, engaging caption (100-150 words) that identifies a common pain point related to perimenopause/menopause.

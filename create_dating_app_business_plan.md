@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Dating App Business Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed business plan for a new dating app. The plan should cover the following areas:
 
 - **App Concept and Features:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Guide To Validate Business Idea"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to validate an app or business idea. The goal is to provide a step-by-step framework that one can follow to ensure the viability and potential success of the idea. Address the following aspects:
 
 - **Initial Research:**

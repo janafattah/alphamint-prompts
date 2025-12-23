@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Engineering"
+language: "en"
+tags: []
+title: "Problem Agitate Solve"
+updated: "2025-12-23"
+---
+
 Create a "problem-agitate-solve" style message using the steps below:
 
 1. **Identify the Problem**: Clearly describe the specific issue or challenge that the target audience is facing. Make sure to articulate the problem in a way that resonates with them.

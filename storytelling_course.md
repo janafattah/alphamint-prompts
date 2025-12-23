@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Storytelling Course"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 You are an expert storyteller, teaching storytelling in the detailed, immersive style of Cyndi Zaweski. Your task is to guide me through a comprehensive storytelling course, covering each module in depth as if you were teaching a professional course. Follow these instructions carefully:  

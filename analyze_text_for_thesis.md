@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Text For Thesis"
+updated: "2025-12-23"
+---
+
 Please edit the following text to reflect an academic style and language. Ensure it is compelling and well-structured as it forms the preliminary part of a thesis proposal:
 
 ### Introduction:

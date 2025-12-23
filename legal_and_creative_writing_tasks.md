@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Legal And Creative Writing Tasks"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 You have three distinct legal and creative writing tasks to address using AI. For each task, follow the detailed guidance provided below:

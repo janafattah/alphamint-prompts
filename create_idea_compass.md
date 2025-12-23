@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Idea Compass"
+updated: "2025-12-23"
+---
+
 Create an idea that can be applied across multiple categories including business, technology, background, nature, culture & religion, industry, social issues, and lifestyle. For each category, describe:
 
 - How the idea can be adapted or tailored to suit the specific needs and characteristics of that category.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Project Management Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how AI, especially ChatGPT, can assist project managers with the following tasks:
 
 - **Scheduling and Timeline Creation**: Explain how AI tools like ChatGPT can be used to assist in creating schedules and timelines, including generating or refining Gantt charts. Provide tips and examples on how to effectively use these tools for planning.

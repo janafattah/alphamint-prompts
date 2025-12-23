@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Social Media Content Ideas"
+updated: "2025-12-23"
+---
+
 Generate ideas for social media content concepts inspired by artists similar to Greg Goya and other innovative artists. Consider the following when crafting the social media content ideas:
 
 - **Research and Inspiration**: 

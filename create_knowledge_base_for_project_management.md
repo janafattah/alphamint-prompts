@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Knowledge Base For Project Management"
+updated: "2025-12-23"
+---
+
 Create a comprehensive knowledge base for a learning course on Project Management as an alternative to expensive, traditional training classes. This knowledge base should cover the latest frameworks and approaches to managing projects of any size or scale in both tech and non-tech industries. Ensure that the content includes:
 
 1. An overview of modern project management frameworks and methodologies for tech and non-tech industries.

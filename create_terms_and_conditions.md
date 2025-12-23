@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Create Terms And Conditions"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and detailed Terms and Conditions (T&C) page for a new website by completing the following sub-tasks:
 
 - **Introduction:**

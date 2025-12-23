@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Flower Information Pages"
+updated: "2025-12-23"
+---
+
 - Create 12 distinct pages, each dedicated to a different type of flower.
 - For each flower page, include the following details:
   - **Name of the flower**: Provide the common and scientific names.

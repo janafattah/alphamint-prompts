@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Job Application Preparation"
+updated: "2025-12-23"
+---
+
 ```
 You have a job listing you want to apply for. Follow the steps below to prepare for this application:
 

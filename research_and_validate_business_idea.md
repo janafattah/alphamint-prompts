@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Research And Validate Business Idea"
+updated: "2025-12-23"
+---
+
 ```
 Provide a comprehensive guide on how to research and validate a business idea. Your response should include:
 

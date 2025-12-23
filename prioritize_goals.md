@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Prioritize Goals"
+updated: "2025-12-23"
+---
+
 - I need assistance in prioritizing my most important goals for the year 2025.
 - Help me identify key criteria for evaluating the importance of each goal.
 - Suggest strategies for ranking or ordering these goals based on their importance.

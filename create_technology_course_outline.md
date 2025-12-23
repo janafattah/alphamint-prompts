@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Technology Course Outline"
+updated: "2025-12-23"
+---
+
 Create an educational course outline for a series of 10-15 classes targeting beginners in technology, focusing on the following components:
 
 - **Computer Basics:** 

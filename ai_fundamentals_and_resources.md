@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Psychologie"
+language: "en"
+tags: []
+title: "Ai Fundamentals And Resources"
+updated: "2025-12-23"
+---
+
 - Explain the fundamentals of AI for beginners.
 - Recommend some essential courses for starting an AI journey.
 - Provide tips for becoming proficient in AI.

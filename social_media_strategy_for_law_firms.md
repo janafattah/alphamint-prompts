@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Social Media Strategy For Law Firms"
+updated: "2025-12-23"
+---
+
 - You are assisting a law firm based in Cape Town, South Africa, to improve the visibility of their social media pages across all platforms.
 - Provide a comprehensive strategy for enhancing social media visibility, specifically for a law firm, taking into consideration the legal industry context, potential audience, and relevant content.
 - Include suggestions for optimizing profiles on major platforms like Facebook, Twitter, LinkedIn, and Instagram.

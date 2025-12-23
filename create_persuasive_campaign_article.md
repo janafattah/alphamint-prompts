@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Persuasive Campaign Article"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "Write a compelling and persuasive article designed to encourage readers to join a campaign. Structure the article to maximize engagement and conversion, following these guidelines:  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Franchise Expansion Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed consultation plan for a franchise business consulting scenario, specifically aimed at helping franchisors scale their footprint by opening more locations. Include the following components:
 
 1. **Market Analysis:**

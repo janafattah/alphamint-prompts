@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Ledger Accuracy"
+updated: "2025-12-23"
+---
+
 Sure, here is a carefully crafted ChatGPT prompt based on the request:
 
 "Please assist in reviewing a general ledger with the following tasks:

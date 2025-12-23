@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Digital Marketing Course Outline"
+updated: "2025-12-23"
+---
+
 Create a comprehensive outline for a digital marketing course focused on launching and automating an online business. The course is divided into the following sections and lessons:
 
 **Launch Kit For Your Online Business:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Improving Patient Experience Report"
+updated: "2025-12-23"
+---
+
 Create a comprehensive draft for a 20-page report based on patient experience data collected during Enter & View Visits in the UK. The draft should include both text and graphs. Here's the structure and focus needed for the report:
 
 - **Introduction**

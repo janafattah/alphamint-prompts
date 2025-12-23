@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Short Video Clips For Salons"
+updated: "2025-12-23"
+---
+
 Create short video clips designed to appeal to hair and beauty salon owners and encourage them to reach out for a free consultation. Each clip should be between 10 and 30 seconds long. Make sure to include:
 
 - **A compelling and engaging headline** that appeals to salon owners looking for marketing services.

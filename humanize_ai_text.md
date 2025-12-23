@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Humanize Ai Text"
+updated: "2025-12-23"
+---
+
 - Take the following AI-generated text.
 - Humanize it to ensure it isn’t detectable by AI products and software.
 - Maintain a business professional tone.

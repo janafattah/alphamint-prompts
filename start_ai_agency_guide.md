@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Start Ai Agency Guide"
+updated: "2025-12-23"
+---
+
 I am looking to develop a business idea for an AI agency. I am new to AI and entrepreneurship and need guidance on creating a clear and focused concept. Here are the details of my situation and goals:
 
 - **Background**: I don’t have prior experience in AI or business, but I am eager to learn and want to create something meaningful.

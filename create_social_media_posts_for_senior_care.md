@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Social Media Posts For Senior Care"
+updated: "2025-12-23"
+---
+
 Create engaging, informative, and empathetic social media post formats tailored to the senior and elder care industry, specifically focused on in-home care services, to be used within the Blotato social media tool. Follow these guidelines:
 
 - Design content that is relevant to caregivers, families of seniors, and elderly individuals receiving in-home care.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Match Outcome Prediction"
+updated: "2025-12-23"
+---
+
 Create a comprehensive analysis to predict the outcome of a football match by considering the following factors:
 
 - **Team Performance:**

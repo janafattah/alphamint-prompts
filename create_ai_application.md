@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Ai Application"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 I need your help to create an artificial intelligence application designed to support interactive and efficient learning. The AI should have the following features and capabilities:

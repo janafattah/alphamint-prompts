@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Log Book Development Ideas"
+updated: "2025-12-23"
+---
+
 Design a prompt for a ChatGPT model based on the following task outline:
 
 1. **Objective**: Assist in creating a series of log books for sale through KDP (Kindle Direct Publishing).

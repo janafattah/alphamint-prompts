@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Video Script"
+updated: "2025-12-23"
+---
+
 Create a video script for short clips to post on social media, focusing on various topics within the real estate business. Your script should be engaging, informative, and suitable for quick viewing. Follow these guidelines to ensure the content is effective:
 
 - **Start with a Hook:** Create a compelling opening statement or question that will grab the viewer's attention immediately.

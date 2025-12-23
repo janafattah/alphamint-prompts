@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Travel Article Framework"
+updated: "2025-12-23"
+---
+
 Create a reusable ChatGPT prompt framework that I can use to generate a detailed, brand-consistent travel article about any city, simply by swapping out the city name. The prompt should instruct ChatGPT to:
 
 - Write a high-quality travel article of approximately 9,000 words.

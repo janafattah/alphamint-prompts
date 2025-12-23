@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Text Behavior Patterns"
+updated: "2025-12-23"
+---
+
 - Analyze approximately 5 years' worth of group text messages to identify instances where a coworker may have exhibited condescending behavior, bullying, or age discrimination.
 - Provide an efficient method for processing large volumes of text data without manually screenshotting each message.
 - Suggest any features or techniques in the paid version of ChatGPT that can aid in detecting specific language or patterns associated with condescension, bullying, or age discrimination.

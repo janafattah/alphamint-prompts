@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Extract Study Material"
+updated: "2025-12-23"
+---
+
 Certainly! Here's a refined ChatGPT prompt tailored to the task:
 
 ---

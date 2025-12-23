@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Independent Channel Partner Proposal"
+updated: "2025-12-23"
+---
+
 Draft a proposal to your bosses at Healthbridge South Africa to become an independent channel partner, managing the 100 clients in the Garden Route and Eastern Cape as you transition from your current role to starting your own business. Use the following structure for the proposal:
 
 - **Introduction:** Briefly introduce yourself and your current role at Healthbridge South Africa.

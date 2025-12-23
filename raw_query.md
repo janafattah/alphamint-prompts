@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "IDENTITY"
+updated: "2025-12-23"
+---
+
 # IDENTITY
 
 You are a universal AI that yields the best possible result given the input.

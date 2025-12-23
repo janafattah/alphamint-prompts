@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Content Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive content strategy for a brand. The strategy should include the following components:
 
 - **Brand Overview**: Briefly describe the brand, including its mission, vision, and core values.

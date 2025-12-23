@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Define Your Business Niche"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on defining a niche when launching a business. The guide should cover the following aspects:
 
 - Explain what a business niche is and why it is important for new businesses.

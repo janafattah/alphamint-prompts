@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Competence Cloud"
+updated: "2025-12-23"
+---
+
 - You are tasked with creating a competence cloud from a user's uploaded resume using the cloud generator tool available at https://www.iapply.tech/.
 - Analyze the resume to identify key skills, experiences, certifications, and competencies highlighted by the user.
 - Ensure that the competence cloud visually represents these attributes in a clear and compelling manner, emphasizing the most relevant and often-mentioned skills.

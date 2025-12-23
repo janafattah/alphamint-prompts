@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Podcast Development Guide"
+updated: "2025-12-23"
+---
+
 You are tasked with helping develop a new venture centered around podcasts. Please provide a comprehensive guide focusing on the following aspects:
 
 - **Concept Development:**

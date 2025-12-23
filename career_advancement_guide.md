@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Advancement Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for someone seeking a higher management role, addressing the following key areas:
 
 - **Resume and Cover Letter Optimization**: Provide tips for crafting a resume that highlights leadership experience and key achievements in previous roles. Include advice on tailoring a cover letter to showcase managerial skills and strategic thinking.

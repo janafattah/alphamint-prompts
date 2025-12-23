@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Email Funnel Creation"
+updated: "2025-12-23"
+---
+
 Create a 7-email series funnel for Healthy🌼Happy🌼Families, a Facebook group for moms who want to improve their family's health and well-being. The objective is to convert group members into Juice Plus+ customers, with a goal of acquiring 44 customers in 2 months. Consider the following in your response:
 
 - **Audience Understanding**: The members are busy moms looking for simple, affordable ways to improve their family’s health.

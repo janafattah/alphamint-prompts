@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Investment Opportunities"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT Prompt:
 
 ---

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Contracts Plain Language Review"
+updated: "2025-12-23"
+---
+
 Rewrite the following entertainment contract clauses for artists and creatives into plain English. Highlight any problem areas within the clauses and provide possible solutions to common issues. Ensure your response includes:
 
 - The original contract clause in a quoted format.

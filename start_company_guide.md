@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Start Company Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive step-by-step guide on how to start a company idea from scratch. Include detailed instructions and advice covering the following key areas:
 
 - **Idea Generation and Validation:**

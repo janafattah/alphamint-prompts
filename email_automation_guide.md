@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Email Automation Guide"
+updated: "2025-12-23"
+---
+
 Create a guide on how to integrate an email system to send automated responses. The guide should cover the following:
 
 - **Overview of Email Integration**:

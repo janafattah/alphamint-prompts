@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Chatgpt For Medical Practice Efficiency"
+updated: "2025-12-23"
+---
+
 Help my friend, an OB-gynecologist with a private clinic, leverage ChatGPT to improve the efficiency of her practice and save time. Consider the following points:
 
 - How she can use ChatGPT to streamline appointment scheduling and management.

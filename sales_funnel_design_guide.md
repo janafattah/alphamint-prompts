@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Sales Funnel Design Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on designing a funnel starting from the landing page. Include detailed explanations and examples for each component commonly found in sales funnels. Ensure to cover the following elements:
 
 - **Landing Page**: Describe its role, essential features, and design principles. Provide examples of successful landing pages.

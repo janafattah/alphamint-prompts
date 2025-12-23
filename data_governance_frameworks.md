@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Data Governance Frameworks"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for the development and implementation of data governance frameworks, policies, and procedures specifically for financial services. Address the following aspects in detail:
 
 - **Core Concepts to Cover:**

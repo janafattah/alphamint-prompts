@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Faceless Content Generator"
+updated: "2025-12-23"
+---
+
 Create a faceless content generator that:
 
 - Accepts input prompts from the user to generate content based on specified topics or themes.

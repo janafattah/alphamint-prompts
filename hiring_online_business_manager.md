@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Hiring Online Business Manager"
+updated: "2025-12-23"
+---
+
 I am looking for guidance on hiring an Online Business Manager (OBM) to help me start my first online business that focuses on creating and offering courses. Please provide a detailed strategy that covers the following aspects:
 
 - **Responsibility Definition**: Clearly define the roles and responsibilities of the OBM in the context of creating an online business for courses.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Blockchain Degree Certificate Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for developing a blockchain application using Solidity for a University to generate degree certificates. The application should meet the following requirements:
 
 - **Blockchain Functionality**:

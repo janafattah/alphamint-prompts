@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Dream Life Exploration"
+updated: "2025-12-23"
+---
+
 Create a detailed and imaginative response about your ideal dream life. Consider including the following aspects:
 
 - **Lifestyle and Daily Routine**: Describe how you spend your typical day. What activities fill your timetable? How do you balance work and leisure?

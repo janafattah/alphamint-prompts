@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Funding Strategies"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for a solo entrepreneur seeking financial support while preserving existing assets. Address the following components:
 
 - Explore various funding options available for entrepreneurs, focusing on short to mid-term solutions:

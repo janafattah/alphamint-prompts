@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Professional Portfolio Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for someone looking to build a professional portfolio. Include the following key aspects:
 
 - Define what a portfolio is and its importance in showcasing skills, experience, and accomplishments.

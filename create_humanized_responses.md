@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Humanized Responses"
+updated: "2025-12-23"
+---
+
 - I'm a writer seeking assistance in obtaining accurate information presented in a humanized form. 
 - Provide me with answers that are easy to understand, engaging, and tailored for a general audience.
 - Ensure the responses are comprehensive, incorporate storytelling elements where relevant, and maintain a friendly, conversational tone.

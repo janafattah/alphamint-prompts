@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Business Directory Investigation"
+updated: "2025-12-23"
+---
+
 Investigate whether a client's business is listed on a range of business directories and document the details listed. Specifically, focus on finding listings for a hotel, including any under previous versions of its name. Aim to identify gaps or areas of improvement for the client's listings. Ensure the output is formatted as a spreadsheet containing:
 
 - Client details

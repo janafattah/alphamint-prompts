@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Social Media Strategy"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I am an online English teacher running an academy and need to attract at least 50 students. My students are children aged 7 to 14, but my primary clients are their parents. I want to grow my presence on social media—TikTok, Instagram, and Facebook—to gain followers and convert them into paying clients.  

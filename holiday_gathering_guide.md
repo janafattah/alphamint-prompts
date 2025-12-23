@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Holiday Gathering Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for organizing a holiday gathering for a large family with special traditions. Your response should cover the following aspects:
 
 - **Planning and Organizing:**

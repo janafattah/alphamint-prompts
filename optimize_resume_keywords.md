@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Optimize Resume Keywords"
+updated: "2025-12-23"
+---
+
 I want to update my resume to apply for a remote assistant position. Please help me create a tailored and optimized resume by following these steps:
 
 - Ask me for my current resume or a detailed list of my past work experiences, skills, education, and certifications.

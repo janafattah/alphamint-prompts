@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Design Whatsapp Course"
+updated: "2025-12-23"
+---
+
 Design an online course that can be delivered through WhatsApp. Your response should address the following components:
 
 - **Course Structure:**

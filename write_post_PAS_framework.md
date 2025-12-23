@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Post Pas Framework"
+updated: "2025-12-23"
+---
+
 Create a compelling social media post on [TOPIC] using the Problem-Agitate-Solve (PAS) copywriting formula. Your goal is to craft a viral post that generates high engagement. Follow these guidelines:
 
 Content Structure:

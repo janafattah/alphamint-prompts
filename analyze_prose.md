@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Prose"
+updated: "2025-12-23"
+---
+
 I will provide you with a student-written case study and a grading rubric. Your task is to evaluate the case study using the rubric and provide detailed feedback for improvement. Follow these instructions carefully:
 
 - Grade the case study based on the rubric provided, focusing on the key criteria outlined.

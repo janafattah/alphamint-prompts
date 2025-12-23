@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "C Suite Resume Trends"
+updated: "2025-12-23"
+---
+
 Create a comprehensive response on the current trends for C-Suite Global CVs/Resumes. Your response should include:
 
 - An overview of the most popular and effective design and formatting trends for C-Suite resumes globally.

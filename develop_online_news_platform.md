@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Develop Online News Platform"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to develop an online platform focused on providing accurate news bulletins about African markets, specifically dedicated to the trade of commodities and movement of goods. The guide should be simple enough for users with low technological background and should ensure minimal data usage. Include the following aspects:
 
 - **Initial Research and Planning:**

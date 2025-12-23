@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Data Breaches"
+updated: "2025-12-23"
+---
+
 I need assistance with an email address. Please follow these instructions:
 
 - Verify if this email address has been mentioned in any publicly available data breaches.

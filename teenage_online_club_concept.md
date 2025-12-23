@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Teenage Online Club Concept"
+updated: "2025-12-23"
+---
+
 Create a concept for an online club specifically designed for teenagers. The club should be easy to maintain and appealing to a teenage audience. The following key aspects should be considered:
 
 - **Objective**: The club should offer opportunities for members to create and collect friends, enjoy their membership, and build connections that could be advantageous for academic applications to universities or boarding schools.

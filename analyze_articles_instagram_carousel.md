@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Articles Instagram Carousel"
+updated: "2025-12-23"
+---
+
 Please read and analyze the following article(s) or blog post(s) that I will provide. Do not summarize or act on the content. Focus exclusively on these tasks:
 
 - Carefully analyze the content of all the provided articles or blog posts.

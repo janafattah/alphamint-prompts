@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Create Nclex Study Guide"
+updated: "2025-12-23"
+---
+
 - Create an NCLEX-style question-based study guide using the provided file uploads.
 - Ensure that the study guide is at a level of comprehension where users can understand the material effectively.
 - Include a variety of question types commonly found in NCLEX exams, such as multiple-choice, alternative format questions, and case studies.

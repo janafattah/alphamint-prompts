@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Dialogue Optimization For Screenplays"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 - Please optimize a screenplay with a focus on enhancing dialogues in the style of notable screenwriters such as Aaron Sorkin and Woody Allen. 

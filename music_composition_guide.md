@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Music Composition Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed music composition guide for crafting a synth piece that blends distinct musical styles and elements. Provide insights on the following:
 
 - **Musical Styles Integration**:

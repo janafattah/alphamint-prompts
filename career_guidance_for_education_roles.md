@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Guidance For Education Roles"
+updated: "2025-12-23"
+---
+
 ChatGPT Prompt:
 
 You are an expert career advisor specializing in leadership roles in education. I need detailed advice and counsel for my current career situation:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Online Course"
+updated: "2025-12-23"
+---
+
 Create an online course that speaks to entrepreneurs looking to add creativity and innovation into their business. 
 
 Consider the following aspects:

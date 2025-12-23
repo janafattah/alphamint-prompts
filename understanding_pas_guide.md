@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Understanding Pas Guide"
+updated: "2025-12-23"
+---
+
 Create a guide to understanding the PAS (Post-Acute Sequelae) condition. Your response should cover the following aspects in detail:
 
 - Define PAS (Post-Acute Sequelae) and explain its relevance to health.

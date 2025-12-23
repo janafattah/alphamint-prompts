@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Coloring Book Business Ideas"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 - Generate at least 5 creative business name ideas for a company that specializes in creating coloring books.

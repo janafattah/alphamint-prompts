@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Marketing Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for all marketing tasks for a company, focusing on the following areas:
 
 - **Advertising:** 

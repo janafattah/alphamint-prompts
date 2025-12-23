@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Poker Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to become an amazing poker player. Address the following components:
 
 - **Understanding Poker Basics:**

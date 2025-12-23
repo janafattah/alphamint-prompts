@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Coaching"
+language: "en"
+tags: []
+title: "Coaching Business Setup Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am starting a coaching business and need comprehensive guidance on setting it up efficiently. Please provide detailed insights and best practices on the following aspects:  

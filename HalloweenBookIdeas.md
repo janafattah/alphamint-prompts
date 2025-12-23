@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Halloweenbookideas"
+updated: "2025-12-23"
+---
+
 Create a list of 12 Halloween-themed book ideas targeted at teenagers with a brooding and introspective nature. Consider incorporating elements that would appeal to their interest in darker, more complex narratives. Each book idea should include:
 
 - A compelling and unique title.

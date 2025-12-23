@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Brandreputationstrategy"
+updated: "2025-12-23"
+---
+
 Create a high-quality ChatGPT prompt that addresses the following:
 
 - Provide expert guidance on safeguarding and enhancing a brand's reputation specifically for PR agencies and brands.

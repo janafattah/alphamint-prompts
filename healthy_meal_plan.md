@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Healthy Meal Plan"
+updated: "2025-12-23"
+---
+
 Develop a detailed plan for creating healthy meals based on specified foods. Consider the following aspects:
 
 - **Provide a variety of meal ideas** for breakfast, lunch, dinner, and snacks that incorporate the chosen foods, ensuring each meal is well-balanced and nutritious.

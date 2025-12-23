@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Annual Training Strategy Plan"
+updated: "2025-12-23"
+---
+
 Create an annual plan for Deputyship for a Training Strategy based on a five-year plan. The goal is to develop a clear and easy-to-follow plan specifically for a university setting. The plan should contain:
 
 - Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) objectives.

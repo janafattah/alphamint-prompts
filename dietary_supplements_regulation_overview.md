@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Dietary Supplements Regulation Overview"
+updated: "2025-12-23"
+---
+
 Explain the regulatory and scientific landscape concerning the sale and regulation of dietary supplements. Ensure your response covers the following aspects:
 
 - Define what dietary supplements are in simple terms.

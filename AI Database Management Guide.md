@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Engineering"
+language: "en"
+tags: []
+title: "Ai Database Management Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to effectively use AI to manage and analyze a database in REDCap. Address the following components:
 
 - **AI Tools Identification**: Which AI tools or software can be integrated or used alongside REDCap to enhance data extraction and analysis? Consider both proprietary and open-source tools.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Produkt"
+language: "en"
+tags: []
+title: "Create 5 Product Ideas"
+updated: "2025-12-23"
+---
+
 You are an expert Etsy SEO strategist, product copywriter, and print-on-demand design consultant. Help me develop high-converting, keyword-optimized product ideas for a personalized gift shop centered on pet lovers. My store sells customizable items (like sweatshirts, mugs, tote bags, etc.), combining humor, emotional appeal, minimalistic design, and personalization. I'm currently blending the pet niche with sub-niches such as family, hobbies, or professions.
 
 Your task is to:

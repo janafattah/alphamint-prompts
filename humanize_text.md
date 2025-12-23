@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Humanize Text"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 Humanize the following text while maintaining its original meaning and intent. Make the language more natural, engaging, and relatable. Ensure the tone is conversational, empathetic, and suitable for a general audience. If the text is overly formal, simplify it while preserving accuracy. If it lacks warmth, add a touch of personality. Maintain clarity and readability.

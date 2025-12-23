@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Capture Thinkers Work"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I want you to create a detailed book outline for a 12-chapter book on **sapiosexuality**, blending **psychology, sociology, and philosophy** to appeal to both **self-help readers and academics**. The book should be engaging yet well-researched, incorporating **citations from studies and literature**. Follow these specific requirements:  

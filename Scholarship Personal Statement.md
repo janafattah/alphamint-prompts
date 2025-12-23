@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Scholarship Personal Statement"
+updated: "2025-12-23"
+---
+
 Act as a professional scholarship application assistant. I am a high school graduate with academic honors and a top student basketball athlete, planning to attend college for the first time in Fall 2025 as a first-generation college student in my family. I need your help drafting a strong, compelling scholarship personal statement that highlights:
 
 - My academic achievements and commitment to education.

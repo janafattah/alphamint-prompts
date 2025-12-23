@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Dream Life Visioning"
+updated: "2025-12-23"
+---
+
 Create an extended version prompt to help someone envision their dream life. The prompt should be engaging, inspirational, and encourage deep reflection, guiding the individual through various aspects of life to consider. Include the following elements:
 
 - **Personal Values and Beliefs**: Encourage the user to consider their core values and how these shape their dream life. 

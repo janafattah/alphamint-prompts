@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Adhd Characters Dialogue"
+updated: "2025-12-23"
+---
+
 Create a 5-minute blog script featuring two characters, one representing an adult and the other a 15-year-old boy, both dealing with ADHD. Please follow these guidelines:
 
 - **Setting & Introduction**: Start with a brief introduction to the characters and the central theme of managing ADHD in their daily lives.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Forensic Accounting Guidance"
+updated: "2025-12-23"
+---
+
 - "I need guidance on how to conduct forensic accounting for a small business."
 - "Outline the key steps involved in reviewing almost a decade's worth of financial statements."
 - "Explain any red flags or common discrepancies to watch for in financial statements when reviewing them for accuracy and potential fraud."

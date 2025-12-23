@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Email Follow Up Essentials"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "Compose a professional follow-up email to potential buyers I met at a tradeshow. These buyers, who represent airport retail conglomerates such as Hudson News Group and Dufry, showed interest in consumer packaged goods – specifically artisanal granola and soy wax candles. They engaged in conversation, left their business cards, and saw a strong connection between my Brooklyn-branded products and their retail outlets, particularly airport stores, airport lounges, and other airport-related retail spaces. Additionally, they expressed interest in private label opportunities, using city-specific branding for locations like Chicago, Houston, and Los Angeles.  

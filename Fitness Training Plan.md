@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Fitness Training Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed 4-day training plan tailored to help achieve weight loss, muscle definition, and muscle gain in a healthy and efficient manner. Follow these guidelines for the personalized training plan:
 
 - **Needs and Goals Assessment**: 

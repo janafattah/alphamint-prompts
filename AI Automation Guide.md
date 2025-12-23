@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Automation Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide to help someone learn about AI automation and achieve financial freedom. Address the following key areas:
 
 - **AI Automation:**

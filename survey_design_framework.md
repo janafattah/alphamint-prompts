@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Survey Design Framework"
+updated: "2025-12-23"
+---
+
 Design a comprehensive survey research study focusing on the following categories: habits and uses, awareness, brand image, and segmentation work. For each category, include the following elements:
 
 ### Habits and Uses

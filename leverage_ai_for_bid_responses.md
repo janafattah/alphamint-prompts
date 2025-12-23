@@ -1,3 +1,10 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Leverage Ai For Bid Responses"
+updated: "2025-12-23"
+---
 
 Create a comprehensive response for a small business aiming to leverage AI tools to enhance their bid response for a government disability employment services tender. Address the following sub-tasks:
 
