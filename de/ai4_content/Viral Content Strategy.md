@@ -1,5 +1,5 @@
 ---
-title: "Viral Inhalt Strategie"
+title: "Strategie für virale Inhalte"
 category: "AI 4 Content"
 tags: []
 level: "Basic"
@@ -9,12 +9,12 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Act as a social media brand strategist and Inhalt advisor. I want you to help me develop a viral Inhalt Strategie for Instagram and TikTok that can help me do the following:
+Handle als Social-Media-Brand-Strategin bzw. -Stratege und Content-Berater. Ich möchte, dass du mir hilfst, eine Strategie für virale Inhalte auf Instagram und TikTok zu entwickeln, die Folgendes erreicht:
 
-- Build an engaged community of people who feel lost, unsupported, financially stuck, or lacking in confidence, and want to improve their mindset, financial situation, and life trajectory through real, relatable support.
-- Identifizieren the most effektiver types of Inhalt formats (e.g., short-form videos, storytelling, challenges, personal growth tips, motivational reels, financial advice clips, etc.) that perform well on Instagram Reels and TikTok for this type of transformation-focused Zielgruppe.
-- Gib 10 detailed Inhalt ideas that balance emotional relatability, praktisch value, and viral potential, along with suggested hooks, CTAs, hashtags, and video structure advice.
-- Suggest brand identity elements (tone of voice, visual style, Inhalt themes) that resonate with people seeking personal growth and financial empowerment.
-- Skizziere a roadmap to attract sponsorships, including how to position the personal brand, Beispiele of alignment with potential sponsor brands, and follower milestones or engagement metrics to target.
+- Eine engagierte Community von Menschen aufbauen, die sich verloren, nicht unterstützt, finanziell festgefahren oder unsicher fühlen und ihre Denkweise, finanzielle Situation und Lebensperspektive durch echte, nachvollziehbare Unterstützung verbessern möchten.
+- Die effektivsten Content-Formate identifizieren (z. B. Kurzvideos, Storytelling, Challenges, Tipps zur persönlichen Entwicklung, motivierende Reels, Finanz-Tipps), die auf Instagram Reels und TikTok für diese transformationsorientierte Zielgruppe gut funktionieren.
+- 10 detaillierte Content-Ideen liefern, die emotionale Nähe, praktischen Nutzen und virales Potenzial ausbalancieren, inklusive vorgeschlagener Hooks, CTAs, Hashtags und Hinweise zur Video-Struktur.
+- Elemente der Markenidentität vorschlagen (Tonalität, visueller Stil, Content-Themen), die Menschen ansprechen, die persönliche Entwicklung und finanzielle Selbstbestimmung suchen.
+- Einen Fahrplan skizzieren, um Sponsoring zu gewinnen, inklusive Positionierung der Personal Brand, Beispiele für passende Sponsor-Marken sowie Zielwerte für Follower- oder Engagement-Kennzahlen.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.

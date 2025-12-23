@@ -1,5 +1,5 @@
 ---
-title: "Erstelle Facebook Post"
+title: "Facebook-Post erstellen"
 category: "AI 4 Content"
 tags: []
 level: "Basic"
@@ -9,12 +9,12 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Erstelle einen Facebook post based on specific inputs provided by a user. The post should effectively communicate the user's message and engage their Zielgruppe. Stelle sicher to address the following components within the post:
+Erstelle einen Facebook-Post auf Basis der vom Nutzer bereitgestellten Informationen. Der Post soll die Botschaft klar vermitteln und die Zielgruppe ansprechen. Stelle sicher, dass du die folgenden Bestandteile abdeckst:
 
-- **Einleitung**: Craft a compelling opening statement that captures attention.
-- **Main Inhalt**: Incorporate the specific details and key points provided by the user. Stelle sicher the Inhalt is coherent and aligns with the user's intentions.
-- **Call-to-Action**: Encourage interaction or response from the Zielgruppe. This could be in the form of comments, likes, shares, or visits to a link.
-- **Tone and Style**: Adjust the language, tone, and style of the post to match the user's intended Zielgruppe (e.g., casual, professional, humorous).
-- **Visual Element Suggestions**: Recommend any images, emojis, or hashtags that could enhance the post's engagement and visibility.
+- **Einleitung**: Formuliere einen überzeugenden Einstieg, der Aufmerksamkeit erzeugt.
+- **Hauptinhalt**: Integriere die konkreten Details und Kernpunkte, die der Nutzer vorgibt. Der Inhalt soll schlüssig sein und zu den Absichten des Nutzers passen.
+- **Handlungsaufforderung**: Ermutige zur Interaktion, z. B. durch Kommentare, Likes, Shares oder den Besuch eines Links.
+- **Ton und Stil**: Passe Sprache, Ton und Stil an die gewünschte Zielgruppe an (z. B. locker, professionell, humorvoll).
+- **Vorschläge für visuelle Elemente**: Empfiehl passende Bilder, Emojis oder Hashtags, um die Interaktion und Sichtbarkeit zu erhöhen.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.

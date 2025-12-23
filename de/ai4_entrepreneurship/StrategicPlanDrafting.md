@@ -1,5 +1,5 @@
 ---
-title: "Strategicplandrafting"
+title: "Strategischen Plan ausarbeiten"
 category: "AI 4 Entrepreneurship"
 tags: []
 level: "Basic"
@@ -9,20 +9,20 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-**ChatGPT Prompt:**  
+**ChatGPT-Prompt:**  
 
-"I need your help in drafting a comprehensive strategic Plan for a non-profit organization based on notes and Informationen from a Strategie session. The Plan should adhere to best practices and include the following components:  
+"Ich brauche Hilfe beim Ausarbeiten eines umfassenden strategischen Plans für eine gemeinnützige Organisation, basierend auf Notizen und Informationen aus einer Strategierunde. Der Plan soll Best Practices folgen und die folgenden Komponenten enthalten:  
 
-- **Mission Statement:** A concise yet impactful statement summarizing the organization's purpose.  
-- **Vision Statement:** A forward-looking statement describing the ideal future state the organization aims to achieve.  
-- **Core Values:** A list of guiding Prinzipien that define the organization's culture and decision-making.  
-- **Strategic Priorities:** Key areas of focus that will drive the organization’s success over the next few years.  
-- **Objectives:** Specific, measurable goals that align with the strategic priorities.  
+- **Mission Statement:** Eine kurze, prägnante Aussage, die den Zweck der Organisation zusammenfasst.  
+- **Vision Statement:** Eine zukunftsgerichtete Aussage, die den idealen Zustand beschreibt, den die Organisation erreichen will.  
+- **Kernwerte:** Eine Liste von Leitprinzipien, die Kultur und Entscheidungen prägen.  
+- **Strategische Prioritäten:** Zentrale Handlungsfelder, die den Erfolg der Organisation in den nächsten Jahren vorantreiben.  
+- **Ziele:** Konkrete, messbare Ziele, die zu den strategischen Prioritäten passen.  
 
-Once the strategic Plan is created, summarize it into a one-page version for quick reference. This condensed version should be easily shareable with the governance board, community members, and families being served.  
+Nachdem der strategische Plan erstellt ist, fasse ihn zu einer einseitigen Version für die schnelle Nutzung zusammen. Diese Kurzfassung soll leicht mit Vorstand, Community und den betreuten Familien geteilt werden können.  
 
-Additionally, use the strategic Plan to Gliederung an annual Plan that prioritizes key initiatives, timelines, and responsibilities for the upcoming year. Stelle sicher it is actionable and aligned with the strategic objectives.  
+Nutze den strategischen Plan außerdem, um einen Jahresplan zu skizzieren, der zentrale Initiativen, Zeitpläne und Verantwortlichkeiten für das kommende Jahr priorisiert. Stelle sicher, dass der Plan umsetzbar ist und mit den strategischen Zielen übereinstimmt.  
 
-Structure your response in a clear and professional manner, using compelling and accessible language suited for diverse stakeholders.  
+Strukturiere deine Antwort klar und professionell und verwende überzeugende, leicht verständliche Sprache, die für verschiedene Stakeholder geeignet ist.  
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen."
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen."

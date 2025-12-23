@@ -1,5 +1,5 @@
 ---
-title: "Sales Workflow Leitfaden"
+title: "Leitfaden für den Vertriebsworkflow"
 category: "AI 4 Entrepreneurship"
 tags: []
 level: "Basic"
@@ -9,26 +9,26 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Erstelle einen comprehensive Leitfaden to support the sales workflow, specifically focusing on the following areas: 
+Erstelle einen umfassenden Leitfaden zur Unterstützung des Vertriebsworkflows, mit Fokus auf die folgenden Bereiche:
 
-- **Prospecting:** Gib Strategien and Techniken for identifying and qualifying potential leads. Füge ein tips for researching prospects and Tools that can assist in the process.
+- **Prospecting:** Gib Strategien und Techniken zur Identifikation und Qualifizierung potenzieller Leads. Ergänze Tipps zur Recherche sowie Tools, die dabei helfen können.
 
-- **Cold Calling Scripts:** Develop effektiver scripts for initiating contact with potential clients. These scripts should include: 
-  - An engaging opening statement
-  - Key value propositions
-  - Responses to common objections
-  - Techniken to build rapport quickly
+- **Kaltakquise-Skripte:** Entwickle wirksame Skripte für die erste Kontaktaufnahme mit potenzieller Kundschaft. Diese Skripte sollen enthalten:
+  - Einen ansprechenden Einstieg
+  - Zentrale Wertversprechen
+  - Antworten auf häufige Einwände
+  - Techniken, um schnell Vertrauen aufzubauen
   
-- **Sales Pitches:** Offer guidance on creating compelling sales pitches. Focus on:
-  - Structuring the pitch: Stelle vor the problem, present the solution, and hebe hervor benefits
-  - Tailoring the pitch to the Zielgruppe's needs
-  - Incorporating storytelling elements
+- **Sales Pitches:** Biete Hinweise für überzeugende Verkaufspitches. Fokus auf:
+  - Aufbau des Pitches: Problem benennen, Lösung präsentieren, Vorteile hervorheben
+  - Anpassung an die Bedürfnisse der Zielgruppe
+  - Einbindung von Storytelling-Elementen
 
-- **Follow-ups:** Suggest best practices for following up with prospects post-interaction. Cover:
-  - Timing and frequency of follow-ups
-  - Personalization Techniken
-  - Methods for tracking and managing follow-ups effectively
+- **Follow-ups:** Schlage Best Practices für Nachfassaktionen nach dem Erstkontakt vor. Abdecken:
+  - Zeitpunkt und Frequenz der Follow-ups
+  - Personalisierungstechniken
+  - Methoden zur Nachverfolgung und zum effektiven Management
 
-Stelle sicher each section includes actionable tips and real-world Beispiele to provide praktisch insights. 
+Stelle sicher, dass jeder Abschnitt umsetzbare Tipps und Praxisbeispiele enthält, um konkrete Orientierung zu geben.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.
