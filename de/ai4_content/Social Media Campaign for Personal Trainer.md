@@ -1,5 +1,5 @@
 ---
-title: "Social Media Kampagne For Personal Trainer"
+title: "Social-Media-Kampagne für Personal Trainer"
 category: "AI 4 Content"
 tags: []
 level: "Basic"
@@ -9,13 +9,13 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Erstelle einen compelling, professionally written social media promotional Kampagne for a personal trainer whose client base primarily uses Ozempic. The goal is to attract new clients to the gym by addressing the common issue that many people using Ozempic are experiencing: rapid weight loss leading to saggy skin or an unhealthy appearance. The Inhalt should:
+Erstelle eine überzeugende, professionell formulierte Social-Media-Promotionskampagne für einen Personal Trainer, dessen Kundschaft überwiegend Ozempic nutzt. Ziel ist es, neue Kundinnen und Kunden für das Studio zu gewinnen, indem ein häufiges Problem angesprochen wird: schneller Gewichtsverlust führt zu schlaffer Haut oder einem ungesunden Erscheinungsbild. Der Inhalt soll:
 
-- Erkläre in simple, relatable terms how rapid weight loss without proper strength and resistance training can führen to muscle loss and a saggy or unhealthy look.
-- Educate the Zielgruppe on how this can be prevented or improved through proper strength training and individualized fitness coaching.
-- Position the personal trainer’s services as a specialized solution aimed at people on Ozempic who want to retain lean muscle, look healthy, and feel strong during their weight loss journey.
-- Füge ein two to three versions of social media copy tailored for different formats (e.g., short-form for Instagram Stories, medium-form for Facebook posts, long-form for LinkedIn).
-- Offer a persuasive call-to-action encouraging viewers to take the next step (e.g., book a consultation, try a session, download a Leitfaden).
-- Maintain a tone that is supportive, confident, and non-judgmental while still conveying expertise.
+- In einfachen, nachvollziehbaren Worten erklären, wie schneller Gewichtsverlust ohne angemessenes Kraft- und Widerstandstraining zu Muskelabbau und einem schlaffen oder ungesunden Aussehen führen kann.
+- Das Publikum darüber aufklären, wie sich das durch gezieltes Krafttraining und individuelles Coaching vermeiden oder verbessern lässt.
+- Die Leistungen des Personal Trainers als spezialisierte Lösung für Menschen auf Ozempic positionieren, die schlanke Muskelmasse erhalten, gesund aussehen und sich während der Abnehmphase stark fühlen wollen.
+- Zwei bis drei Versionen von Social-Media-Texten für unterschiedliche Formate enthalten (z. B. kurz für Instagram Stories, mittel für Facebook-Posts, lang für LinkedIn).
+- Eine überzeugende Handlungsaufforderung enthalten, die zum nächsten Schritt motiviert (z. B. Beratung buchen, Training ausprobieren, Guide herunterladen).
+- Einen unterstützenden, selbstbewussten und nicht wertenden Ton wahren, der dennoch Kompetenz vermittelt.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.

@@ -1,5 +1,5 @@
 ---
-title: "Documentaryscriptoutline"
+title: "Gliederung für ein Dokumentarfilm-Skript"
 category: "AI 4 Content"
 tags: []
 level: "Basic"
@@ -9,15 +9,15 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Erstelle einen documentary script Gliederung in bullet points with brief explanations (1-2 sentences each), structured to assist in writing a 2000-word script based on these outlines. Stelle sicher the Gliederung fits within a two-page limit. Your Gliederung should:
+Erstelle eine Gliederung für ein Dokumentarfilm-Skript in Stichpunkten mit kurzen Erläuterungen (je 1–2 Sätze), die beim Schreiben eines 2000-Wörter-Skripts auf Basis dieser Gliederung hilft. Achte darauf, dass die Gliederung in zwei Seiten passt. Deine Gliederung soll:
 
-- Begin with a working title for the documentary.
-- Füge ein a brief Einleitung that sets the stage for the documentary's subject matter.
-- Develop main section headings that represent key parts of the documentary. For each section:
-  - Gib einen bullet point for the title of the section.
-  - Füge ein a brief explanation or Ziel of the section in 1-2 sentences.
-  - Suggest potential Inhalt, stories, or points to be covered in this section.
-- Conclude with a section or bullet point summarizing the overall documentary message or takeaway.
-- Stelle sicher the Gliederung is logically organized to transition smoothly between sections.
+- Mit einem Arbeitstitel für den Dokumentarfilm beginnen.
+- Eine kurze Einleitung enthalten, die den Rahmen und das Thema des Films setzt.
+- Hauptabschnitte enthalten, die die wichtigsten Teile des Films abbilden. Für jeden Abschnitt:
+  - Gib einen Stichpunkt mit dem Titel des Abschnitts an.
+  - Füge eine kurze Erklärung oder das Ziel des Abschnitts in 1–2 Sätzen hinzu.
+  - Schlage mögliche Inhalte, Geschichten oder Punkte vor, die in diesem Abschnitt behandelt werden.
+- Mit einem Abschnitt oder Stichpunkt enden, der die zentrale Botschaft oder das Fazit zusammenfasst.
+- Logisch aufgebaut sein, damit die Übergänge zwischen den Abschnitten flüssig sind.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.

@@ -1,5 +1,5 @@
 ---
-title: "Erstelle Ebook Marketing Strategie"
+title: "Marketingstrategie für E-Books erstellen"
 category: "AI 4 Content"
 tags: []
 level: "Basic"
@@ -9,13 +9,13 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-Erstelle einen comprehensive marketing Strategie to promote ebooks across multiple online platforms. The ebooks fall into three categories: relationships, women-focused Inhalt, and technology. For each category, provide:
+Erstelle eine umfassende Marketingstrategie, um E-Books auf mehreren Online-Plattformen zu bewerben. Die E-Books gehören zu drei Kategorien: Beziehungen, Inhalte für Frauen und Technologie. Liefere für jede Kategorie:
 
-- A list of suggested social media platforms and online marketplaces most suitable for promoting that category.
-- At least three tailored promotional Inhalt ideas per platform, including sample social media posts, ad copy, or blog post ideas.
-- Platform-specific promotional tactics (e.g., hashtags, timing of posts, use of paid ads, community engagement tactics).
-- Recommendations for visual elements such as images, graphics, or branding to increase engagement.
-- Suggestions for leveraging influencers, email marketing, or cross-promotion opportunities relevant to each ebook category.
-- A timeline or posting Zeitplan for optimal reach and consistency.
+- Eine Liste empfohlener Social-Media-Plattformen und Online-Marktplätze, die sich besonders für die Bewerbung der Kategorie eignen.
+- Mindestens drei zugeschnittene Ideen für Werbeinhalte pro Plattform, einschließlich Beispiel-Posts, Anzeigentexte oder Blogpost-Ideen.
+- Plattformspezifische Werbetaktiken (z. B. Hashtags, Zeitpunkt der Posts, bezahlte Anzeigen, Community-Engagement).
+- Empfehlungen für visuelle Elemente wie Bilder, Grafiken oder Branding, um die Interaktion zu erhöhen.
+- Vorschläge zur Nutzung von Influencerinnen und Influencern, E-Mail-Marketing oder Cross-Promotion, passend zur jeweiligen E-Book-Kategorie.
+- Einen Zeitplan bzw. Posting-Plan für optimale Reichweite und Konsistenz.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.

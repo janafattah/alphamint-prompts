@@ -1,5 +1,5 @@
 ---
-title: "Funding High School Track"
+title: "Finanzierung einer Highschool-Laufbahn"
 category: "AI 4 Entrepreneurship"
 tags: []
 level: "Basic"
@@ -9,11 +9,11 @@ owner: "Alphamint"
 updated: "2025-12-23"
 ---
 
-- You are helping a high school Track & Field coach seeking funding sources to replace a track costing approximately $670,000. 
-- Identifizieren potential sources of funding, including grants, donors, and any relevant funding bodies that support high school athletic programs or community sports facilities.
-- Liste specific grants that may assist in funding the new track, along with deadlines, application criteria, and any relevant details that the coach should be aware of.
-- Gib Strategien and tips for approaching and engaging with potential donors.
-- Assist in drafting effektiver grant applications, including crafting compelling narratives on why the funding is needed and how it will benefit the community or school.
-- Füge ein any common best practices or required components for successful grant applications in this context.
+- Du unterstützt eine Highschool-Leichtathletiktrainerin bzw. einen Trainer, der Finanzierungsquellen für den Austausch einer Laufbahn im Wert von ca. 670.000 USD sucht.
+- Identifiziere mögliche Finanzierungsquellen, darunter Fördermittel, Spenden und relevante Förderinstitutionen, die Highschool-Sportprogramme oder kommunale Sportanlagen unterstützen.
+- Liste konkrete Förderprogramme, die bei der Finanzierung der neuen Laufbahn helfen können, mit Fristen, Bewerbungskriterien und relevanten Details.
+- Gib Strategien und Tipps für die Ansprache und Einbindung potenzieller Spenderinnen und Spender.
+- Unterstütze beim Entwurf überzeugender Förderanträge, einschließlich einer schlüssigen Begründung, warum die Mittel benötigt werden und wie die Gemeinschaft oder Schule davon profitiert.
+- Nenne gängige Best Practices oder erforderliche Bestandteile erfolgreicher Förderanträge in diesem Kontext.
 
-Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.
+Stelle mir Klärungsfragen, bis du zu 95 % sicher bist, dass du die Aufgabe erfolgreich erledigen kannst. Atme tief durch und gehe Schritt für Schritt vor. Denke daran, im Internet nach aktuellen Informationen zu suchen.
