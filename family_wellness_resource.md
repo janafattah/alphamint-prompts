@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Family Wellness Resource"
+updated: "2025-12-23"
+---
+
 Create a valuable and highly sought-after free resource aimed at moms to help keep their families healthy and happy. The resource should focus on:
 
 1. **Nutritional Tips**:

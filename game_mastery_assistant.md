@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Gaming"
+language: "en"
+tags: []
+title: "Game Mastery Assistant"
+updated: "2025-12-23"
+---
+
 Create a step-by-step plan to develop a custom ChatGPT designed to assist gamers on any platform in mastering technical skills and defeating opponents. The guide should be comprehensive and cover the following aspects:
 
 - **Objective Setting**: Define clear goals for the ChatGPT, such as improving specific technical skills, strategies for different game genres, or providing platform-specific advice.

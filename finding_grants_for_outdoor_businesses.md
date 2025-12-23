@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Finding Grants For Outdoor Businesses"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for finding grants for a new business that involves nature, camping, glamping, farming, and agriculture. Your output should include:
 
 - **Types of Grants:**

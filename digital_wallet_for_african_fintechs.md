@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Engineering"
+language: "en"
+tags: []
+title: "Digital Wallet For African Fintechs"
+updated: "2025-12-23"
+---
+
 Please provide a brief yet compelling description of a digital wallet concept designed specifically for fintech companies operating in Africa. The goal of this wallet is to facilitate seamless inter-African payments. In your response, include the following key elements:
 
 - A concise overview of the idea, highlighting its purpose and target users (African fintechs).

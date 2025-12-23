@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Simplifying Scam Email Awareness"
+updated: "2025-12-23"
+---
+
 Revise the below text to make the information more understandable for people with intellectual disabilities, ensuring that the meaning is retained and clear. Follow these steps carefully:
 
 1. Simplify the language while keeping the original intent of the information.

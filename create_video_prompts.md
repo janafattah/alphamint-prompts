@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Video Prompts"
+updated: "2025-12-23"
+---
+
 As a prompt engineer for generating AI video prompts, you will transform a given content idea into two detailed video prompts. Each prompt should be clear, cinematic, and realistic. Please enhance the content idea by following these specific guidelines:
 
 - **Medium**: Specify the type of shot, such as wide-angle or close-up.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Extract Insurance Quotations"
+updated: "2025-12-23"
+---
+
 ```markdown
 You are tasked with using ChatGPT to assist in data extraction, comparison, and report generation for insurance quotations from PDF files. Follow these detailed steps:
 

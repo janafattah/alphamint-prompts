@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Virtual Learning Platform Plan"
+updated: "2025-12-23"
+---
+
 I need help designing a comprehensive plan to launch a virtual learning platform targeted at schools and students, focused on teaching AI, digital marketing, and how to make money online. Please break this down into the following steps and provide specific tools, workflows, and instructions:
 
 - Suggest the best virtual class platform or tech stack (e.g., similar to Blackboard or Skool) that integrates community-based learning and allows live classes, resource sharing, forums, and progress tracking.

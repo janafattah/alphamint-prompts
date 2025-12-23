@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Connect Chapters Cohesively"
+updated: "2025-12-23"
+---
+
 Create a list of non-fiction writing prompts that focus on connecting different chapters cohesively in a self-help book. The aim is to ensure the book feels like a unified whole rather than a fragmented collection of insights. The book’s theme revolves around exercises and advice for everyday life using C. G. Jung's process. Consider the following elements while crafting the prompts:
 
 - **Chapter Themes and Connections:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Engaging Drama Stories"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I need you to generate short, engaging drama stories (500-700 characters) tailored for TikTok and YouTube Shorts. These stories should be suspenseful, dramatic, and action-packed to capture the audience’s attention and leave them stunned. Follow these guidelines:  

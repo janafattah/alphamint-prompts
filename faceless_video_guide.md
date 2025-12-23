@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Faceless Video Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to produce faceless informative videos about a sailing lifestyle using generative video and real-life footage. Cover the following aspects in your response:
 
 - **Overview of Faceless Video Generation Technology:**

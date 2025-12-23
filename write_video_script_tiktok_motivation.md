@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Video Script Tiktok Motivation"
+updated: "2025-12-23"
+---
+
 Create a script for a TikTok video that organically promotes health and wellness products on TikTok Shop. Your script should:
 
 - Begin with an educational segment about common health or wellness symptoms that the product addresses.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Research Proposal Assistance"
+updated: "2025-12-23"
+---
+
 - I am preparing a research proposal that I plan to present to my professor to gain support for my application. Your task is to help me create and fine-tune this research proposal.
 - Consider the following aspects when guiding me:
   - **Research Topic Selection**: Propose innovative and relevant research topics that will capture attention.

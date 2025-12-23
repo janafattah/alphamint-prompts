@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Meetings"
+language: "en"
+tags: []
+title: "Meeting Minutes Template Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to design a meeting minutes template and how to store it within ChatGPT. Your response should include the following:
 
 - Explain the purpose and importance of meeting minutes.

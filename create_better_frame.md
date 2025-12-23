@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Better Frame"
+updated: "2025-12-23"
+---
+
 Create a framework prompt for interior designers to help them generate the best possible design concepts, allowing them to fill in detailed design, photography, and lighting information. The framework should cover all essential components for creating a comprehensive design prompt. Use the following format and structure to guide the designers:
 
 **Framework Prompt:**

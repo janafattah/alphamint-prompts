@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Wellness Brand Business Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed business plan for a new wellness brand that sources Grade A seamoss exclusively from St. Lucia. The plan should cover the following components:
 
 - **Mission and Vision**: Clearly define the brand's mission and vision statements that reflect its focus on premium wellness products using St. Lucian seamoss.

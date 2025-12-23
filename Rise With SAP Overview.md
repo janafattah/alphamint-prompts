@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Rise With Sap Overview"
+updated: "2025-12-23"
+---
+
 - Provide an overview of SAP's new offering, RISE with SAP. Include details about its key components and benefits.
 - Explain why obtaining certification in SAP is valuable for professionals, particularly with a focus on RISE with SAP.
 - Describe the available certification options for RISE with SAP, including recommended paths for beginners.

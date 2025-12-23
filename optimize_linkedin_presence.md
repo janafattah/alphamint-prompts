@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Optimize Linkedin Presence"
+updated: "2025-12-23"
+---
+
 Analyze the request, then formulate a detailed prompt:
 
 ---

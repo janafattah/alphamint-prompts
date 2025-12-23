@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Guide For Healing After Infidelity"
+updated: "2025-12-23"
+---
+
 Create a detailed, empathetic, and psychologically informed guide for someone struggling to cope with and heal from the emotional aftermath of a spouse’s infidelity. This guide should explore the core emotional challenges, address the root fears, and offer practical steps to rebuild trust and connection within the marriage. Use the following structure:
 
 - Begin with a compassionate introduction that validates the emotional complexity of dealing with infidelity in marriage.

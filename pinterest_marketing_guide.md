@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Pinterest Marketing Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on learning and mastering Pinterest marketing from scratch. The guide should cover:
 
 - **Introduction to Pinterest:**

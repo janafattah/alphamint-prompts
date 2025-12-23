@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Presentation Deck"
+updated: "2025-12-23"
+---
+
 Certainly! Here is the refined ChatGPT prompt:
 
 ---

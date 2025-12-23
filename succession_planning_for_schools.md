@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Succession Planning For Schools"
+updated: "2025-12-23"
+---
+
 Create a detailed succession plan for a school transitioning from a long-serving retiring school director to a new replacement. The plan should ensure a smooth transfer of leadership while preserving institutional knowledge and maintaining stability for students, staff, and the broader school community. Address the following key areas:
 
 - **Transition Strategy**: Outline the step-by-step process for transitioning from the retiring director to the new one, including key milestones and timelines.

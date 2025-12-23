@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Psychologie"
+language: "en"
+tags: []
+title: "Mental Health Conditions Report"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 Create a comprehensive research report analyzing the 20 most treatable mental health conditions within the African Caribbean community in the UK that can be effectively managed through psychotherapy and are recognized by the NHS. Your report should be data-driven, well-structured, and backed by statistical evidence with citations. Follow these key components:  

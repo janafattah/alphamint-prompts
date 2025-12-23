@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Careers Presentation Overview"
+updated: "2025-12-23"
+---
+
 Create a 10–12-slide presentation deck for a career day talk aimed at high school students. The goal is to inspire and inform them through a personal career journey, emphasizing that career paths are often non-linear. Use the following guidance to structure the deck:
 
 - Title Slide: Include a compelling title that reflects the theme (e.g., “Careers Are Not Linear: My Journey from Law to School Leadership”).

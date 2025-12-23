@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Research Paper Topic"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and innovative research paper topic suggestion related to reducing dementia risk. Focus on the following areas:
 
 - **Diet and Nutrition**: Explore specific diets, dietary patterns, or nutrients that may influence dementia risk, including novel foods or supplements.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Employee Satisfaction Survey"
+updated: "2025-12-23"
+---
+
 Create an employee satisfaction and engagement survey for an engineering company, and suggest methods to present the results effectively. Specifically, address the following components:
 
 1. **Survey Questions**:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Government Contract Opportunities"
+updated: "2025-12-23"
+---
+
 Act as a research assistant skilled in sourcing government contract opportunities. I want you to help me find current or upcoming state, local, and city-level government contract opportunities that align with my professional background and expertise. Use official procurement websites (e.g., SAM.gov, state and city contract portals), grants databases, and recent RFP/RFI postings. Focus your search specifically on:
 
 - Contracts related to the Nursing Profession

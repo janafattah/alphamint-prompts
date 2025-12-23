@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Generational Insights Masterclass"
+updated: "2025-12-23"
+---
+
 Create an in-depth, data-driven ebook and masterclass content focused on the six living generations in today’s society. The final output should be structured, well-organized, and suitable for positioning the author as an authority in generational studies, with compelling, actionable insights. Cover the following aspects for each generation:
 
 - Define and describe each of the six generational cohorts (e.g., naming and years range), with clear distinctions based on peer-reviewed data and expert consensus.

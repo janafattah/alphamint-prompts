@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Outplacement Service Proposal"
+updated: "2025-12-23"
+---
+
 Create a detailed proposal for an AI-based service that can replace the human outplacement services currently offered by companies as part of an exit package. The AI service should help individuals reenter the job market and find new employment over a period of 6 months. The proposal should cover the following components:
 
 - **Resume Assistance**: Describe how the AI service will help users create, update, and optimize their resumes. Include features like keyword optimization, formatting suggestions, and tailoring resumes for different industries and roles.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Soccer Scouting Report Enhancements"
+updated: "2025-12-23"
+---
+
 I need help improving my soccer scouting reports for an English club, focusing on players in South America. Please provide me with a variety of phrases and terminology for the following sections of the report:
 
 - **Physical Attributes**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Social Media Campaign Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for launching a social media campaign to promote a new coffee brand. The coffee is a Robusta variety from Uganda. Include strategies for using ChatGPT and any other recommended AI tools for marketing purposes. The goal is to maximize brand exposure and engagement on social media platforms. Consider the following aspects in your response:
 
 - **Identify Target Audience**: Provide an approach for identifying and defining the target audience for the coffee brand. Include demographic and psychographic factors that are relevant to coffee consumers.

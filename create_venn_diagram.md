@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Visuals"
+language: "en"
+tags: []
+title: "Create Venn Diagram"
+updated: "2025-12-23"
+---
+
 - Create a visual representation of a Venn diagram with three intersecting circles.
 - Ensure each circle is distinctly labeled as follows:
   - Label one circle "MIND" and color it green.

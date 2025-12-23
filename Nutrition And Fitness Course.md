@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Nutrition And Fitness Course"
+updated: "2025-12-23"
+---
+
 Design an e-learning course focused on the basics of nutrition and fitness by addressing the following key components:
 
 - **Content Creation**:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Video Script Tiktok Marcus Garvey"
+updated: "2025-12-23"
+---
+
 Create a detailed TikTok script based on my manuscript for a book about Marcus Garvey. Your goal is to produce an educational and engaging script that both informs viewers about Marcus Garvey and encourages them to purchase the book. Follow these guidelines:
 
 - **Objective**: The TikTok script should educate viewers on key aspects of Marcus Garvey's life and achievements while also promoting the book.

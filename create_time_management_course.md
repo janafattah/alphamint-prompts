@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Time Management Course"
+updated: "2025-12-23"
+---
+
 Develop a comprehensive course on time management that can be sold in various formats. Follow these steps:
 
 1. **Idea Refinement:**

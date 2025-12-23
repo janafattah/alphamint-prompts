@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Faceless Video App"
+updated: "2025-12-23"
+---
+
 Create a detailed explanation of a "Faceless Video App" concept. Your response should cover the following points:
 
 - Define what a faceless video app is.

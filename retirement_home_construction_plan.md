@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Retirement Home Construction Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for the construction project of a retirement home for retired dons at Kenyatta University, incorporating both the Work Breakdown Structure (WBS) and Organization Breakdown Structure (OBS). Follow these guidelines:
 
 - **Work Breakdown Structure (WBS):**

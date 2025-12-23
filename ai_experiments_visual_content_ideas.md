@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Ai Experiments Visual Content Ideas"
+updated: "2025-12-23"
+---
+
 Create an informative and engaging response for the following activities, which will be used across various platforms including YouTube, work projects, social media, and AI experiments involving pictures and videos:
 
 1. YouTube:

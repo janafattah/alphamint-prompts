@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Muscle Car Video Prompt"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT prompt that describes a beautiful video of a muscle car, focusing on the movement. Ensure to use specific details and keywords related to camera movement, camera angles, and lighting styles. Here's a structured approach:
 
 - **Video Subject**: Muscle car

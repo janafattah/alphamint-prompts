@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create A Poppy Ai Prompt"
+updated: "2025-12-23"
+---
+
 Create an AI prompt that functions like Poppy AI:
 
 - Describe what Poppy AI is and what its main functionalities are.

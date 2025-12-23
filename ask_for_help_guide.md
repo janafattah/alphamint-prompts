@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ask For Help Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to ask for assistance with university school assignments and how to break down a problem to effectively solve it. Make sure to include the following:
 
 - **Identifying the Problem**: How to clearly define and understand the assignment or problem at hand.

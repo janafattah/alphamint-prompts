@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Apply Financial Aid Private Schools"
+updated: "2025-12-23"
+---
+
 - Provide guidance on how to apply for financial aid for private school education in New Jersey.
 - Outline the typical steps involved in applying for financial aid for private schools.
 - List and explain the eligibility criteria commonly required for financial aid applications.

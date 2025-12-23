@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Guidance"
+updated: "2025-12-23"
+---
+
 Please detail what you need assistance with. Provide any relevant context or specific points you want to address. Here are some examples:
 
 - "Explain the importance of cybersecurity in modern businesses."

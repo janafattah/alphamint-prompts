@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Edit Comic Effectively"
+updated: "2025-12-23"
+---
+
 Certainly! Here's the ChatGPT prompt:
 
 ---

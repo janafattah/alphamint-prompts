@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Video Sales Letter Script"
+updated: "2025-12-23"
+---
+
 Create a comprehensive script for a Video Sales Letter (VSL) aimed at promoting a new product available at [WEBSITE].
 The VSL should:
 

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Comprehensive Article"
+updated: "2025-12-23"
+---
+
 - Write a comprehensive website article of at least 1,000 words. 
 - The article should be informative, engaging, and well-structured.
 - Choose an interesting and relevant topic suitable for a broad audience.

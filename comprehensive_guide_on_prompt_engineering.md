@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Comprehensive Guide On Prompt Engineering"
+updated: "2025-12-23"
+---
+
 Develop a comprehensive guide on becoming a successful prompt engineer. Break down the process into clear and actionable steps. Cover the following aspects in detail:
 
 - **Definition and Role:**

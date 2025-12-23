@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Medical Service"
+updated: "2025-12-23"
+---
+
 - Analyze the provided medical service in accordance with current international medical recommendations and guidelines.
 - Exclude any screening procedures and assess only the pathological nature of the condition.
 - Interpret and provide detailed analysis of findings based on the described medical service attached.

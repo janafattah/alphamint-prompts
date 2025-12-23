@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "30 Day Project Management Course"
+updated: "2025-12-23"
+---
+
 Create a comprehensive step-by-step 30-day course on Project Management for beginners who have little or no prior knowledge. The course should guide participants from foundational concepts to more advanced topics systematically. Ensure each step is clear and detailed. Break down the content into daily lessons that gradually build on each other. Incorporate exercises, practical examples, and assessments to reinforce learning. Pay attention to:
 
 - **Introduction to Project Management**: Explain basic terminologies and principles.

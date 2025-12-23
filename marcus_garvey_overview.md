@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Marcus Garvey Overview"
+updated: "2025-12-23"
+---
+
 Create a comprehensive article on Marcus Garvey. The article should cover the following key aspects in detail:
 
 - **Biographical Information**:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Marketing Sales Letter Outline"
+updated: "2025-12-23"
+---
+
 Create a comprehensive outline of what a marketing sales letter should contain. Consider including the following components:
 
 - **Heading or Subject Line**: Describe how a compelling heading can grab the reader's attention.

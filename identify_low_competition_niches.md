@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Identify Low Competition Niches"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need you to identify untapped or low-competition niches on platforms like TikTok and YouTube that have high potential for scalability. Follow these detailed steps to ensure a comprehensive analysis:  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Floral Harmony Coloring Book Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for a floral harmony-themed coloring book. Your plan should include:
 
 - **Size and Format:**

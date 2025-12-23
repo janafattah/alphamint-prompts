@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Adjusting To Night Shift"
+updated: "2025-12-23"
+---
+
 Consider the following factors as you help me decide whether to pursue a job opportunity with a work shift from Tuesday to Saturday, 2 am to 11 am:
 
 - How to adjust my body clock to the new work hours

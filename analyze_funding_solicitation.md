@@ -1,3 +1,10 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Funding Solicitation"
+updated: "2025-12-23"
+---
 
 Certainly! Here's the refined ChatGPT prompt:
 

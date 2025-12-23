@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Chart Generator Appointment Scheduler"
+updated: "2025-12-23"
+---
+
 Design a System prompt for a Chart Generator and appointment scheduler AI Assistant tailored for users interested in building AI Agents, Systems, and Automation. The prompt should address the following features and functionalities:
 
 - **Data Visualization:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Faceless Tiktok Guidance"
+updated: "2025-12-23"
+---
+
 Help me start a faceless TikTok channel by providing detailed guidance on the following aspects:
 
 - **Content Ideas**: Suggest engaging content ideas suitable for a faceless TikTok channel. Consider trends, challenges, storytelling, tutorials, and other content formats that do not require showing one's face.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Cover Letter"
+updated: "2025-12-23"
+---
+
 "Write a professional and compelling cover letter for a Departmental Head position at a school in South Africa, specifically for the Economic and Management Sciences department. Ensure the cover letter is well-structured, aligned with best practices, and tailored to an educational leadership role. The cover letter should:
 
 - Begin with a strong introduction that states enthusiasm for the role and summarizes key qualifications.  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Audience Analysis Strategies"
+updated: "2025-12-23"
+---
+
 - Conduct a comprehensive analysis of the target audience for a specific industry.
 - Identify and describe the key characteristics that define the audience, such as common interests, behaviors, values, and needs relevant to the industry.
 - Discuss the various segments within the target audience and explain how they might differ or overlap in their characteristics.

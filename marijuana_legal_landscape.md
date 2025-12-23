@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Marijuana Legal Landscape"
+updated: "2025-12-23"
+---
+
 Create a comprehensive explanation that details the legal landscape concerning the sale and use of marijuana and CBD products in the United States. Your response should be tailored for a general presentation to the public and must cover the following key areas:
 
 - **State vs. Federal Laws**: Explain the differences and conflicts between state laws and federal laws regarding the sale and use of marijuana and CBD products. Highlight scenarios where state laws might allow uses that federal law prohibits.

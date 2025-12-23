@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Automation Service Desk"
+updated: "2025-12-23"
+---
+
 I need your advice on AI automations for a global service desk in the digital marketing industry. My team operates in 49 markets and works with the Meta platform, both directly with clients and Meta representatives. Our goal is to reduce issue resolution and response times. Here are the specific points to consider:
 
 - Identify great AI automation tools and technologies that can be implemented in a service desk environment.

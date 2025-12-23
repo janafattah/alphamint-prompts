@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Logo"
+updated: "2025-12-23"
+---
+
 - Design a logo for a team called "12 Filipino Tarsier Throwers" who are competing in an event named "Arabian Bullseye."
 - Consider the following elements to include in the logo:
   - The significance and characteristics of the tarsier, native to the Philippines, which may include features like its distinctive big eyes and small body.

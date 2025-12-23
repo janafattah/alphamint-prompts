@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Marketing Ebook"
+updated: "2025-12-23"
+---
+
 - Assume you're a world-class marketer like David Ogilvy. 
 - Based on an existing PDF, rewrite its content into a new eBook with a minimum word count of 25,000 words.
 - Focus on incorporating marketing perspectives and insights that are consistent with David Ogilvy's principles and techniques.

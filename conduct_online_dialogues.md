@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Conduct Online Dialogues"
+updated: "2025-12-23"
+---
+
 Create a comprehensive concept note for hosting online dialogues. Your output should include the following components:
 
 - **Objective**: Clearly define the purpose and goals of the online dialogues.

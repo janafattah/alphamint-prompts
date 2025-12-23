@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Resale Store Launch Plan"
+updated: "2025-12-23"
+---
+
 Act as a business consultant and conduct a comprehensive research and planning session for launching a new resale consignment store located in Southern California. The store will offer a curated selection of contemporary and coastal-inspired clothing and accessories at affordable to mid-range prices. Please include the following in your response:
 
 - Market Research:

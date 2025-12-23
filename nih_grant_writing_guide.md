@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Nih Grant Writing Guide"
+updated: "2025-12-23"
+---
+
 Create an NIH grant writing guide that outlines the essential components and best practices for writing a successful proposal. The guide should cover the following aspects in detail:
 
 - Overview of NIH grants and their purpose

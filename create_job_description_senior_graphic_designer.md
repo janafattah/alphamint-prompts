@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Job Description Senior Graphic Designer"
+updated: "2025-12-23"
+---
+
 Create a comprehensive job description for a Senior Graphic Designer with the following specifications:
 
 - **Primary Responsibilities**:

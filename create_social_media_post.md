@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Social Media Post"
+updated: "2025-12-23"
+---
+
 Create a customized social media post using the given social media prompt/template, ensuring it aligns with my brand voice and tone. Follow these steps:
 
 1. **Analyze the given social media prompt/template**:

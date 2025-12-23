@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Massage Therapist Curriculum Design"
+updated: "2025-12-23"
+---
+
 Create a structured curriculum for a massage therapist program comprising 144 hours of instruction, divided into three modules, each lasting 48 hours. The classes should be scheduled exclusively on Saturdays and Sundays, with 6 hours of instruction per day over a 12-week period. Provide the following for each module:
 
 - An introduction that provides an overview and sets the context for the module.

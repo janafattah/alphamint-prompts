@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Coloring Book Pages"
+updated: "2025-12-23"
+---
+
 - Create 12 distinct black and white coloring book pages.
 - Each page should be suitable for a coloring book format.
 - Ensure variety in the designs, incorporating different themes or subjects such as nature, abstract patterns, animals, mandalas, or fantasy elements.

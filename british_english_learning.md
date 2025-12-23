@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "British English Learning"
+updated: "2025-12-23"
+---
+
 Help me improve my British English spelling and grammar. I am a student with dyslexia, and I need techniques and exercises that accommodate my learning challenges.
 
 Specifically, I would like the prompt to cover:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Comprehensive Business Plan Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to develop a comprehensive business plan. Your response should cover the following key components:
 
 - **Executive Summary:** Explain its importance and what it should include, such as the business concept, mission statement, and basic information about products or services.

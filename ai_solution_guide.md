@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Solution Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for building an AI solution within a professional services firm's AI Center of Excellence (CoE). Focus on developing an in-depth document that encompasses the entire process, from conception to deployment. Consider the following aspects:
 
 - **Understanding the Problem**: 

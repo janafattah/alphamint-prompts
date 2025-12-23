@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Transcribe Youtube Video"
+updated: "2025-12-23"
+---
+
 - "Your task is to provide a complete transcript of a YouTube video. Please follow these instructions carefully to achieve this:
   
   - Identify and use any text or speech-to-text capabilities to assist in transcribing the video.

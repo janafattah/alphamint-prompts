@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Startups Guidance"
+updated: "2025-12-23"
+---
+
 Here is the ChatGPT prompt:
 
 "I need assistance with the following tasks to start and grow my business:

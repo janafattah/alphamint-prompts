@@ -1,0 +1,49 @@
+---
+title: "Analyze Prose"
+category: "AI 4 Textanalyse"
+tags: []
+level: "Basic"
+output: "Text"
+language: "de"
+owner: "Alphamint"
+updated: "2025-12-23"
+---
+
+I will provide you with a student-written case study and a grading rubric. Your task is to evaluate the case study using the rubric and provide detailed feedback for improvement. Follow these instructions carefully:
+
+- Grade the case study based on the rubric provided, focusing on the key criteria outlined.
+- Evaluate the following core aspects of the writing:
+  - Grammar:
+    - Identifizieren issues with spelling, capitalization, punctuation, and verb usage.
+    - Point out repeated grammatical errors and explain how to fix them.
+  - Organization:
+    - Assess the clarity and logical flow of ideas.
+    - Evaluate the cohesion between paragraphs, effectiveness of transitions, and overall structure.
+  - Overall Effect:
+    - Examine how clearly the main ideas are conveyed.
+    - Determine how effectively the writing supports its claims and engages the reader.
+
+- Assess the following specific elements:
+  - Clear Kommunikation:
+    - Comment on whether the writing is easy to understand and if any sections are vague or ambiguous.
+  - Well-Supported Arguments:
+    - Hebe hervor how convincingly arguments are presented and backed by evidence.
+    - Point out any claims that need additional support or better explanation.
+  - Appropriate Nutze of Sources:
+    - Überprüfung how effectively the student uses sources to reinforce their points.
+    - Check for proper citation and integration of quotes, paraphrasing, or data.
+
+- Gib constructive and specific feedback:
+  - Nutze marginal-style comments to flag specific Beispiele in the text (e.g., “Interesting point – expand on this" or “This paragraph needs clearer transitions”).
+  - Ask probing Fragen to Leitfaden student reflection (e.g., “How does this example support your thesis?”).
+  - Offer global comments at the end to summarize strengths and suggest areas for overall improvement, such as argument clarity, paragraph cohesion, and evidence integration.
+  - Füge ein direct quotes or paraphrased excerpts from the case study to illustrate each point of feedback.
+
+Format your response in the following structure:
+1. Rubric-Based Grade (per category or as a total score)
+2. Zusammenfassung Evaluation
+3. Marginal Comments (organized by paragraph or section)
+4. Fragen for Revision
+5. General Recommendations for Improvement
+
+Stelle mir clarifying Fragen until you are 95% confident you can complete the task successfully. Atme tief durch and take it Schritt für Schritt. Remember to search the internet to retrieve up-to-date Informationen.

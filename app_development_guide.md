@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "App Development Guide"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 I'm developing a new app and I need your help with several aspects. Please provide comprehensive responses to each of the following sub-tasks:

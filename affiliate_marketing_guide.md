@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Affiliate Marketing Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on setting up affiliate marketing for wellness products. Make sure to address the following key points:
 
 - Explain the steps involved in setting up an affiliate marketing strategy specifically for wellness products.

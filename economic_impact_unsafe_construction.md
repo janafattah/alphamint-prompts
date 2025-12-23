@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Economic Impact Unsafe Construction"
+updated: "2025-12-23"
+---
+
 - Examine the economic impacts of unsafe construction practices in Kenya. 
 - Discuss the financial repercussions, including direct and indirect financial losses, that result from such practices.
 - Analyze how unsafe practices can affect project timelines, leading to delays and increased costs.

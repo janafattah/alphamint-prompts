@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Attraction Marketing Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on using attraction marketing effectively. Your response should include:
 
 - An explanation of what attraction marketing is and how it differs from traditional marketing approaches.

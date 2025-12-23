@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Halloween Coloring Book Promotional Script"
+updated: "2025-12-23"
+---
+
 Create a detailed and engaging script for a video aimed at promoting a Halloween-themed coloring book business. The script should include 12 distinct sections or "pages" within the video, each aligned with the theme of Halloween. Use the following guidelines to develop the script:
 
 - **Introduction**: Craft an engaging opening segment that introduces the Halloween-themed coloring book concept.

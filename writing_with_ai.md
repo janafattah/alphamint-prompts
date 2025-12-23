@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Writing With Ai"
+updated: "2025-12-23"
+---
+
 Here is your ChatGPT prompt:
 
 ---

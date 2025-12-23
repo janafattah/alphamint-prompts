@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Adhd Accountability Buddy"
+updated: "2025-12-23"
+---
+
 Create a theme centered around ADHD that acts as an accountability buddy and includes a daily check-in system. Follow these steps to ensure all necessary components are covered:
 
 1. **Theme Development:**

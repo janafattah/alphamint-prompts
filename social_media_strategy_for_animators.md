@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Social Media Strategy For Animators"
+updated: "2025-12-23"
+---
+
 Create a comprehensive strategy to help an animator specializing in music videos attract more musicians and potential clients to their social media platforms, particularly Instagram and TikTok. Include the following elements in your response:
 
 - **Content Strategy**: Suggest types of content that appeal to musicians and showcase animation skills effectively. Consider incorporating behind-the-scenes footage, timelapse animations, and client testimonials.

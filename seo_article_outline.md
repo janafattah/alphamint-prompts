@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Seo Article Outline"
+updated: "2025-12-23"
+---
+
 Create a comprehensive SEO-optimized article outline and content plan:
 
 1. Generate an extensive list of LSI and NLP keywords related to [TOPIC]. Include synonyms, related terms, and industry-specific jargon.

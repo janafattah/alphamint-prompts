@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Improve Fable Structure"
+updated: "2025-12-23"
+---
+
 - Please review the fable provided for editing. Focus on improving the following aspects:
   - **Clarity and Flow**: Ensure that the story is easy to follow and logically structured. Revise any sentences that are confusing or awkward.
   - **Grammar and Punctuation**: Check for and correct any grammatical errors, including syntax, verb tense consistency, punctuation, and spelling.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Luxury Bathroom Description"
+updated: "2025-12-23"
+---
+
 Create a detailed description for an image that depicts a luxury bathroom renovation for a marketing agency client specializing in Kitchen and Bathroom remodeling. The image should:
 
 - Illustrate a spa-like atmosphere using high-end elements.

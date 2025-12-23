@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Practice Tests"
+updated: "2025-12-23"
+---
+
 Create a series of practice test questions and resources tailored for different educational and professional contexts. Ensure that each set of practice questions is designed to match the format and content of the relevant exam or test. Use the following specifications to guide your creation of practice tests:
 
 - **Canadian Universities:**

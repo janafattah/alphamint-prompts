@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Top Mistakes Post"
+updated: "2025-12-23"
+---
+
 Create a compelling and informative social media post about the top mistakes people make when trying to [GOAL] for [AUDIENCE]. Follow these guidelines:
 
 • Begin with an attention-grabbing headline: "The [NUMBER] Biggest Mistakes [AUDIENCE] Make When Trying to [GOAL] (And How to Overcome Them)"

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Learning Stock Trading Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed study plan and study schedule for learning stock trading, with a focus on day trading, over a two-year period with the ultimate goal of trading full-time. The plan should guide the individual from foundational principles to more advanced strategies, incorporating the following elements:
 
 - Begin with foundational principles of stock trading, including market terminology, basic financial analysis, and understanding stock market indices.

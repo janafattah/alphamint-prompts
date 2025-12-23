@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Check Agreement"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT prompt for analyzing and drafting legal contracts with a focus on tourism and banking finance in Maldives:
 
 - Provide a detailed analysis of a given legal contract, with a focus on identifying potential issues such as errors and inconsistencies, particularly in the context of commercial law related to tourism or banking finance.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Control Assessment And Improvement"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "As a seasoned internal auditor or financial regulator, assess the design of a given control and evaluate whether it effectively mitigates the associated risk. Your response should cover the following aspects in detail:  

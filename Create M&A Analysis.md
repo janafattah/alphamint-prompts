@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Create M&a Analysis"
+updated: "2025-12-23"
+---
+
 Certainly! Here is the high-quality ChatGPT prompt based on the analyzed request:
 
 ---

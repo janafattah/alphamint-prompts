@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Produkt"
+language: "en"
+tags: []
+title: "Product Support Inquiry"
+updated: "2025-12-23"
+---
+
 ```
 You are tasked with searching a product database for a small medical products company and returning relevant product data to answer customer questions effectively. Focus on the following tasks:
 

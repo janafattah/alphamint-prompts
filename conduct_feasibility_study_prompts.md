@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Conduct Feasibility Study Prompts"
+updated: "2025-12-23"
+---
+
 You are helping to write a section of a book on conducting a feasibility study within the manufacturing industry, with a specific focus on the food manufacturing sector. Generate a comprehensive set of ChatGPT prompts that can guide users through the major stages of a feasibility study. Each prompt should be tailored to help end users gather insights or perform analysis for the following core components:
 
 - Market feasibility

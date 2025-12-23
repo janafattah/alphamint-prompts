@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Brainstorm Ideas Interactive Quizzes"
+updated: "2025-12-23"
+---
+
 Act as a social media engagement strategist. I need you to generate a list of creative, easy-to-complete interactive quiz or challenge ideas optimized for Instagram that meet the following criteria:
 
 - Designed to solve a specific, common problem faced by my followers or target audience.

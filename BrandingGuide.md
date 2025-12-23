@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Brandingguide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for defining a new business brand and creating a cohesive brand kit. Include detailed descriptions and examples for the following components:
 
 1. **Vision**: 

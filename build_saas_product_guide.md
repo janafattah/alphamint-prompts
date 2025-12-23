@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Produkt"
+language: "en"
+tags: []
+title: "Build Saas Product Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to build a Software as a Service (SAAS) product. Your response should include detailed explanations and step-by-step instructions for each of the following components:
 
 1. **Market Research:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Annual Life Goals Plan"
+updated: "2025-12-23"
+---
+
 Create a comprehensive Annual Plan for 2025 that includes goals across various aspects of life. For each category, provide specific strategies and examples to help achieve those goals. The categories to cover are:
 
 - **Professional Goals**: Outline plans for career advancement, skill development, and networking. Include potential milestones and resources needed.

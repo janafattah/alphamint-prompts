@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Wharton Mba Courses Overview"
+updated: "2025-12-23"
+---
+
 Certainly! Here is the ChatGPT prompt based on the provided request:
 
 ---

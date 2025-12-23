@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Departmental Head Job Description"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 Create a detailed job description for a **Departmental Head** position for **Grades 10-12 (FET Phase)** at a school. The job description should include the following key components:  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Article Structure"
+updated: "2025-12-23"
+---
+
 - Please write a detailed and engaging article on the selected topic.
 - Include an introduction that provides an overview and context.
 - Develop the main body with clear and well-organized sections.

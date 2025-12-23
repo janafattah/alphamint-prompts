@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Overview Construction Process"
+updated: "2025-12-23"
+---
+
 Provide a detailed and comprehensive overview of the construction processes involved in building a residential structure from start to completion. The response should include:
 
 - **Pre-construction phase:**

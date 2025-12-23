@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Developing Transport App"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for developing a user-friendly application for transporting goods between countries, specifically between Zimbabwe and South Africa. The application should cater to users involved in ferrying goods, such as Malaichas, and should include the following features:
 
 - **User Interface and Experience:**

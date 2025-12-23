@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Data Extraction"
+updated: "2025-12-23"
+---
+
 Here is the ChatGPT prompt:
 
 "Please perform the following tasks:

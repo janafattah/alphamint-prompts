@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Faceless Tiktok Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for faceless TikTok videos focused on promoting agile mindedness within AI. The guide should encompass content ideas, production tips, and engagement strategies. 
 
 Please include the following:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Motivation For Cybersecurity Job Seekers"
+updated: "2025-12-23"
+---
+
 Create a series of motivational posts for individuals pursuing careers as cybersecurity and Security Operations Center (SOC) analysts, specifically to support them during their job search journey. The posts should aim to provide encouragement, boost morale, and offer practical advice. Include the following elements:
 
 - Craft messages that emphasize persistence and resilience in the face of challenges during a job search.

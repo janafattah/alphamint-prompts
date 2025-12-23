@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Excel Guide For Business Managers"
+updated: "2025-12-23"
+---
+
 Create a guide on using Microsoft Excel for business managers who want to utilize intermediate-level skills for report creation and management. The guide should include:
 
 - **Key Intermediate Features of Excel**:

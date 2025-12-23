@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Infographic Content"
+updated: "2025-12-23"
+---
+
 - Hi ChatGPT, I need help with two tasks related to blog articles and infographics for my physical therapy clinics in Montréal. 
 
 Task 1: Adding Inline Citations to Blog Articles

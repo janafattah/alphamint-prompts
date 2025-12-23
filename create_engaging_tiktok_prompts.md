@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Engaging Tiktok Prompts"
+updated: "2025-12-23"
+---
+
 Create a list of effective, engaging, and creative prompts for TikTok product videos aimed at driving virality, considering the following elements:
 
 1. **Attention-Grabbing Hooks:**

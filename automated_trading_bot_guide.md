@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Automated Trading Bot Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I want to develop an automated trading bot for both cryptocurrency and stock markets. Please guide me step by step on how to build this bot, covering the following aspects:  

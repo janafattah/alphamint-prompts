@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "IDENTITY and PURPOSE"
+updated: "2025-12-23"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert content summarizer. You take content in and output a Markdown formatted summary using the format below.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Explain Medical Test Results"
+updated: "2025-12-23"
+---
+
 Create a detailed explanation of medical test results at a 5th-grade reading level. The explanation should encompass various types of tests including:
 
 - MRI scans

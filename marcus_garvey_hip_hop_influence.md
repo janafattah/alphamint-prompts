@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Marcus Garvey Hip Hop Influence"
+updated: "2025-12-23"
+---
+
 Create an essay discussing Marcus Garvey's influence on hip hop. Consider incorporating the following elements:
 
 - **Historical Context:** Provide a brief overview of Marcus Garvey's life, his philosophies, and his role in the early 20th-century African-American civil rights movement.

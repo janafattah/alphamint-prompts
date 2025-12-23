@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Childcare Menu Planning Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive menu planning guide for home daycare providers that adheres to the Child and Adult Care Food Program (CACFP) guidelines in the United States. The guide should include:
 
 - Meal and snack ideas for breakfast, lunch, dinner, and snacks that meet CACFP nutritional standards.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Private Healthcare Proposal"
+updated: "2025-12-23"
+---
+
 Create a comprehensive business proposal for someone in South Africa working in private Healthcare. The proposal should include the following sections:
 
 - **Executive Summary**: Provide a brief overview of the proposal, including the main objectives and the key points that will be discussed.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Hooks Youtube Video"
+updated: "2025-12-23"
+---
+
 ```
 Generate a list of viral YouTube video ideas that have the potential to attract a large audience and engage viewers. Ensure to:
 

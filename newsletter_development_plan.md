@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Newsletter Development Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for developing and monetizing a newsletter on Substack. Address the following components:
 
 - **Brainstorming and Identifying Niches:**

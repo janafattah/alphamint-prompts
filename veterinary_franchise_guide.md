@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Veterinary Franchise Guide"
+updated: "2025-12-23"
+---
+
 Develop a comprehensive guide and support system for setting up and running a veterinary practice franchise using ChatGPT. The following areas should be covered to help the practice thrive:
 
 - **Franchise Setup**: 

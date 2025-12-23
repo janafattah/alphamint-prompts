@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Cultural Competency In Leadership"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on enhancing cultural competency as an inclusive leadership skill within the tech sector. Address the following points:
 
 - Define cultural competency and explain its importance in the context of inclusive leadership.

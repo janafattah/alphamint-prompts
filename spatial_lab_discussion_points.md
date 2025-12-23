@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Spatial Lab Discussion Points"
+updated: "2025-12-23"
+---
+
 I am meeting Matt Forrest today to explore how I can leverage his services for learning and building an app in the geospatial industry. I am both a founder and a hands-on developer, so I want to tailor my discussion to cover both these perspectives. Here's the information about Matt's offering and what I need to address in my conversation:
 
 - Matt's offering is called "Spatial Lab," which is a membership community designed to improve geospatial technology skills in a flexible and cost-effective way.

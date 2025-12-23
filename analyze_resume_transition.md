@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Resume Transition"
+updated: "2025-12-23"
+---
+
 Create a resume and cover letter tailored for a career transition from a finance professional to an account manager in the information technology support industry. Consider the following sub-tasks and requirements:
 
 - **Identify Transferable Skills:**

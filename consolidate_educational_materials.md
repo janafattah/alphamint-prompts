@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Consolidate Educational Materials"
+updated: "2025-12-23"
+---
+
 Sure! Here is the high-quality ChatGPT prompt:
 
 ---

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Automated Digital Marketing Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on automated digital marketing services that includes the following components:
 
 - **Definition and Overview**: Explain what automated digital marketing services are and their purpose in modern business strategies.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Customer Service Interaction"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with performing a detailed quality assurance analysis on a customer service ticket between an agent and a customer. Your goal is to provide insightful feedback that highlights both strengths and areas for improvement in the agent's performance. Think creatively and consider perspectives that may not be immediately obvious. Please follow these steps:

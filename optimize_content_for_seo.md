@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Optimize Content For Seo"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on optimizing content for SEO, addressing all relevant dimensions. Your response should cover the following aspects:
 
 - Research and use strategies for both short and long-tail keywords. Discuss how to balance these keywords to capture a broad and niche audience effectively.

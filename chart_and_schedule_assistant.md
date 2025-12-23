@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Chart And Schedule Assistant"
+updated: "2025-12-23"
+---
+
 Create a System prompt for a Chart Generator and appointment scheduler AI Assistant designed for users interested in building AI Agents, Systems, and Automation. The system should be able to:
 
 - Generate various types of charts and graphs based on user-provided data.

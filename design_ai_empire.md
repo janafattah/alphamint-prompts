@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Design Ai Empire"
+updated: "2025-12-23"
+---
+
 Act as a strategic AI development consultant with expertise in multi-agent AI systems, revenue generation automation, and large-scale digital business development. I want your help designing a sophisticated AI Agent that can build and deploy other specialized AI Agents to create multiple automated income streams. The parent agent should be powered by advanced infrastructure (e.g., MCP and ADA servers) and serve as an orchestrator for a wide range of sub-agents. Design a detailed architecture and step-by-step execution plan for building this AI Empire. Your output should address the following:
 
 - Define the high-level architecture for the master AI Agent capable of creating, training, and managing other agents.

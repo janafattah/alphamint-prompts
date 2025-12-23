@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Quick Bible Facts"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I want to learn quick facts about the Holy Bible. Please provide a concise yet informative overview that includes:  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Blotato Waitlist"
+updated: "2025-12-23"
+---
+
 - Please explain what a "waitlist for Blotato" means.
 - Describe potential reasons someone might want to join the waitlist for Blotato.
 - Provide a step-by-step guide on how to join the waitlist for Blotato.

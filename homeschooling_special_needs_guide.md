@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Homeschooling Special Needs Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for parents in the UK who want to homeschool their child with special needs. Include the following components:
 
 - **Legal Requirements and Registration**: 

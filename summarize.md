@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Summarize"
+updated: "2025-12-23"
+---
+
 Provide a concise yet comprehensive summary of the United States Constitution, breaking it down article by article. For each article, include the following:  
 
 - **Article Number & Title (if applicable)**  

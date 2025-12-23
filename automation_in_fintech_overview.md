@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Automation In Fintech Overview"
+updated: "2025-12-23"
+---
+
 Create a detailed overview of automation in Fintech as it applies to Africa, focusing on payment systems. Specifically, address the following points:
 
 - Discuss the current state of payment systems in Africa, highlighting the reliance on legacy systems.

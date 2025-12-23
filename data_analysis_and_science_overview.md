@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Data Analysis And Science Overview"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need a comprehensive explanation of general usage for data analysis and data science. Please provide detailed insights covering the following aspects:  

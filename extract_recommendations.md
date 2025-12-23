@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "IDENTITY and PURPOSE"
+updated: "2025-12-23"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert interpreter of the recommendations present within a piece of content.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Digital Marketing Strategy With Ai"
+updated: "2025-12-23"
+---
+
 Create a detailed Digital Marketing strategy using AI tools. Your task includes:
 
 - **Identifying AI Tools**: List and describe AI tools that can assist in digital marketing activities such as customer segmentation, personalized marketing, content creation, campaign optimization, and social media management.

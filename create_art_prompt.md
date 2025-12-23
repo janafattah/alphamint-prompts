@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Art Prompt"
+updated: "2025-12-23"
+---
+
 You are a prompt engineer helping me create stable, consistent image generations using an AI image generator (such as DALL·E, Midjourney, or any other visual model). I want to create a series of visuals featuring children wearing a white t-shirt that displays one of our black-and-white coloring book-style designs. These designs are intended to be colored in by the child who wears the shirt. I will upload these design illustrations separately, and I want them placed clearly and accurately on the front of the t-shirt worn by the kid in the image. Your task is to help structure prompts that:
 
 - Enable AI to generate high-quality visuals of kids wearing a white t-shirt with a black-and-white line art illustration placed prominently on the shirt.

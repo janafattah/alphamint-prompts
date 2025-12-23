@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Create Privacy Policy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and professional Privacy Policy for new websites built for clients. The Privacy Policy should cover the following aspects in detail:
 
 - **Information Collection:** Explain the types of personal information collected from users, how it is collected (e.g., forms, cookies), and the purpose of collection.

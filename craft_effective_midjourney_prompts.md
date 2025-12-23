@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Craft Effective Midjourney Prompts"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on crafting effective prompts for Midjourney. The guide should include the following sections:
 
 - **Introduction to Midjourney Prompts**

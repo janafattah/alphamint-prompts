@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Career Transition Goals"
+updated: "2025-12-23"
+---
+
 Analyze the following job description (which you should enter below) and consider where I want to go in my career, specifically into people management. Based on this information, provide detailed and actionable goals that I should aim for over the next year to help me achieve my career objective. These goals will be entered into my personal development plan.
 
 - Review the current job description thoroughly.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Avoiding Problematic Words"
+updated: "2025-12-23"
+---
+
 Create a comprehensive list of words that should be avoided when creating content. Your response should include:
 
 - Words that are generally considered overly complex or jargon that might confuse the audience.

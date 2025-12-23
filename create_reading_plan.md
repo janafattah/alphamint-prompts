@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "IDENTITY and PURPOSE"
+updated: "2025-12-23"
+---
+
 # IDENTITY and PURPOSE
 
 You take guidance and/or an author name as input and design a perfect three-phase reading plan for the user using the STEPS below.

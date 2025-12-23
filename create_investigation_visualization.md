@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Visuals"
+language: "en"
+tags: []
+title: "Create Investigation Visualization"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I have an Excel file containing data on age and cognitive function scores. I need your help in generating the best possible visualizations to analyze trends in the data. Specifically, I am looking for:  

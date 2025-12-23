@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Independent Educational Consultants Challenges"
+updated: "2025-12-23"
+---
+
 - Provide detailed information on the biggest challenges faced by Independent Educational Consultants (IECs).
 - Include key data or statistics related to these challenges.
 - Refer to any recent studies or reports conducted in the last 5 years that focus on these challenges.

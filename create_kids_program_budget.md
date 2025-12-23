@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Kids Program Budget"
+updated: "2025-12-23"
+---
+
 Create a comprehensive budget for a kids program based on the following details:
 
 - **Project Duration**: Define how many days the program will run.

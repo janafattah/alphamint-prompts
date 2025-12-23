@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Prompt Engineering Format"
+updated: "2025-12-23"
+---
+
 - Create a detailed format similar to RISEN that can be used consistently for generating prompts.
 - Ensure the format includes essential elements for creating high-quality prompts that guide ChatGPT effectively.
 - Include guidelines for prompt consistency, clarity, and specificity.

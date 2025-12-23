@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Gather Freelance Contacts"
+updated: "2025-12-23"
+---
+
 Here is the ChatGPT prompt:
 
 "I need you to help me gather contact information from LinkedIn and the internet for businesses, magazines, and organizations that could be interested in my freelance writing services. Specifically, target those that need content writing for their audience interested in an active, healthy lifestyle. Follow these steps:

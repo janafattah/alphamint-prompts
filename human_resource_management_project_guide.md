@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Human Resource Management Project Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for a certified human resource management industry-based project. Your response should include, but is not limited to, the following sections:
 
 - **Project Scope and Objectives:**

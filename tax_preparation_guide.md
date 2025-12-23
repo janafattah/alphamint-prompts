@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Tax Preparation Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need assistance with preparing my personal taxes in an organized and efficient manner. Please help me with the following:  

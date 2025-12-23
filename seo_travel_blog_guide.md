@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Seo Travel Blog Guide"
+updated: "2025-12-23"
+---
+
 Prompt:
 
 I am writing a travel blog article about my 3-day trip to St. Augustine, Florida, specifically highlighting "23 Places You Must See in St. Augustine." I need you to guide me in preparing this article so that it is well-optimized for Google search and SEO best practices. Please provide detailed advice on the following:

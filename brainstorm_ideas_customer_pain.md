@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Brainstorm Ideas Customer Pain"
+updated: "2025-12-23"
+---
+
 - Analyze user interactions and discussions on Reddit and Quora to identify unmet needs or desires for applications that users express interest in.
 - Focus on extracting key themes, specific pain points, and frequent feature requests mentioned in user comments or posts related to apps and technology.
 - Summarize the data to highlight potential app ideas that do not currently exist but are in demand according to user discussions on these platforms.

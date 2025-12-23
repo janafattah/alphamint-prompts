@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Credit Card Management"
+updated: "2025-12-23"
+---
+
 Create a detailed plan to design a spreadsheet or form for managing multiple credit cards. Ensure this tool helps track and analyze several key financial metrics to maintain credit card utilization under 30% through bi-weekly payments. Specifically, your response should include:
 
 - Instructions on how to set up a spreadsheet or form with fields for each key metric: credit card limits, balances due, statement dates, and credit utilization.

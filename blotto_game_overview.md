@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Gaming"
+language: "en"
+tags: []
+title: "Blotto Game Overview"
+updated: "2025-12-23"
+---
+
 Tell me more about the game Blotto, also known as the Colonel Blotto game. Please include the following details:
 
 - A brief overview of what Blotto is.

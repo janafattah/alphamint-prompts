@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Presentation Content Outline"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and professional presentation content outline using the following guidelines:
 
 - **Input Documents**: Incorporate information from multiple documents, including:

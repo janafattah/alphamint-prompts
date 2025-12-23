@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Coaching"
+language: "en"
+tags: []
+title: "Find Clients For Business Coaching"
+updated: "2025-12-23"
+---
+
 Where can I find potential clients who invest in business coaching? Provide a detailed response that includes:  
 
 - Online platforms, websites, and forums where entrepreneurs and business owners seek coaching services.  

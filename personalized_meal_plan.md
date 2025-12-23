@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Personalized Meal Plan"
+updated: "2025-12-23"
+---
+
 Create a personalized meal plan for a client based on their profile information. Here is what you need to do:
 
 1. Retrieve the following profile information from the client database:

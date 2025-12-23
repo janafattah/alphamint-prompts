@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Instagram Strategy Guide"
+updated: "2025-12-23"
+---
+
 I am looking to improve my understanding and utilization of AI, specifically for creating effective Instagram posts. I currently invest money in online ads but feel out of my depth with AI technology and social media strategies. Please develop a comprehensive guide for generating engaging and effective prompts for Instagram posts tailored to a legal profession. The guide should include:
 
 - Key elements needed in an effective Instagram post for a lawyer.

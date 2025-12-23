@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Evaluate Notion Templates"
+updated: "2025-12-23"
+---
+
 Create a comprehensive evaluation and rating system for Notion "second brain" templates. Use the following guidelines to structure your analysis:
 
 ### Evaluate Core Features

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Digital Marketing Daily Method"
+updated: "2025-12-23"
+---
+
 Create a detailed Daily Method of Operation for a Digital Marketing Course you recently purchased. Use the steps below to guide you in crafting a structured and effective daily routine that enhances your learning and implementation of digital marketing strategies:
 
 - **Course Overview**: Briefly describe the main topics and objectives of the digital marketing course. What skills or knowledge does it aim to impart?

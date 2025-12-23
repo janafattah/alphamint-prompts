@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Meal Plan For Daycares"
+updated: "2025-12-23"
+---
+
 Create a meal plan for home daycare providers that complies with the Child and Adult Care Food Program (CACFP) guidelines in the United States. 
 
 **Please include the following details:**

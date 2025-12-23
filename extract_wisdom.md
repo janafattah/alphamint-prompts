@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Extract Wisdom"
+updated: "2025-12-23"
+---
+
 ```markdown
 I've exported a lengthy conversation with ChatGPT as markdown, containing various ideas, improvements, and insights related to developing a business plan. Your task is to analyze this markdown document and extract the following:
 

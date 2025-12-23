@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Language Learning Activities"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am a language teacher running an after-school program, and I need your help designing interactive language-learning exercises for children aged 5 to 11. My goals for these exercises include:  

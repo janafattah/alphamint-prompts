@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Case Document"
+updated: "2025-12-23"
+---
+
 Create a case for support document for an NGO that focuses on sustainable development, environment, biodiversity conservation, and climate change, with a specific focus on the Cockpit Country in Jamaica. This NGO promotes ecotourism as an alternative livelihood for community residents. The ecotourism venture is insufficient to fund the organization's broader environmental conservation and climate change adaptation efforts. 
 
 To help guide your document creation, please cover these aspects:

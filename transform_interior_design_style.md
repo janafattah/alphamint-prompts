@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Transform Interior Design Style"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT prompt that guides ChatGPT to transform an interior photo into a new design style while retaining specific elements:
 
 - You will be provided with a picture of an interior space.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Community Association Constitution"
+updated: "2025-12-23"
+---
+
 Create a comprehensive constitution for a community association by addressing the following elements:
 
 - **Name of the Association**: Specify the official name of the community association.

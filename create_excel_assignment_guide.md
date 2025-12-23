@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Excel Assignment Guide"
+updated: "2025-12-23"
+---
+
 - Please assist in completing an assignment project and transferring the results to an Excel sheet.
 - Ensure that the work is submitted as if it were done on ChatGPT.
 - Provide step-by-step instructions for effectively completing this assignment, including:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Engaging Writing Prompts"
+updated: "2025-12-23"
+---
+
 I am a teacher and book author who writes books for primary and secondary students, as well as novels. I use a lot of illustrations and design my own book covers to cut costs. I need your help in creating effective and engaging prompts for ChatGPT. Here are the specific areas I need assistance with:
 
 - **Generating Writing Prompts:**

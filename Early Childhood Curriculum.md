@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Early Childhood Curriculum"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:  
 
 I need to create a comprehensive early childhood curriculum for a 52-week program serving children from birth to age five. The curriculum should be divided into two main categories:  

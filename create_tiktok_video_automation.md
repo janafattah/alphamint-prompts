@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Tiktok Video Automation"
+updated: "2025-12-23"
+---
+
 - Create a list of 100 self-help phrases that have the most comments and forwards on TikTok or Instagram.
 - Develop a method to automatically convert each phrase into a video using Artificial Intelligence.
 - Save the created videos to a designated folder on the local hard drive.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Marcus Garvey And Reggae Influence"
+updated: "2025-12-23"
+---
+
 Create a TikTok script that explores the influence of Marcus Garvey on the development of Reggae music. Your response should include:
 
 - An introduction that briefly explains who Marcus Garvey was, emphasizing his key beliefs and contributions as a leader in the Black Nationalist and Pan-African movements.

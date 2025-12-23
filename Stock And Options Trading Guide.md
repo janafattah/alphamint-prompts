@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Stock And Options Trading Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to search for profitable stocks and utilize options trading effectively:
 
 - **Introduction to Stock Research:**

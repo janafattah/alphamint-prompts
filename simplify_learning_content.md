@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Simplify Learning Content"
+updated: "2025-12-23"
+---
+
 Transform the following learning content into simplified English suitable for people with intellectual disabilities. The goal is to ensure the message is clear and easy to understand while retaining the original meaning. Refer to the resource example provided [https://goodthingsaustralia.org/learn-resource/video-what-is-a-scam-email/] for guidance. 
 
 Key points to consider:

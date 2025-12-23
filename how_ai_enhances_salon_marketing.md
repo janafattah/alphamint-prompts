@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "How Ai Enhances Salon Marketing"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for Beauty Salon owners in the Netherlands about how AI can help them grow on social media and manage salon marketing. Additionally, explain how my digital templates can make it easier for them to maintain a constant online presence. The guide should include:
 
 - An introduction to the benefits of AI in social media and salon marketing.

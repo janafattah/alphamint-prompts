@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Psychologie"
+language: "en"
+tags: []
+title: "Mental Health Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 - Create a comprehensive guide on how to maintain mental health. Include the following sections:

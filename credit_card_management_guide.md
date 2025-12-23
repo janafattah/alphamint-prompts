@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Credit Card Management Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed and comprehensive response to assist a user with credit card management. Address the following sub-tasks:
 
 - Provide general advice on managing credit card debt, including strategies to pay down existing debt effectively.

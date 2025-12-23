@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Solutions For Executive Assistants"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am looking for AI-driven solution ideas to assist Executive Assistants (EAs) in managing delegated calendar tasks more efficiently. The solutions should focus on helping EAs schedule meetings based on availability while considering priorities.  

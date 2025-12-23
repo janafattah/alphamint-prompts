@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Transform Resume For Interviews"
+updated: "2025-12-23"
+---
+
 Create a strategy to transform a resume into a series of concise and clear slides for interview presentations, specifically designed to maintain focus and prevent going off-topic. Address the following points:
 
 1. **Slide Structure**:

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Book Summary Creator"
+updated: "2025-12-23"
+---
+
 Create an in-depth, chapter-by-chapter summary of the book [Insert Book Title Here]. For each chapter, provide:
 
 - A concise yet comprehensive summary that captures the essence of the chapter’s content.

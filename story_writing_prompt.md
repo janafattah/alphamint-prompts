@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Story Writing Prompt"
+updated: "2025-12-23"
+---
+
 Provide a creative, engaging, and insightful short story on any topic of your choice. Ensure the story includes:
 
 - A clear beginning, middle, and end.

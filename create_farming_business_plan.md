@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Farming Business Plan"
+updated: "2025-12-23"
+---
+
 Create a comprehensive business plan for venturing into farming in South Africa, aimed at securing funding from the Land and Agricultural Development Bank of South Africa. The business plan should include:
 
 1. **Executive Summary**:

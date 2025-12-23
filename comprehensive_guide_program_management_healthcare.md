@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Comprehensive Guide Program Management Healthcare"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for addressing Program Management and Care Integration in the healthcare industry, specifically focusing on the following aspects:
 
 1. **Program Management**:
