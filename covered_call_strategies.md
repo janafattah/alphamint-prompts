@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Covered Call Strategies"
+updated: "2025-12-23"
+---
+
 I'm trying to understand stock option strategies as a beginner. Please help me with the following:
 
 - Explain the "Covered Call" strategy in detail. How does it work, and what are the potential risks and benefits?

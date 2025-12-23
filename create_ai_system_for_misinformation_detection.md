@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Ai System For Misinformation Detection"
+updated: "2025-12-23"
+---
+
 Create an AI system that can effectively detect deepfakes and fake news, safeguarding against the damaging impact of misinformation. Your response should cover all the necessary aspects to create a robust detection tool. The response should:
 
 - Describe the key components and functionalities of the AI system.

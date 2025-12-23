@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Franks Ultimate Brain Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive and personalizable guide for implementing "Frank's Ultimate Brain". The guide should include:
 
 - **Overview**: Provide a brief description of "Frank's Ultimate Brain" and its main features or functionalities. Explain the benefits of implementing it for personal or professional use.

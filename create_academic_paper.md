@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Academic Paper"
+updated: "2025-12-23"
+---
+
 Sure, here is a high-quality ChatGPT prompt that addresses the request:
 
 ---

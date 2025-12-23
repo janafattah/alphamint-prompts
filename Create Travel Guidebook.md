@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Travel Guidebook"
+updated: "2025-12-23"
+---
+
 Create a comprehensive travel guidebook for a specific town or city that I will name. The guidebook is intended for publication on a travel blog, and the end product should be formatted in an editable .docx file, including visual elements such as photos, charts, maps, and graphs. Ensure content is well-organized and visually engaging, suitable for both print and digital formats. Include the following sections and details:
 
 - Title page with city name, a featured photo, tagline, and date of update.

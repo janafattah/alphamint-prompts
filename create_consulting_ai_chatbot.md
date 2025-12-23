@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Consulting Ai Chatbot"
+updated: "2025-12-23"
+---
+
 Create a Consulting AI Chatbot for VoxPR to assist with AI Agent Development, AI Automation Services, and appointment scheduling. Follow these guidelines:
 
 1. **Introduction and Greeting**:

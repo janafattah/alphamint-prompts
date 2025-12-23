@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze News Content Generation"
+updated: "2025-12-23"
+---
+
 - Write a detailed and compelling article in the "News Analysis" category for a .news domain, focusing on current trending news stories.
 - Ensure the article includes thoroughly researched information, drawing connections between past events, political research papers, or similar incidents to reveal a broader context and deliver insightful conclusions.
 - Aim to evoke an "aha moment" or a "chill down the spine" for readers by presenting findings and connections they may not have previously considered.

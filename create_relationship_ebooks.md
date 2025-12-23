@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Relationship Ebooks"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I want to create ebooks in the relationship niche. Generate a detailed outline and content for ebooks covering various aspects of relationships, attraction, and confidence. Ensure the content is engaging, well-structured, and suitable for a wide audience. Address the following topics comprehensively:  

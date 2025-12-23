@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Free Website Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to create a free website. Include the following sub-tasks in your response:
 
 - Overview of free website-building platforms.

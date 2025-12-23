@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Identify Cybersecurity Controls"
+updated: "2025-12-23"
+---
+
 Create a comprehensive ChatGPT prompt that addresses the following objectives:
 
 - Assist in identifying appropriate controls to mitigate risks found during risk analysis, specifically using controls from established frameworks.

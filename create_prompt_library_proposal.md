@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Prompt Library Proposal"
+updated: "2025-12-23"
+---
+
 Create a proposal for a community-driven system to crowdsource and expand an online prompt library. The system should allow users to submit prompts based on specific frameworks and topics, with the following features:
 
 - **Submission Platform**: Outline a platform where users can submit their prompts. Consider submission guidelines, and user accessibility.

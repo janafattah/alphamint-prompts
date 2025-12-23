@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Produkt"
+language: "en"
+tags: []
+title: "Create Digital Product Templates"
+updated: "2025-12-23"
+---
+
 I'm trying to start a business creating digital products and need an AI agent to assist with this. Here are my requirements:
 
 - Design an advanced, accurate, and comprehensive digital product template or model. 

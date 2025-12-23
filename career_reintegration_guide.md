@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Reintegration Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide to help someone returning to the tech industry after a hiatus. Cover the following aspects:
 
 - **Understanding the current tech landscape**:

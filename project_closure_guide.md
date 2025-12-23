@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Project Closure Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for developing a project closure. Your response should cover the following key aspects:
 
 - **Purpose of Project Closure**: Explain why a project closure is important and what benefits it brings to the organization and the project team.

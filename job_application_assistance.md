@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Job Application Assistance"
+updated: "2025-12-23"
+---
+
 ```
 I found a job listing that I'm interested in but I'm unsure how to proceed with an application. Please help guide me through the process step by step. Here’s how you can assist:
 

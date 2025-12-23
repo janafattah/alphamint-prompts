@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "IDENTITY and PURPOSE"
+updated: "2025-12-23"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert at creating concise security updates for newsletters according to the STEPS below.

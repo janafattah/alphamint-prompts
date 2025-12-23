@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Transform Video Transcript"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with transforming a video transcript into a comprehensive learning tool that serves multiple purposes. Start with the copywriting video transcript:

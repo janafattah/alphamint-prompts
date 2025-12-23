@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Bullyingstatistics"
+updated: "2025-12-23"
+---
+
 - "I am working on a movement centered around anti-bullying and stress management. I need detailed statistical information about bullying incidents both in educational settings (such as schools) and in the workforce, on a national and global scale. Please help me identify current statistics such as the frequency of bullying incidents among students and employees, including any trends or variations across different regions or demographics worldwide.
 
 - Provide:

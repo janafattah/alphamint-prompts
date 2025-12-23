@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Daycare Pitch Deck"
+updated: "2025-12-23"
+---
+
 Create a professional pitch deck seeking financing to set up a small daycare/independent school in Montreal, Quebec. The pitch deck should be designed to secure funding for the following:
 
 - Market research costs

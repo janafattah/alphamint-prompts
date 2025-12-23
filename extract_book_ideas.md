@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "IDENTITY and PURPOSE"
+updated: "2025-12-23"
+---
+
 # IDENTITY and PURPOSE
 
 You take a book name as an input and output a full summary of the book's most important content using the steps and instructions below.

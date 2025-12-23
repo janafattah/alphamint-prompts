@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Ai Academy Setup Plan"
+updated: "2025-12-23"
+---
+
 Help me design a comprehensive plan to set up an AI Academy for kids. The program will initially be free, but later introduce paid subscriptions that will support additional programs for underserved learners. I need a detailed and actionable setup that includes the following components:
 
 • A step-by-step implementation roadmap for launching the AI Academy for kids, including:

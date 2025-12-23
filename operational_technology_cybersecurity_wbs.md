@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Operational Technology Cybersecurity Wbs"
+updated: "2025-12-23"
+---
+
 Create a detailed Work Breakdown Structure (WBS) for an Operational Technology (OT) cybersecurity project. Consider the following elements to ensure comprehensiveness:
 
 - **Project Initiation:**

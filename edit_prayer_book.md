@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Edit Prayer Book"
+updated: "2025-12-23"
+---
+
 Please help me to edit a prayer book intended for an American audience. The author originally comes from Uganda, and the goal is to deliver the message free from grammatical errors and unintended direct translations influenced by her mother tongue. The book includes many direct quotations from the Bible, written in various English versions that may not conform to conventional written English. Here's what needs to be done:
 
 - Correct grammatical errors throughout the book.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Auditing Educational Content"
+updated: "2025-12-23"
+---
+
 Create detailed educational content about auditing specifically for auditors. Cover the following areas comprehensively:
 
 - **Fundamentals of Auditing:**

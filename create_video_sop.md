@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Video Sop"
+updated: "2025-12-23"
+---
+
 I need help finding instructions or a guide to create a Video Standard Operating Procedure (SOP). I have searched but haven't found anything. Can you provide advice on:
 
 - How to search effectively for Video SOP instructions?

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Professional Reference Letter Guidance"
+updated: "2025-12-23"
+---
+
 - "I need to write a professional reference for a staff member. Please help me by outlining the key components of an effective reference letter. 
 - Include guidelines on tone, length, and structure.
 - Offer tips on expressing the staff member's skills, achievements, work ethic, and impact on the organization effectively.

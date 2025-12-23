@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Predicting Road Deterioration"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for a software system designed to predict road deterioration, incorporating stored memory from a business venture related to this topic. The software should be geared towards application in the civil engineering industry. Your response should include:
 
 - A brief overview of road deterioration mechanisms that are pertinent to civil engineering, such as weathering, mechanical stress, or material fatigue.

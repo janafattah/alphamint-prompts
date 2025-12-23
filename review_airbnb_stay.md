@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Review Airbnb Stay"
+updated: "2025-12-23"
+---
+
 - Please help me write a detailed review of my recent Airbnb stay. Include the following aspects:
   - **Location and Convenience**: Describe the location of the Airbnb and how convenient it was for travel and access to local attractions.
   - **Host Interaction**: Discuss your interaction with the host. Was the communication clear, timely, and helpful both before and during your stay?

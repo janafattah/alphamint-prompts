@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Motivation Guidelines Calendar"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guideline for staying motivated and tracking progress effectively. The guideline should be presented in the form of a calendar. Consider including the following elements:
 
 - **Daily tasks**: Suggest activities or habits to maintain motivation on a daily basis.

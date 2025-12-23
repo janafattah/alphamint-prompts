@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Real Estate"
+language: "en"
+tags: []
+title: "Mortgage Insurance Claims Guide"
+updated: "2025-12-23"
+---
+
 - Provide an overview of what mortgage insurance is and its general principles.
 - Explain under what typical circumstances mortgage insurance claims might be denied.
 - Describe the usual process and criteria for filing a roof replacement claim due to hurricane damage.

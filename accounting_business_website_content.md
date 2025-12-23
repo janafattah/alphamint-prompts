@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Accounting Business Website Content"
+updated: "2025-12-23"
+---
+
 Create content for a website for a new accounting business. The website should include the following sections and details:
 
 1. **About Me Section:**

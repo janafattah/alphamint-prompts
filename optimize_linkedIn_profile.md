@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Optimize Linkedin Profile"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for optimizing a LinkedIn profile. The response should cover the following aspects:
 
 - **Profile Picture and Background**: Explain best practices for selecting a professional profile picture and an appropriate background image that aligns with one's personal brand or industry.

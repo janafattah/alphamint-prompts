@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Faceless Concept Prompt"
+updated: "2025-12-23"
+---
+
 For the request "for faceless," create a ChatGPT prompt as follows:
 
 "Help me understand the concept of 'faceless' as it applies to different contexts, such as:

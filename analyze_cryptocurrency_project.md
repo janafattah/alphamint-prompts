@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Cryptocurrency Project"
+updated: "2025-12-23"
+---
+
 Provide a comprehensive analysis of a cryptocurrency project. Include the following details:
 
 - **Summary of the Project**:

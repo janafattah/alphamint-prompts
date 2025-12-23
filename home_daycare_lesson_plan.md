@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Home Daycare Lesson Plan"
+updated: "2025-12-23"
+---
+
 Create a lesson plan for a home daycare center that can be adapted for multiple age groups, from infants to children aged 5. Consider the following components for the lesson plan:
 
 1. **Themes and Topics**  

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Engaging Camp Activities"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am organizing a summer camp from July 21st to July 26th, 2025, aimed at educating and empowering young activists on environmental and social issues. The camp will be structured around learning essential activism-related skills and applying them through practical projects. I need **practical and engaging activity ideas** that align with the camp's **five main themes** and overall objectives. Please provide a mix of workshops, interactive exercises, hands-on projects, and reflection sessions.  

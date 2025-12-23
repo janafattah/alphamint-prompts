@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Visualize Diabetes Manuscript"
+updated: "2025-12-23"
+---
+
 You are assisting with the development of a non-fiction book about Type 2 Diabetes. The author wants your help analyzing the full content of the manuscript and automatically identifying optimal locations to insert images, illustrations, or graphics based on the subject matter discussed in different sections. The goal is to enhance reader understanding and engagement. Please follow these instructions carefully:
 
 - Analyze the entire contents of a book manuscript on Type 2 Diabetes (which I will provide).

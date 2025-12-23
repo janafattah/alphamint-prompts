@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Short Film Script"
+updated: "2025-12-23"
+---
+
 Create a script for a 12 to 15 minute low-budget version of a famous movie, tailored for an amateur cast of 12 to 15 voluntary actors. The adaptation should be a good representation of the original film and include the following elements:
 
 - **Essential Plot Points**: Condense the original story into a format that can be performed within 12 to 15 minutes while maintaining the essence of the plot.

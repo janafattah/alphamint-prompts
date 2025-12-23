@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Organize Chatgpt Conversations"
+updated: "2025-12-23"
+---
+
 - Explain methods to keep chats with ChatGPT organized.
 - Discuss alternatives to using the chat list displayed on the left side of the screen.
 - Provide digital tools or practices that can enhance the organization of conversations with AI models.

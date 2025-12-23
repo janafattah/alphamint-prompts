@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Transformers Coloring Book"
+updated: "2025-12-23"
+---
+
 Create a detailed and versatile ChatGPT prompt for designing a transformer-themed, black-and-white coloring book, suitable for use across multiple platforms. Consider the following requirements:
 
 - **Theme**: Focus on transformers, which can include various interpretations such as mechanical robots, vehicles transforming into robots, or similar concepts from popular media.

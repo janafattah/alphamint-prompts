@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Facebook Content Ideas"
+updated: "2025-12-23"
+---
+
 I run a property maintenance/handyman business and I am not sure what to post on my new Facebook page or where to get relevant content. Can you help me with the following:
 
 - Suggest different types of content I can post on my Facebook page to engage my audience.

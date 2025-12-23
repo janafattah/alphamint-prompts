@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Project Charter"
+updated: "2025-12-23"
+---
+
 Create a detailed project charter by providing comprehensive guidance on the following elements:
 
 - **Project Overview**: Describe the project background, purpose, and justification. Explain why this project is necessary and its expected impact.

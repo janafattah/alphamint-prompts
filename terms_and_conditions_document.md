@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Terms And Conditions Document"
+updated: "2025-12-23"
+---
+
 Create a comprehensive Terms and Conditions document for a UK-based website that provides resources, coaching, and personalized roadmap development, including community links to a Facebook community site. Ensure the Terms and Conditions address the following elements:
 
 - **Services Offered**: Define the nature of the services provided, including coaching, resource availability, and personalization of roadmaps. Mention the association with Expert Medical Advisers who work independently and hold their own liability insurance.

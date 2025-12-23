@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Content Creation Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on content creation that covers the following aspects:
 
 - Define content creation and explain its purpose in various contexts, such as marketing, education, entertainment, and personal branding.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Scientific Article Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide for writing scientific articles intended for publication in an OT (Operational Technology) cybersecurity magazine. Address the following points:
 
 - **Structure and Organization:**

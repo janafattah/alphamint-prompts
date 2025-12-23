@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Creategrantproposal"
+updated: "2025-12-23"
+---
+
 - Create a comprehensive grant proposal based on the following specific information:
   - Identify the purpose of the grant and the main objectives it aims to achieve.
   - Clearly define the target audience or beneficiaries of the project.

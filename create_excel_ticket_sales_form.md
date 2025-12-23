@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Excel Ticket Sales Form"
+updated: "2025-12-23"
+---
+
 Create a detailed and comprehensive guide on how to create a form in Excel 2016 for entering and searching data to track ticket sales for a volunteer fire department's annual steak dinner. Your guide should cover the following:
 
 - Setting up the initial spreadsheet with appropriate columns (e.g., Ticket ID, Buyer Name, Contact Information, Number of Tickets, Total Amount).

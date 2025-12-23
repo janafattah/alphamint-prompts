@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Building Niche Websites Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for building and ranking niche websites with a focus on using AI tools. Here are the specific tasks to address:
 
 - Outline a step-by-step process for building a complete niche website. Include:

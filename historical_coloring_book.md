@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Historical Coloring Book"
+updated: "2025-12-23"
+---
+
 Create a 6-page coloring book with each page themed around historical elements that resonate with a broad audience interested in history. Ensure each page is designed to be printed on 8.5 x 11-inch paper. Include the following components in the coloring book design process:
 
 - **Theme Development**: Focus on a historical theme titled "Resonance Fair" that incorporates significant historical symbols, monuments, or figures that have had a lasting impact.

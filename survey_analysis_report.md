@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Survey Analysis Report"
+updated: "2025-12-23"
+---
+
 Create a comprehensive report based on the analysis of a survey for the AGBU Toronto, focusing on the Armenian community. You are the Youth Program Coordinator, and the report should be written from your perspective:
 
 1. **Survey Analysis**:

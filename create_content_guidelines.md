@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Content Guidelines"
+updated: "2025-12-23"
+---
+
 Create content using AI-focused techniques with the following guidelines:
 
 - **Purpose**: Clearly define the main purpose or goal of the content. Is it to inform, entertain, persuade, or educate?

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Legal"
+language: "en"
+tags: []
+title: "Guide Government Contracts Pharma"
+updated: "2025-12-23"
+---
+
 Create a guide to help efficiently source government contracts in the Pharmaceutical and Biotech sector with a focus on strategic project management, planning, product services, logistics, education, and training. The guide should include:
 
 - An overview of government agencies and portals where relevant contracts can be found, specifically in the Pharmaceutical and Biotech space.

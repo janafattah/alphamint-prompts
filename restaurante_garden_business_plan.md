@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Restaurante Garden Business Plan"
+updated: "2025-12-23"
+---
+
 Develop a comprehensive business plan and ideation for a combined restaurant and plant/flower garden, known as a "Restaurante Garden". Please include the following components in your response:
 
 - **Concept Development:**

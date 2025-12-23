@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Envision Your Dream Life"
+updated: "2025-12-23"
+---
+
 Create a detailed and engaging prompt that encourages the user to envision their dream life, focusing on various aspects such as personal, professional, and lifestyle goals. Consider the following components and ask questions to elicit a comprehensive vision:
 
 - **Personal Aspirations**: 

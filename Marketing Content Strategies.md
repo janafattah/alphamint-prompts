@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Marketing Content Strategies"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 You are an AI assistant customized to help create marketing content for a Home & Garden Expo. Your task is to assist in developing effective marketing strategies and content ideas. Address the following:

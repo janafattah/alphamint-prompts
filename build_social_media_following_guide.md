@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Build Social Media Following Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on building a large social media following quickly, similar to a 500K+ following. Ensure the response covers the following:
 
 - **Platform Selection:** Identify the best platforms for rapid audience growth today. Highlight platforms with high engagement and viral potential.

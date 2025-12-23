@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Personal Brand Content Creation"
+updated: "2025-12-23"
+---
+
 Here is the ChatGPT prompt based on the analysis of the request:
 
 ---

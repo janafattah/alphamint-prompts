@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Powered Consumer Insights"
+updated: "2025-12-23"
+---
+
 Create an in-depth content outline for an article on "AI-powered consumer insights: How FMCG leaders can stay ahead of the curve." Include the following key aspects:
 
 - Define AI-powered consumer insights and explain their significance in the Fast-Moving Consumer Goods (FMCG) sector.

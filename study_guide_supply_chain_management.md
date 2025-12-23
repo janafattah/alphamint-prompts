@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Study Guide Supply Chain Management"
+updated: "2025-12-23"
+---
+
 Create a study guide to assist a student in understanding key concepts from the following chapters of "Principles of Supply Chain Management: A Balanced Approach | 5e" by Joel D. Wisner, PhD, Keah-Choon Tan, PhD, and G. Keong Leong, PhD:
 
 ### Chapter 6: Resource Planning Systems

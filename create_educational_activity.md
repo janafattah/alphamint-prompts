@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Create Educational Activity"
+updated: "2025-12-23"
+---
+
 I am tasked with creating a ChatGPT prompt for educational purposes. Please develop an engaging educational activity or lesson plan that can be utilized in a classroom or learning environment. Consider the following:
 
 - Clearly define the educational topic or subject area.

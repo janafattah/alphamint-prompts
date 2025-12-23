@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Branding And Content Generation"
+updated: "2025-12-23"
+---
+
 Analyze the aesthetic of the provided Instagram page and website by evaluating the color palette, design elements, and overall branding. Use this analysis to generate improvement suggestions while maintaining brand authenticity. Then, create detailed prompts for generating the following content using Microsoft Designer or other free AI content creation tools:
 
 1. **Company ID Card**  

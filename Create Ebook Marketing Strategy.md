@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Ebook Marketing Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive marketing strategy to promote ebooks across multiple online platforms. The ebooks fall into three categories: relationships, women-focused content, and technology. For each category, provide:
 
 - A list of suggested social media platforms and online marketplaces most suitable for promoting that category.

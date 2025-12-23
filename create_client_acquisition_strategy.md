@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Client Acquisition Strategy"
+updated: "2025-12-23"
+---
+
 I am an esthetician who specializes in anti-aging, hyperpigmentation, and acne skin treatments and I would like to get more business. 
 
 Create a comprehensive strategy for increasing my clientele. The strategy should include:

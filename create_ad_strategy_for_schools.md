@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Ad Strategy For Schools"
+updated: "2025-12-23"
+---
+
 Create a detailed ad strategy for Resource Central's "Renew Our Schools" program, specifically targeting teachers in Colorado. Here are the requirements and parameters to consider:
 
 - **Program Description:** 

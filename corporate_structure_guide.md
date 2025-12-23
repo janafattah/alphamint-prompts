@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Corporate Structure Guide"
+updated: "2025-12-23"
+---
+
 Sure, here is the ChatGPT prompt based on the request:
 
 "Guide me through the process of setting up corporate business structures specifically designed to build and protect assets while potentially generating revenue. Address the following points in detail:

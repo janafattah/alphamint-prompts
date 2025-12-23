@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Presentation Feedback"
+updated: "2025-12-23"
+---
+
 - You are tasked with creating an Executive Leadership 360 feedback presentation for an individual based on interview response files.
 - The interview responses are from managers, peers, and direct reports, gathered using a set of predetermined interview questions.
 - For each question, you need to:

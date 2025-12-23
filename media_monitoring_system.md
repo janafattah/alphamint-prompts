@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Media Monitoring System"
+updated: "2025-12-23"
+---
+
 Create a comprehensive system for Media Monitoring that includes the following aspects:
 
 - **Tracking**: Describe the steps to track various media outlets (news, social media, blogs, etc.), the tools or software that can be used for efficient tracking, and the process of setting up keywords, hashtags, or phrases to monitor.

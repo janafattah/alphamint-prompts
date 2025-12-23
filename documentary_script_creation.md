@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Documentary Script Creation"
+updated: "2025-12-23"
+---
+
 Create a script for a documentary with a word count between 1000 and 2000 words, using the content from the provided documents. Follow these guidelines:
 
 - **Structure**: Outline the script with a clear introduction, body, and conclusion. Each section should transition smoothly to the next.

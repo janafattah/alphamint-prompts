@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Marketing Prompts"
+updated: "2025-12-23"
+---
+
 Act as a creative strategist and content generator for an email marketing agency. I need you to generate high-quality prompts tailored for use across various AI platforms, including image generation tools (like Midjourney, DALL·E, or Stable Diffusion) and large language models such as ChatGPT. The purpose of these prompts is to produce compelling visuals and persuasive copy that support email marketing campaigns and brand storytelling. Your output should include:
 
 - Prompts for AI image generation that capture the visual identity, tone, and intent of different email campaigns (e.g., promotional, seasonal, product launch, re-engagement).

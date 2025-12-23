@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Area Manager Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed plan for the first 30, 60, and 90 days as an Area Manager at Starbucks. Address the following aspects:
 
 - **Customer Service:**

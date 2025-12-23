@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Wellness Blog Plan"
+updated: "2025-12-23"
+---
+
 Create a comprehensive content hub blog plan for a brand new wellness and health blog. The aim is to provide readers with up-to-date research, information, and insights on various wellness and health topics. Ensure the blog is informative, engaging, and well-structured. Consider the following aspects:
 
 - **Identify Key Topics**: Research and list essential topics within the wellness and health niche that are currently trending or lacking comprehensive coverage. Include areas such as mental health, nutrition, fitness, lifestyle changes, and preventative health measures.

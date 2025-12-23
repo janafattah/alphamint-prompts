@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Dyslexia Reading Tutor Plan"
+updated: "2025-12-23"
+---
+
 Create a comprehensive lesson plan to tutor a child with dyslexia, focusing on improving reading skills through one-on-one instruction based on the science of reading. Your response should include:
 
 - An overview of the science of reading and how it specifically applies to students with dyslexia.

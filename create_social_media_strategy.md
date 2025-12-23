@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Social Media Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive social media content strategy for my brand. Ensure the strategy covers the following components:
 
 - **Brand Identity**:

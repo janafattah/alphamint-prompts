@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "To Flashcards"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "Create a set of flashcards for a nursing student. Each flashcard should have:  

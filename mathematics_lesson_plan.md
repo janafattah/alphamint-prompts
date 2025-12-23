@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Mathematics Lesson Plan"
+updated: "2025-12-23"
+---
+
 Create a detailed lesson plan for teaching school-level mathematics. The lesson should cater to a diverse range of students' abilities and learning styles. Follow these guidelines to create a comprehensive response:
 
 - **Scope of Topics**: Cover fundamental mathematics concepts typically taught in school, such as basic arithmetic operations (addition, subtraction, multiplication, division), fractions, decimals, percentages, basic geometry (shapes, areas, perimeters), and introductory algebra (simple equations and expressions).

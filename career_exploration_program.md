@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Career Exploration Program"
+updated: "2025-12-23"
+---
+
 Act as an experienced career counselor with 10 years of experience, a BA in political science, and a background in coaching high school sports. Create a comprehensive 9-month structured career exploration program tailored to a motivated high school student with the following profile:
 
 - Attends a magnet high school in a suburban setting.

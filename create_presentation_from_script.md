@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Presentation From Script"
+updated: "2025-12-23"
+---
+
 Create a detailed ChatGPT prompt based on the provided request.
 
 ---

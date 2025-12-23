@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Tiktok Content Awareness"
+updated: "2025-12-23"
+---
+
 - Help create engaging TikTok content to raise awareness about domestic abuse using iMessage conversation snapshots.
 - Identify and extract appropriate language or phrases from iMessages that highlight themes or examples of domestic abuse.
 - Ensure the content maintains privacy and confidentiality, avoiding any personally identifiable information.

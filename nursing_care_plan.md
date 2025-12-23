@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Nursing Care Plan"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 - **Context:** You aim to create a comprehensive nursing care plan. This plan should include a specific nursing diagnosis and follow the ADPIE framework (Assessment, Diagnosis, Planning, Implementation, Evaluation).

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Summarize Meeting Notes"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 - Please summarize the meeting minutes provided and highlight key points in bullet-point format. This should include any major topics discussed, decisions made, and significant insights shared during the meeting.

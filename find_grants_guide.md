@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Find Grants Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide to help me find grants for my business projects. The guide should cover:
 
 - **Identification**: Steps to identify the types of grants available that align with the specific business projects I am pursuing.

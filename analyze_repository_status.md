@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Repository Status"
+updated: "2025-12-23"
+---
+
 Create a comprehensive summary of the current state of a source code repository by addressing the following points:
 
 - Analyze the current status of the repository. What is the latest commit message? How active have recent contributions been?  

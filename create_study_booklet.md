@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Create Study Booklet"
+updated: "2025-12-23"
+---
+
 Create a study booklet on a chosen topic. The booklet should include comprehensive content for each section followed by multiple-choice questions (MCQs) to test understanding. Follow these steps to ensure a thorough and effective study aid:
 
 - **Select the Topic:** Clearly state the topic for which the study booklet will be created. If you have multiple topics in mind, provide a list of options.

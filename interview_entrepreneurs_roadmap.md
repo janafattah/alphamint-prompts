@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Interview Entrepreneurs Roadmap"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 Help me develop a roadmap and strategy to find and interview 100 Business Entrepreneurs (50 Russian-speaking and 50 English-speaking) for a free strategy session. Address the following sub-tasks and goals meticulously:

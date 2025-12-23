@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Coaching"
+language: "en"
+tags: []
+title: "Instagram Strategy For Wellness Coaches"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am conducting market research to understand the challenges, desires, and objections of wellness coaches, including mental health coaches, relationship coaches, family coaches, and professional therapists. My goal is to develop a content strategy for Instagram that attracts these professionals to my Instagram marketing services. I want my approach to align with ethical marketing principles and a customer-centric perspective, avoiding any salesy tactics.  

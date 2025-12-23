@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Target Audience"
+updated: "2025-12-23"
+---
+
 Create a detailed analysis of the target audience for a given product or service. Your response should include the following components:
 
 - **Identify the primary audience**: Describe the main group of people your product or service is aimed at. Include relevant factors like their interests, needs, and pain points.

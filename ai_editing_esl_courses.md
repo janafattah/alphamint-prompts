@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Ai Editing Esl Courses"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for how AI can assist with updating and editing ESL PDF courses effectively. Consider the following tasks:
 
 - **PDF Analysis**: 

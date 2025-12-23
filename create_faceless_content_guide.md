@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Faceless Content Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to create faceless content for those who are unable to face the camera. The guide should cover the following topics:
 
 - **Introduction**: Explain what faceless content is and why someone might choose to create it.

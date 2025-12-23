@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Filter Job Opportunities"
+updated: "2025-12-23"
+---
+
 Here is your ChatGPT prompt:
 
 ---

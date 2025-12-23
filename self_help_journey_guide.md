@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Self Help Journey Guide"
+updated: "2025-12-23"
+---
+
 Create a self-help and inner work guide for a six-month journey. The guide should include a detailed checklist with weekly or daily tasks that inspire reflection, promote mental stimulation, and encourage periods of peaceful introspection. These tasks should relate to self-discovery, exploration of personal boundaries, understanding insecurities, evaluating beliefs about oneself, and assessing emotional responses. Structure the guide to help achieve personal growth milestones, involving:
 
 - **Inquisitive Tasks & Mental Stimulation**: 

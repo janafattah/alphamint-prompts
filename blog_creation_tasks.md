@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Blog Creation Tasks"
+updated: "2025-12-23"
+---
+
 Help me with the following tasks related to creating a successful blog:
 
 1. **Content Ideas:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Automation Strategy"
+updated: "2025-12-23"
+---
+
 Create a detailed automation strategy for my company using ChatGPT. Consider the following components:
 
 - **Current Operations Analysis**: Outline the current processes in various departments that could benefit from automation. Identify repetitive tasks and areas where efficiency could be improved.

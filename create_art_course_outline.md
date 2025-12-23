@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Art Course Outline"
+updated: "2025-12-23"
+---
+
 Create a detailed online course outline for absolute beginners in acrylic painting, designed to be added to a fine art website. The goal of the course is to help students who have never considered themselves creative or artistic build confidence in their ability to create art. By the end of the course, students should have completed a painting that serves as a reminder of their creative potential and developed basic foundational skills they can build upon in future courses. Structure the course to be engaging, supportive, and easy to follow.
 
 ### Course Development Requirements:

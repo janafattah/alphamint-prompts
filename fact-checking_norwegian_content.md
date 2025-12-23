@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Fact Checking Norwegian Content"
+updated: "2025-12-23"
+---
+
 I am writing a book in Norwegian and would like to use AI to fact-check my content. Please assist me by providing guidance on how to effectively use AI, specifically ChatGPT, for fact-checking purposes. Consider the following:
 
 - Recommend strategies for using AI to verify the accuracy of information, especially for non-English texts like Norwegian.

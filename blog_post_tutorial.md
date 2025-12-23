@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Blog Post Tutorial"
+updated: "2025-12-23"
+---
+
 Given a YouTube video transcript containing a step-by-step tutorial, create a comprehensive 1500-word blog post that guides readers through the process. Follow these guidelines:
 
 • Structure:

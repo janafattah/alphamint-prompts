@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Client Management Strategy"
+updated: "2025-12-23"
+---
+
 Create a strategy for applying to an account manager position at Healthbridge South Africa, focusing on client management for 200 clients. Your goal is to develop a segmentation approach based on revenue, influence, and needs. Prepare to articulate this strategy clearly in an interview setting. Address the following components:
 
 - **Segmentation Strategy:**

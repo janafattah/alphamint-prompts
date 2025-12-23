@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Kids Event Planning"
+updated: "2025-12-23"
+---
+
 Create a comprehensive plan for hosting a fun and engaging day at AGBU in Toronto for kids aged 5-12. The event should run for two hours and occur 1-2 times a month. Ensure that the plan includes the following:
 
 - **Activity Ideas:**

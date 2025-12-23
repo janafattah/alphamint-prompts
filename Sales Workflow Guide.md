@@ -1,3 +1,10 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Sales Workflow Guide"
+updated: "2025-12-23"
+---
 
 Create a comprehensive guide to support the sales workflow, specifically focusing on the following areas: 
 

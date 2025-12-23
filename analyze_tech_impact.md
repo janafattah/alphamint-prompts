@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Tech Impact"
+updated: "2025-12-23"
+---
+
 Understanding the math and code powering AI and the various strategies employed by AI to model answers to prompts, besides predictive analytics.
 
 Please cover the following sub-tasks:

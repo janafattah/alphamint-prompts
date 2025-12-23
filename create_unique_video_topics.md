@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Unique Video Topics"
+updated: "2025-12-23"
+---
+
 Create a list of unique and engaging topics for short videos that capture attention immediately. Consider these guidelines:
 
 - Think outside the box: Generate unconventional and creative video topics that stand out.

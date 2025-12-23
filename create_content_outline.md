@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Content Outline"
+updated: "2025-12-23"
+---
+
 Create a content outline for a piece of writing. The outline should include the following components:
 
 - **Title/Working Title**: A compelling, clear, and concise title that reflects the topic and scope of the content.

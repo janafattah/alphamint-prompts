@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Linkedin Outreach Cognitive Test"
+updated: "2025-12-23"
+---
+
 Write a professional and persuasive LinkedIn outreach message targeted at academic or clinical researchers to promote a validated cognitive function test for research use. The message should be structured as a concise and scannable email-style message and must include the following components:
 
 - A compelling subject line that captures attention and reflects the cognitive test’s value.

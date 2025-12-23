@@ -1,3 +1,10 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Social Media Content"
+updated: "2025-12-23"
+---
 
 Create 30 pieces of content, including visuals or images, around the topic of obtaining a Mortgage Broker License in California for use on Instagram and Facebook. The goal is to grow the business's online presence. Ensure the content is engaging, informative, and visually appealing. Here are the sub-tasks to address:
 

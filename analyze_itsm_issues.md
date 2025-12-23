@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Itsm Issues"
+updated: "2025-12-23"
+---
+
 Create a detailed analysis to identify and manage common IT service management (ITSM) issues across a professional services firm's organization. Focus on problem management, and follow these steps to guide your response:
 
 - Describe the common problems typically encountered in ITSM processes within professional services firms. 

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Residency Permit App"
+updated: "2025-12-23"
+---
+
 Design an app for potential expats to determine the requirements for obtaining a long-term residency permit in their desired destination. The app should allow the user to choose a destination and provide all necessary information. Address the following components:
 
 - Determine whether a visa is needed to first enter the country.

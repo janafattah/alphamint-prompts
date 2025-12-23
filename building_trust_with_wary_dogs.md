@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Building Trust With Wary Dogs"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I am living in shared housing with a dog that resides there full-time. This dog does not seem to have much supervision and appears somewhat wary. I want to build a solid relationship with the dog. Please provide detailed guidelines and specific examples to help me achieve this goal.  

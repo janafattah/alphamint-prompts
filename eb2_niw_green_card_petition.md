@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Eb2 Niw Green Card Petition"
+updated: "2025-12-23"
+---
+
 Sure, here is the high-quality ChatGPT prompt:
 
 ---

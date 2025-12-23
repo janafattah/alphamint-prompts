@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Content Creation Checklist"
+updated: "2025-12-23"
+---
+
 Create a detailed checklist for building a content creation and monetization business as an influencer on TikTok and Instagram, focusing on luxury romantic getaways. The checklist should cover the following areas:
 
 1. **Content Creation**:

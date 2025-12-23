@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Multiple Choice Test"
+updated: "2025-12-23"
+---
+
 - Create a multiple-choice test based on the book "Gris Grimly's Frankenstein."
 - Ensure the test is appropriate for an eighth-grade reading level, taking into account vocabulary complexity and comprehension skills typical of this grade.
 - Develop at least 40 questions for the test.

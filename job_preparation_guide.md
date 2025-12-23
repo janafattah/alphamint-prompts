@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Job Preparation Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for someone who is a complete beginner with no prior knowledge of the workforce, focusing on preparing for and securing a job, especially remote work. The guide should cover every step, from understanding job requirements to preparing a competitive application, even without work experience.
 
 **Structure the Guide as Follows**:

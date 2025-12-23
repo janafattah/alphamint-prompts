@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Extract Content From Youtube And Podcasts"
+updated: "2025-12-23"
+---
+
 - "How can I convert YouTube videos, transcripts, or podcasts into a file that can be uploaded and analyzed?"
 - "List the steps to extract content from YouTube videos."
 - "Describe how to extract transcripts from podcasts."

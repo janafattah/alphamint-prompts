@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Create Facebook Post"
+updated: "2025-12-23"
+---
+
 Create a Facebook post based on specific inputs provided by a user. The post should effectively communicate the user's message and engage their audience. Ensure to address the following components within the post:
 
 - **Introduction**: Craft a compelling opening statement that captures attention.

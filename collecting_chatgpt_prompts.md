@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Collecting Chatgpt Prompts"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to download ChatGPT prompts into one document that can be saved. Include the following elements in your response:
 
 - **Methods to collect ChatGPT prompts:**

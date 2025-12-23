@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Engaging Instagram Reel"
+updated: "2025-12-23"
+---
+
 Create a ChatGPT prompt to help generate an engaging short reel for Instagram, focused on promoting an online course for making babies smarter. 
 
 Here is the prompt:

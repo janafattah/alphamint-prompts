@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Rewrite In Tarantino Style"
+updated: "2025-12-23"
+---
+
 Rewrite the following text in the distinct style of a Quentin Tarantino movie. Ensure that the output:
 
 - Emphasizes heavy monologue, using dialogue as the primary storytelling device.  

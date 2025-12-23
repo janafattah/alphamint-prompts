@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Debate And Public Speaking Club Proposal"
+updated: "2025-12-23"
+---
+
 Create an outline for a proposal to present the idea of establishing a Debate and Public Speaking Club and an Armenian History Contest at AGBU. The intended audience includes colleagues who will help facilitate these projects. Use the following guidelines to construct the outline:
 
 - **Introduction:**

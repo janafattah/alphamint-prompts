@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Build Custom College List"
+updated: "2025-12-23"
+---
+
 Develop a detailed guide for aiding a high school student in building a tailored college list that aligns with various important criteria. Consider the following aspects:
 
 - **Academic Abilities**: Analyze the student's academic performance, such as GPA, standardized test scores, and extracurricular achievements, and recommend colleges where they would likely be a competitive applicant.

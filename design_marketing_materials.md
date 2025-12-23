@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Design Marketing Materials"
+updated: "2025-12-23"
+---
+
 Using ChatGPT's image features, help me design visually compelling and professional-quality marketing materials such as flyers, photos, and graphic designs. For each design:
 
 - Suggest layout ideas and composition tips suited for the intended purpose (e.g., event flyers, promotional posters, social media graphics).

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Produkt"
+language: "en"
+tags: []
+title: "Ai Product Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need you to create a **digital product guide** that I can sell on the topic **'AI for Dummies.'** This guide should be beginner-friendly, non-intimidating, and designed for readers who have little to no prior knowledge of AI. It should focus on explaining AI concepts in simple terms and demonstrating practical ways people can use AI tools like ChatGPT.  

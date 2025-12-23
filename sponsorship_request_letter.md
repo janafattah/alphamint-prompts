@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Sponsorship Request Letter"
+updated: "2025-12-23"
+---
+
 Create a sponsorship request letter for supporting the uniform costs for a team of 12 darts players who are competing in the Arabian Bullseye Championship Season 2. The letter should be:
 
 - Direct and concise.

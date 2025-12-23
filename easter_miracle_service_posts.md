@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Easter Miracle Service Posts"
+updated: "2025-12-23"
+---
+
 Create a series of illustrated social media post concepts to promote an upcoming Easter Miracle Service. The illustrations should meet the following criteria:
 
 - Each post should depict a short scenario with two people having a conversation.

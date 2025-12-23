@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Real Estate"
+language: "en"
+tags: []
+title: "Real Estate Interest Rate Update"
+updated: "2025-12-23"
+---
+
 Create an email draft for a residential real estate agent in Quebec, Canada, to send to their database of contacts within a CRM system. The email should announce the recent decrease in the key interest rate and discuss its potential impact on the real estate market. 
 
 - Begin the email with a professional and engaging greeting to capture the recipient's attention.

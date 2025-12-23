@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Rewrite Article"
+updated: "2025-12-23"
+---
+
 - You have been asked to assist in rewriting a previously published article. Begin by reviewing the original article text provided.
 - Analyze the structure, tone, and style of the original article.
 - Identify key themes, points, and messages that need to be preserved in the rewritten version.

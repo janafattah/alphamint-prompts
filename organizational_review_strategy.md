@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Organizational Review Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive strategy for conducting an organizational review. The response should include:
 
 - **Objective Identification**: Outline the primary goals and objectives for the organizational review. What should the review aim to achieve?

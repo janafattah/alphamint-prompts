@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Book Idea"
+updated: "2025-12-23"
+---
+
 Create a fictional book idea based on the prominent elements and themes you describe. Follow these specific instructions to ensure a comprehensive response:
 
 - **Genre and Themes:** Specify the genre or themes you're interested in exploring (e.g., mystery, fantasy, romance, adventure, coming-of-age).

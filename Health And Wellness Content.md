@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Health And Wellness Content"
+updated: "2025-12-23"
+---
+
 Create a comprehensive ChatGPT prompt for a health and wellness content writer targeting audiences managing chronic illnesses, wellness enthusiasts, people with trauma on a healing journey, people with sleep problems, those who love holistic living, and younger populations wanting to stay healthy. Design the prompt to generate helpful, actionable, and easy-to-follow information. 
 
 ---

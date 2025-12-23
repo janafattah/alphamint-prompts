@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Summarize Study Material"
+updated: "2025-12-23"
+---
+
 Create detailed study notes for exam preparation, tests, and revision. Consider the following instructions:
 
 - **Identify Key Topics**: List out all the significant topics and sub-topics that need to be covered for the tests or exams. Focus on the core concepts and ensure that these are aligned with the curriculum or syllabus provided.

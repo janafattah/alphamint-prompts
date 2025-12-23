@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Combine Prompts"
+updated: "2025-12-23"
+---
+
 - You are tasked with combining two existing prompts into a single, clear, and cohesive prompt. 
 - Ensure that the combined prompt is logically structured and maintains clarity throughout.
 - Include any necessary context or instructions that might have been present in the original prompts to ensure a comprehensive response from ChatGPT.

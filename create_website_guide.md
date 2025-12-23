@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Website Guide"
+updated: "2025-12-23"
+---
+
 ```
 Create a comprehensive guide for determining essential pages and content topics for a new website in the Psychotherapy space with a focus on SEO best practices. The goal is to ensure the website ranks high in search engines and targets high buyer intent keywords effectively. The key areas to cover include:
 

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Claims"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with developing a solution for efficiently analyzing social media content to identify inconsistencies or issues relevant to legal cases, specifically for personal injury cases. Here’s what you need to tackle:

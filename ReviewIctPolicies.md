@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Reviewictpolicies"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide on how to review ICT policies and procedures. The guide should include:
 
 - Steps for reviewing existing ICT policies and procedures.

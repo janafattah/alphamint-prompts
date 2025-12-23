@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Achieving Spotify Success Playbook"
+updated: "2025-12-23"
+---
+
 Create a comprehensive playbook for music artists aiming to achieve at least 1 million plays on Spotify playlists. The guide should address the following aspects:
 
 - **Understanding Spotify Basics:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Coding Master"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 Create a fully formatted, publish-ready eBook for learning Python. The eBook should be structured with 10-15 chapters, each including explanations, examples, and exercises. The total length should exceed 70 pages. Follow these detailed instructions:  

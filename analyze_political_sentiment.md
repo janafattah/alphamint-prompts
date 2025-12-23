@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Political Sentiment"
+updated: "2025-12-23"
+---
+
 Analyze social media platforms Instagram and Facebook with a focus on Arubans to understand their perception of the political parties campaigning for the 2025 election in Aruba. Your task includes:
 
 1. Monitoring posts, comments, and any other relevant engagements about the political parties on both platforms.

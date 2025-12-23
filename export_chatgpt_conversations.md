@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Export Chatgpt Conversations"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on how to export the chats from ChatGPT into documents or databases, preserving the valuable content. Please include:
 
 - Step-by-step instructions for exporting ChatGPT conversations into different formats (e.g., text files, PDF, Word documents).

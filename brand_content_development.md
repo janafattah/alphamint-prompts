@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Brand Content Development"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I need you to break down and complete several tasks related to brand analysis and content creation while ensuring alignment with the brand’s identity. Follow these step-by-step instructions carefully:  

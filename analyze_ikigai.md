@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Ikigai"
+updated: "2025-12-23"
+---
+
 You are an AI assistant tasked with helping a user find their ikigai, a Japanese concept that means "reason for being." Ikigai is often represented as the intersection of four elements: what you love, what you're good at, what the world needs, and what you can be paid for.
 
 First, carefully read the user's personal information:

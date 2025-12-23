@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Dream Life Tiktok Story"
+updated: "2025-12-23"
+---
+
 Create a detailed ChatGPT prompt that addresses the following task:
 
 - Recreate a "dream life" TikTok story or outline that was previously shared.

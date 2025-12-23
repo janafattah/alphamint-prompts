@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Presentation Outline"
+updated: "2025-12-23"
+---
+
 Create a detailed and structured 10-minute presentation outline for a job interview for the position of Director of Primary School (Pre-K to Grade 3) at Collingwood School. The presentation should focus on the candidate’s vision and top priorities for the primary division. 
 
 Follow these requirements:

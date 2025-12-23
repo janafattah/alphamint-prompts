@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Linkedin Post"
+updated: "2025-12-23"
+---
+
 Create a detailed guide on building thought leadership on LinkedIn through viral posts. Ensure that the advice is actionable and tailored for maximizing engagement and reach. Address the following components:
 
 - **Understanding Your Audience:**

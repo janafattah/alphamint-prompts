@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Reimagine Hooks"
+updated: "2025-12-23"
+---
+
 Reimagine and rewrite the following cliched hooks, transforming them into fresh, original expressions. Focus on enhancing the creativity and engagement levels of each statement while maintaining the original intent. Follow these guidelines:
 
 - Reinterpret each hook by replacing clichés with unique, compelling language.

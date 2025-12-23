@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Luxury Jet Sales Messaging"
+updated: "2025-12-23"
+---
+
 Convince prospects to buy a jet by creating compelling and persuasive messaging. Your response should include:
 
 - An overview of the key benefits of owning a personal jet, such as time-saving, convenience, luxury, and privacy.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Summarize Study Guide"
+updated: "2025-12-23"
+---
+
 - Use the information or files provided to extract accurate and relevant details needed to complete a study guide. 
 - If the necessary information is not provided, research using accurate, reliable, and cited sources to gather the required data.
 - Organize and fill in all the sections of the study guide with the gathered information.

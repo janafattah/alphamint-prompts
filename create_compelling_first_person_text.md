@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Compelling First Person Text"
+updated: "2025-12-23"
+---
+
 Task: Create a Compelling First-Person Text
 
 Objective: Write an engaging, persuasive text in first-person perspective about a specific topic for a target audience.

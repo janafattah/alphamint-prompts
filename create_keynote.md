@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Keynote"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I am a keynote speaker delivering talks in financial services on topics such as empowerment, diversity, the future of work, and modern leadership. My objective is to inspire, inform, energize, and create an emotional connection with my audience through storytelling. I need your help crafting a compelling keynote speech and designing corresponding slides. Please follow these steps:  

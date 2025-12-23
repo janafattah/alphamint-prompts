@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Integrate Chatbot Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed and comprehensive guide for integrating a custom GPT-like chatbot into a website. Your response should include:
 
 - A list of tools and platforms suitable for creating a custom GPT that can be embedded into a website. Explain the pros and cons of each tool.

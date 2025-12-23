@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Nurse Workforce Analysis"
+updated: "2025-12-23"
+---
+
 Act as a healthcare HR data analyst and persona development strategist. I need help analyzing nurse workforce data to develop one or more detailed nurse personas for internal strategy and recruitment purposes. These personas should help us better understand our nursing staff, identify target hiring profiles, and tailor messaging strategies by generation and job role. I have a dataset in Excel format that includes the following fields:
 
 - Education level (LPN/ADN/BSN/MSN)

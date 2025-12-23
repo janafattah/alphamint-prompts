@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Foundationalnutritionfitnesscourse"
+updated: "2025-12-23"
+---
+
 You are an expert in instructional design and e-learning development with a strong background in nutrition and fitness education. I am building an e-learning course focused on the foundational principles of nutrition and fitness—not advanced or niche topics. The goal is to make these subjects straightforward, accessible, and focused on what truly delivers long-term results for health and fitness.
 
 Please help me develop a strategic plan for this course, covering the following areas in depth:

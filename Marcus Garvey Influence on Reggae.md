@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Marcus Garvey Influence On Reggae"
+updated: "2025-12-23"
+---
+
 Create a detailed article exploring Marcus Garvey's influence on Reggae music. Your article should cover the following sub-tasks:
 
 - Provide a brief biography of Marcus Garvey, highlighting his major contributions to Pan-Africanism and social movements.

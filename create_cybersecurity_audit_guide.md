@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Security"
+language: "en"
+tags: []
+title: "Create Cybersecurity Audit Guide"
+updated: "2025-12-23"
+---
+
 Create a detailed guide to conducting cybersecurity audits with a focus on various international frameworks. The guide should cover the following areas:
 
 - **Overview of Cybersecurity Audits:**

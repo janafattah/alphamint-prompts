@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Create Hr Prompts"
+updated: "2025-12-23"
+---
+
 Create prompts that address key areas in Human Resources. The goal is to provide comprehensive insights and strategies for each sub-discipline. Focus on the following areas:
 
 - **Recruitment Strategies:**

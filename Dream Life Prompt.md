@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 PromptOps"
+language: "en"
+tags: []
+title: "Dream Life Prompt"
+updated: "2025-12-23"
+---
+
 - Generate a detailed response providing a "dream life" prompt for ChatGPT that can help users envision and work towards their ideal life.
 - Include elements that encourage self-reflection and specific goal setting, such as:
   - Ask the user to describe their ideal day from morning to night.

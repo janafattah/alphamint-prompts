@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Create Investment Strategy"
+updated: "2025-12-23"
+---
+
 Create a comprehensive investment strategy prompt for a user who wishes to outperform the S&P 500 (SPY) using an initial capital of $5,000 in their Robinhood account. The user is open to options trading and other investment strategies. Guide the user through the following:
 
 - **Investment Goals:**

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Dementia Cost Analysis"
+updated: "2025-12-23"
+---
+
 Create a comprehensive analysis on the potential financial savings resulting from preventing 30% of dementia diagnoses. Your response should cover the following aspects:
 
 - **Overall Financial Costs**: Explain the potential savings in overall dementia-related costs both within the UK and internationally.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Study Schedule Guidance"
+updated: "2025-12-23"
+---
+
 Help me stay disciplined and scheduled in my studies for the medical residency exam. I need guidance to maintain a structured study schedule, including:
 
 - Creating a detailed and realistic study plan tailored to the medical residency exam.

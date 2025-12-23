@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Personalized Messaging Guide"
+updated: "2025-12-23"
+---
+
 Here's a detailed ChatGPT prompt addressing all the necessary components:
 
 ---

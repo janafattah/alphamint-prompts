@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Luxury Hospitality Training"
+updated: "2025-12-23"
+---
+
 Create comprehensive tourism and hospitality training content focused on the field of luxury modern hospitality. The aim is to educate students and hospitality professionals. Ensure the content covers the following aspects:
 
 - **Overview of Luxury Modern Hospitality:**

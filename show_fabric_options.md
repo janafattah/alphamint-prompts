@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Show Fabric Options"
+updated: "2025-12-23"
+---
+
 You are given an Excel spreadsheet. For each row, generate content for Column F by following these detailed instructions:
 
 - For each product row (starting from row 2), generate content for Column F that summarizes the fabric features and/or benefits of the product in up to 50 words.

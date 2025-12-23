@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Fantasy Football Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for assisting in a fantasy football league, specifically a PPR (points per reception) Superflex dynasty league. Address the following tasks and guidelines:
 
 - Provide strategies for managing weekly drafts and player pickups.

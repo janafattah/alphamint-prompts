@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Engineering"
+language: "en"
+tags: []
+title: "Create Api Specification"
+updated: "2025-12-23"
+---
+
 Create an API specification for a security risk escalation feature, including:
 
 - **Familiarization with Procedures and Design:**

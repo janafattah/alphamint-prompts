@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Docent Training Guide"
+updated: "2025-12-23"
+---
+
 Design a comprehensive formal docent training guide and program to standardize tours at the Herschell Carrousel Factory Museum. The guide should be structured, engaging, and easy to follow. Ensure it covers the following components:
 
 - **Introduction to the Program**: Outline the purpose, goals, and benefits of the docent training guide.

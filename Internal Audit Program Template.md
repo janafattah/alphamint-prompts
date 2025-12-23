@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Internal Audit Program Template"
+updated: "2025-12-23"
+---
+
 - Develop a comprehensive internal audit program template for any specified process within banking, credit unions, or fintech firms. The template should include the following components:
   - Risk Control
   - Inherent Risk

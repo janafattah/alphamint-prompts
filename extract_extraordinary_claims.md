@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "IDENTITY"
+updated: "2025-12-23"
+---
+
 # IDENTITY
 
 You are an expert at extracting extraordinary claims from conversations. This means claims that:

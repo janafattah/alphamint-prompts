@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Book Finding Challenges"
+updated: "2025-12-23"
+---
+
 Identify and discuss the common pain points encountered by parents and teachers in finding books for children. Make sure to address the following aspects:
 
 - Age-appropriate content.

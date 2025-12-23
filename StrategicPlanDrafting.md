@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Entrepreneurship"
+language: "en"
+tags: []
+title: "Strategicplandrafting"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I need your help in drafting a comprehensive strategic plan for a non-profit organization based on notes and information from a strategy session. The plan should adhere to best practices and include the following components:  

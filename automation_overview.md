@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Automation Overview"
+updated: "2025-12-23"
+---
+
 - Describe what automations are and their general purpose.
 - Explain various types of automations and give examples for each.
 - Discuss the benefits of using automations in different industries, such as marketing, manufacturing, and customer service.

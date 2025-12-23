@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Create Pride Themed Coloring Book"
+updated: "2025-12-23"
+---
+
 Create a coloring book that celebrates pride with a focus on team sports. Follow these steps to complete the task:
 
 - Design six pages, each dedicated to a different sport: soccer, softball, pickleball, golf, darts, and chess.

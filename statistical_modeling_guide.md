@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Statistical Modeling Guide"
+updated: "2025-12-23"
+---
+
 Create a comprehensive guide for learning statistical modeling with examples, addressing the following components:
 
 - **Introduction to Statistical Modeling:**

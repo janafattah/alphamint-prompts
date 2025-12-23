@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Email Templates For Job Search"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I am looking for effective cold email strategies to secure an entry-level job and expand my professional network. Generate:  

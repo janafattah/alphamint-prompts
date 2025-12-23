@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Tiktok Media Stage"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**
 
 - Analyze the current development stage of TikTok within the context of the media life cycle. Break down the media life cycle into its key stages for a thorough understanding.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Inbound Call Management Strategies"
+updated: "2025-12-23"
+---
+
 Create a comprehensive solution for addressing an issue with inbound calls in a business environment where staff are frequently busy, resulting in a high number of abandoned calls. Consider and include:
 
 - Identification of the root causes of the inbound calling issue and busy staff, suggesting how these could be analyzed.

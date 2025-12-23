@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Virtual Assistant Recruitment"
+updated: "2025-12-23"
+---
+
 ### ChatGPT Prompt:
 
 I need your help to create a comprehensive template for hiring a Virtual Assistant (VA) / Online Business Manager (OBM). The template should cover the following components:

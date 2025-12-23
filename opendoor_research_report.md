@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Opendoor Research Report"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "I am researching Opendoor, a real estate development company that built and managed co-living spaces, but later closed unexpectedly. I need a detailed and wide-ranging report covering the following aspects:  

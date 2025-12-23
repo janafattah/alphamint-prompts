@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Write Linkedin Message"
+updated: "2025-12-23"
+---
+
 Help me write a LinkedIn message to the president of a corporate foundation.
 
 - Begin with a polite greeting and a mention about the endorsement and recent connection on LinkedIn.

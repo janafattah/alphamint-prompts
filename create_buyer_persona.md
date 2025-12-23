@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Buyer Persona"
+updated: "2025-12-23"
+---
+
 Certainly! Here's the high-quality ChatGPT prompt based on the provided request:
 
 ---

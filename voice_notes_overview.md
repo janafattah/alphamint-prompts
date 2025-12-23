@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Voice Notes Overview"
+updated: "2025-12-23"
+---
+
 Explain voice notes:
 
 - Explain what voice notes are and their primary purpose.

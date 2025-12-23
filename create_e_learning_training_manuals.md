@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create E Learning Training Manuals"
+updated: "2025-12-23"
+---
+
 Create comprehensive training manuals and coaching protocols for e-learning courses. Address the following components in detail:
 
 - **Course Objectives and Outcomes**: Clearly define the objectives and learning outcomes for each course. Ensure these are SMART (Specific, Measurable, Achievable, Relevant, Time-bound).

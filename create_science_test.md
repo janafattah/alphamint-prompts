@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Science Test"
+updated: "2025-12-23"
+---
+
 Create a science test at the 8th to 9th-grade level focusing on the Earth's atmosphere. Ensure the test includes a variety of question types (e.g., multiple choice, short answer, and true/false) and covers the following topics:
 
 - Definitions and significance of key terms: humidity, climate, altitude, respiration, carbon dioxide, weather, ozone, water vapor.

@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Analyze Contract Compliance"
+updated: "2025-12-23"
+---
+
 Review the following proposed employment contract and job description for the position of Director of a Centre de la Petite Enfance (CPE) with 80 spaces in Montreal. Assess the contract based on the following criteria:
 
 - **Quebec Employment Law**: Identify any clauses that may not comply with Quebec labor laws and suggest necessary modifications.  

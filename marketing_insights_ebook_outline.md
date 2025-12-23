@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Marketing Insights Ebook Outline"
+updated: "2025-12-23"
+---
+
 Create an outline for an eBook using marketing insights inspired by David Ogilvy. The outline should:
 
 - Include storytelling elements to make the insights engaging and relatable to the audience.

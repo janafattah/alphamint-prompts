@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Dog Butts Coloring Book"
+updated: "2025-12-23"
+---
+
 Create a detailed and creative concept for an adult coloring book that adheres to the following guidelines:
 
 - **Level of Difficulty**: Ensure the designs are easy to color, suitable for adults who prefer simplicity.

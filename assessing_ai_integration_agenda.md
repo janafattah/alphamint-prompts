@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Meetings"
+language: "en"
+tags: []
+title: "Assessing Ai Integration Agenda"
+updated: "2025-12-23"
+---
+
 Create an initial meeting agenda to assess the feasibility of integrating AI into a current workflow within a professional services firm. Your response should cover the following:
 
 - Identify the current workflow and highlight the key processes and challenges within it.

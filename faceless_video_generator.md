@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Faceless Video Generator"
+updated: "2025-12-23"
+---
+
 - Describe a faceless video generator.
 - Explain its core functionalities and key features.
 - Detail the type of content that can be created using a faceless video generator.

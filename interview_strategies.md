@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Interview Strategies"
+updated: "2025-12-23"
+---
+
 - You are preparing to meet with the director of World Seas Shipping Services to win a job opportunity. Please help me with strategies for this meeting.
 - Provide tips on how to research and understand the company’s objectives, culture, and the shipping industry trends that might be relevant for the meeting.
 - Offer guidance on how to articulate and present my skills and experiences in a way that aligns with the company’s needs.

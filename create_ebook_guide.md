@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create Ebook Guide"
+updated: "2025-12-23"
+---
+
 Create a step-by-step guide to help in the creation of an ebook. Include the following considerations:
 
 - **Planning Stage**:

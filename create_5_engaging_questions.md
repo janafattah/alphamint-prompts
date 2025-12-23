@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Create 5 Engaging Questions"
+updated: "2025-12-23"
+---
+
 Create a set of 5 compelling and thought-provoking questions tailored for [specific niche/audience]. Follow these guidelines:
 
 • Ensure each question is concise (10-15 words maximum), open-ended, and designed to elicit personal experiences or opinions.

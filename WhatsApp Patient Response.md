@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Whatsapp Patient Response"
+updated: "2025-12-23"
+---
+
 - **Context:** I am an Ayurveda practitioner, and many of my patients reach out to me via WhatsApp with various questions related to their healing journey. Each patient is in a different phase of their treatment and requires personalized responses.
 
 - **Objective:** I want to train a software or API to imitate my style of communication so that it can reply to my patients in real time via WhatsApp, as if I am personally responding to them.

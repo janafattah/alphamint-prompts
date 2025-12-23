@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Textanalyse"
+language: "en"
+tags: []
+title: "Industry Analysis Overview"
+updated: "2025-12-23"
+---
+
 Provide a comprehensive overview of the key industries. For each industry, include the following details:
 
 - **Industry Name**

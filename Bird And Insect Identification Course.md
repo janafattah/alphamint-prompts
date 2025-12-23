@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Bird And Insect Identification Course"
+updated: "2025-12-23"
+---
+
 Create a detailed lesson plan outline for an online bird and insect identification course designed to connect students with local wildlife, spark curiosity, and build observation skills. Your outline should cover the following areas:
 
 - **Course Structure:**

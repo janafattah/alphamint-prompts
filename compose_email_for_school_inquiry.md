@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Content"
+language: "en"
+tags: []
+title: "Compose Email For School Inquiry"
+updated: "2025-12-23"
+---
+
 Compose a professional and well-crafted email addressed to the director of communications at a real estate development company overseeing a major revitalization project in Montreal. The email should:
 
 - Politely inquire about plans for a primary school as part of the development, which includes shops, offices, residences, and a hotel.

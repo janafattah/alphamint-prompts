@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Schule"
+language: "en"
+tags: []
+title: "Gre Study Guide"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 "Create a detailed study guide with step-by-step, line-by-line instructions on how to effectively study for and successfully pass the GRE. The guide should be structured in a clear, actionable manner and should include:  

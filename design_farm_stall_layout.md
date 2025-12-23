@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Design Farm Stall Layout"
+updated: "2025-12-23"
+---
+
 Design a detailed layout and conceptual plan for a farm stall utilizing six shipping containers on a one-hectare piece of land. Ensure that the containers are arranged in a U-shape with no gaps between them. The design must incorporate the following elements:  
 
 - A functional and visually appealing farm stall layout within the U-shaped container structure.  

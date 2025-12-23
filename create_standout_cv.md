@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Karriere"
+language: "en"
+tags: []
+title: "Create Standout Cv"
+updated: "2025-12-23"
+---
+
 Create a comprehensive ChatGPT prompt to help with crafting and optimizing a CV. Include guidance for generating a standout CV and transforming an existing one to increase job-winning potential:
 
 - Provide step-by-step instructions on how to create a compelling CV from scratch. Include sections like personal information, professional summary, experience, skills, education, and any additional relevant sections.

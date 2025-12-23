@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Explore Mandalas And Sacred Forms"
+updated: "2025-12-23"
+---
+
 Create a comprehensive 6-page guide that explores Mandalas and sacred forms. Please include the following components in detail:
 
 - **Introduction to Mandalas**: Provide an overview of what Mandalas are, including their historical and cultural significance. Discuss their origins in different cultures and religions.

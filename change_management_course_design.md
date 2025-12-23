@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 Kreativität"
+language: "en"
+tags: []
+title: "Change Management Course Design"
+updated: "2025-12-23"
+---
+
 **ChatGPT Prompt:**  
 
 I need your help in designing a full and complete online course on change management. Please provide a structured course outline with detailed descriptions for each module, ensuring that it incorporates best practices and real-world applications. The course should be comprehensive, engaging, and suitable for an international audience. Use the following guidelines:  

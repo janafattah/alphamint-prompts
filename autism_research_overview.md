@@ -1,3 +1,11 @@
+---
+category_ai4: "AI 4 UNK"
+language: "en"
+tags: []
+title: "Autism Research Overview"
+updated: "2025-12-23"
+---
+
 Create a comprehensive overview of the latest research related to autism, focusing on the following key areas:
 
 - **Causes of Autism**: 
