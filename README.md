@@ -1,36 +1,15 @@
-# AI 4 WEALTH – Core Prompt Library (DE)
+# Alphamint Prompt Library
 
-Stand: 2025-12-23
+Kurz: Diese Library sammelt praxistaugliche Prompt-Vorlagen für unterschiedliche Aufgaben, Teams und Branchen.
 
-## Inhalte
+## Start here
+1. Wähle ein Thema oder einen Bereich.
+2. Öffne den passenden Prompt und fülle die Inputs aus.
+3. Nutze den Output als Arbeitsgrundlage und verfeinere ihn mit deinem Kontext.
 
-- 01. **Vermögens-Snapshot (Net Worth)** (`ai4_wealth/01_vermoegens_snapshot_net_worth.md`)
-- 02. **Cashflow Analyse** (`ai4_wealth/02_cashflow_analyse.md`)
-- 03. **Ziel-Plan in Szenarien** (`ai4_wealth/03_ziel_plan_in_szenarien.md`)
-- 04. **ETF-Plan als Prinzipien** (`ai4_wealth/04_etf_plan_als_prinzipien.md`)
-- 05. **Immobilie vs. Mieten Entscheidungslogik** (`ai4_wealth/05_immobilie_vs_mieten_entscheidungslogik.md`)
-- 06. **Schulden-Strategie** (`ai4_wealth/06_schulden_strategie.md`)
-- 07. **Notgroschen Regel** (`ai4_wealth/07_notgroschen_regel.md`)
-- 08. **Jahres-Review (Finanzen)** (`ai4_wealth/08_jahres_review_finanzen.md`)
-- 09. **Portfolio-Risiko-Check** (`ai4_wealth/09_portfolio_risiko_check.md`)
-- 10. **Financial One-Pager** (`ai4_wealth/10_financial_one_pager.md`)
-- 11. **Review & Improve (AI 4 WEALTH) #1** (`ai4_wealth/11_review_improve_ai_4_wealth_1.md`)
-- 12. **One-Pager Builder (AI 4 WEALTH) #2** (`ai4_wealth/12_one_pager_builder_ai_4_wealth_2.md`)
-- 13. **Checklist Generator (AI 4 WEALTH) #3** (`ai4_wealth/13_checklist_generator_ai_4_wealth_3.md`)
-- 14. **Template Pack (AI 4 WEALTH) #4** (`ai4_wealth/14_template_pack_ai_4_wealth_4.md`)
-- 15. **FAQ & Objections (AI 4 WEALTH) #5** (`ai4_wealth/15_faq_objections_ai_4_wealth_5.md`)
-- 16. **Review & Improve (AI 4 WEALTH) #6** (`ai4_wealth/16_review_improve_ai_4_wealth_6.md`)
-- 17. **One-Pager Builder (AI 4 WEALTH) #7** (`ai4_wealth/17_one_pager_builder_ai_4_wealth_7.md`)
-- 18. **Checklist Generator (AI 4 WEALTH) #8** (`ai4_wealth/18_checklist_generator_ai_4_wealth_8.md`)
-- 19. **Template Pack (AI 4 WEALTH) #9** (`ai4_wealth/19_template_pack_ai_4_wealth_9.md`)
-- 20. **FAQ & Objections (AI 4 WEALTH) #10** (`ai4_wealth/20_faq_objections_ai_4_wealth_10.md`)
-- 21. **Review & Improve (AI 4 WEALTH) #11** (`ai4_wealth/21_review_improve_ai_4_wealth_11.md`)
-- 22. **One-Pager Builder (AI 4 WEALTH) #12** (`ai4_wealth/22_one_pager_builder_ai_4_wealth_12.md`)
-- 23. **Checklist Generator (AI 4 WEALTH) #13** (`ai4_wealth/23_checklist_generator_ai_4_wealth_13.md`)
-- 24. **Template Pack (AI 4 WEALTH) #14** (`ai4_wealth/24_template_pack_ai_4_wealth_14.md`)
-- 25. **FAQ & Objections (AI 4 WEALTH) #15** (`ai4_wealth/25_faq_objections_ai_4_wealth_15.md`)
-- 26. **Review & Improve (AI 4 WEALTH) #16** (`ai4_wealth/26_review_improve_ai_4_wealth_16.md`)
-- 27. **One-Pager Builder (AI 4 WEALTH) #17** (`ai4_wealth/27_one_pager_builder_ai_4_wealth_17.md`)
-- 28. **Checklist Generator (AI 4 WEALTH) #18** (`ai4_wealth/28_checklist_generator_ai_4_wealth_18.md`)
-- 29. **Template Pack (AI 4 WEALTH) #19** (`ai4_wealth/29_template_pack_ai_4_wealth_19.md`)
-- 30. **FAQ & Objections (AI 4 WEALTH) #20** (`ai4_wealth/30_faq_objections_ai_4_wealth_20.md`)
+## Notion
+Mehr Kontext, Hintergründe und Prozesse findest du in Notion (Platzhalter-Link):
+- https://www.notion.so/alphamint-placeholder
+
+## Curated
+Im Ordner `curated/` findest du geprüfte, besonders nützliche Prompts sowie kuratierte Sammlungen.
