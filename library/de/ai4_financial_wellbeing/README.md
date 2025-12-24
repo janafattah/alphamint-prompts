@@ -1,36 +1,13 @@
-# AI 4 FINANCIAL WELLBEING – Core Prompt Library (DE)
+# Ai4 Financial Wellbeing
 
-Stand: 2025-12-23
+Prompts für finanzielle Gesundheit und Budgetierung.
 
-## Inhalte
+## Enthaltene Prompts (2)
 
-- 01. **Money Noise Detox** (`ai4_financial_wellbeing/01_money_noise_detox.md`)
-- 02. **Impulskauf-Protokoll** (`ai4_financial_wellbeing/02_impulskauf_protokoll.md`)
-- 03. **Monats-Reset (Geld)** (`ai4_financial_wellbeing/03_monats_reset_geld.md`)
-- 04. **Geldgespräch mit Partner:in** (`ai4_financial_wellbeing/04_geldgespraech_mit_partner_in.md`)
-- 05. **Budget ohne Excel-Hölle** (`ai4_financial_wellbeing/05_budget_ohne_excel_hoelle.md`)
-- 06. **Schamfreie Ausgabenanalyse** (`ai4_financial_wellbeing/06_schamfreie_ausgabenanalyse.md`)
-- 07. **Stress-to-Plan** (`ai4_financial_wellbeing/07_stress_to_plan.md`)
-- 08. **Zielbild: finanziell frei, aber real** (`ai4_financial_wellbeing/08_zielbild_finanziell_frei_aber_real.md`)
-- 09. **Money Boundaries** (`ai4_financial_wellbeing/09_money_boundaries.md`)
-- 10. **Routine: 10-Minuten-Finanzpflege** (`ai4_financial_wellbeing/10_routine_10_minuten_finanzpflege.md`)
-- 11. **Review & Improve (AI 4 FINANCIAL WELLBEING) #1** (`ai4_financial_wellbeing/11_review_improve_ai_4_financial_wellbeing_1.md`)
-- 12. **One-Pager Builder (AI 4 FINANCIAL WELLBEING) #2** (`ai4_financial_wellbeing/12_one_pager_builder_ai_4_financial_wellbeing_2.md`)
-- 13. **Checklist Generator (AI 4 FINANCIAL WELLBEING) #3** (`ai4_financial_wellbeing/13_checklist_generator_ai_4_financial_wellbeing_3.md`)
-- 14. **Template Pack (AI 4 FINANCIAL WELLBEING) #4** (`ai4_financial_wellbeing/14_template_pack_ai_4_financial_wellbeing_4.md`)
-- 15. **FAQ & Objections (AI 4 FINANCIAL WELLBEING) #5** (`ai4_financial_wellbeing/15_faq_objections_ai_4_financial_wellbeing_5.md`)
-- 16. **Review & Improve (AI 4 FINANCIAL WELLBEING) #6** (`ai4_financial_wellbeing/16_review_improve_ai_4_financial_wellbeing_6.md`)
-- 17. **One-Pager Builder (AI 4 FINANCIAL WELLBEING) #7** (`ai4_financial_wellbeing/17_one_pager_builder_ai_4_financial_wellbeing_7.md`)
-- 18. **Checklist Generator (AI 4 FINANCIAL WELLBEING) #8** (`ai4_financial_wellbeing/18_checklist_generator_ai_4_financial_wellbeing_8.md`)
-- 19. **Template Pack (AI 4 FINANCIAL WELLBEING) #9** (`ai4_financial_wellbeing/19_template_pack_ai_4_financial_wellbeing_9.md`)
-- 20. **FAQ & Objections (AI 4 FINANCIAL WELLBEING) #10** (`ai4_financial_wellbeing/20_faq_objections_ai_4_financial_wellbeing_10.md`)
-- 21. **Review & Improve (AI 4 FINANCIAL WELLBEING) #11** (`ai4_financial_wellbeing/21_review_improve_ai_4_financial_wellbeing_11.md`)
-- 22. **One-Pager Builder (AI 4 FINANCIAL WELLBEING) #12** (`ai4_financial_wellbeing/22_one_pager_builder_ai_4_financial_wellbeing_12.md`)
-- 23. **Checklist Generator (AI 4 FINANCIAL WELLBEING) #13** (`ai4_financial_wellbeing/23_checklist_generator_ai_4_financial_wellbeing_13.md`)
-- 24. **Template Pack (AI 4 FINANCIAL WELLBEING) #14** (`ai4_financial_wellbeing/24_template_pack_ai_4_financial_wellbeing_14.md`)
-- 25. **FAQ & Objections (AI 4 FINANCIAL WELLBEING) #15** (`ai4_financial_wellbeing/25_faq_objections_ai_4_financial_wellbeing_15.md`)
-- 26. **Review & Improve (AI 4 FINANCIAL WELLBEING) #16** (`ai4_financial_wellbeing/26_review_improve_ai_4_financial_wellbeing_16.md`)
-- 27. **One-Pager Builder (AI 4 FINANCIAL WELLBEING) #17** (`ai4_financial_wellbeing/27_one_pager_builder_ai_4_financial_wellbeing_17.md`)
-- 28. **Checklist Generator (AI 4 FINANCIAL WELLBEING) #18** (`ai4_financial_wellbeing/28_checklist_generator_ai_4_financial_wellbeing_18.md`)
-- 29. **Template Pack (AI 4 FINANCIAL WELLBEING) #19** (`ai4_financial_wellbeing/29_template_pack_ai_4_financial_wellbeing_19.md`)
-- 30. **FAQ & Objections (AI 4 FINANCIAL WELLBEING) #20** (`ai4_financial_wellbeing/30_faq_objections_ai_4_financial_wellbeing_20.md`)
+| Titel | Datei |
+|-------|-------|
+| Credit Card Management Guide | credit_card_management_guide.md |
+| MASTER CONTEXT – AI 4 WEALTH (Financial Intelligence) | 00_master_context.md |
+
+---
+*Aktualisiert: 2025-12-24*

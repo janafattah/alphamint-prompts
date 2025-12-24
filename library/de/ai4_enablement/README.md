@@ -1,36 +1,75 @@
-# AI 4 ENABLEMENT – Core Prompt Library (DE)
+# Ai4 Enablement
 
-Stand: 2025-12-23
+Prompts für AI-Einführung, Training und Change Management.
 
-## Inhalte
+## Enthaltene Prompts (64)
 
-- 01. **Usage-Gap Diagnose** (`ai4_enablement/01_usage_gap_diagnose.md`)
-- 02. **Stakeholder-Messaging Pack** (`ai4_enablement/02_stakeholder_messaging_pack.md`)
-- 03. **Enablement-Training 75 Minuten** (`ai4_enablement/03_enablement_training_75_minuten.md`)
-- 04. **Champion-Programm** (`ai4_enablement/04_champion_programm.md`)
-- 05. **AI-Policy in Klartext** (`ai4_enablement/05_ai_policy_in_klartext.md`)
-- 06. **Adoption KPI Dashboard** (`ai4_enablement/06_adoption_kpi_dashboard.md`)
-- 07. **Prompt-Kit für Teams** (`ai4_enablement/07_prompt_kit_fuer_teams.md`)
-- 08. **Enablement Playbook (SOPs)** (`ai4_enablement/08_enablement_playbook_sops.md`)
-- 09. **Widerstand & Einwände** (`ai4_enablement/09_widerstand_einwaende.md`)
-- 10. **Review & Improve (AI 4 ENABLEMENT) #1** (`ai4_enablement/10_review_improve_ai_4_enablement_1.md`)
-- 11. **One-Pager Builder (AI 4 ENABLEMENT) #2** (`ai4_enablement/11_one_pager_builder_ai_4_enablement_2.md`)
-- 12. **Checklist Generator (AI 4 ENABLEMENT) #3** (`ai4_enablement/12_checklist_generator_ai_4_enablement_3.md`)
-- 13. **Template Pack (AI 4 ENABLEMENT) #4** (`ai4_enablement/13_template_pack_ai_4_enablement_4.md`)
-- 14. **FAQ & Objections (AI 4 ENABLEMENT) #5** (`ai4_enablement/14_faq_objections_ai_4_enablement_5.md`)
-- 15. **Review & Improve (AI 4 ENABLEMENT) #6** (`ai4_enablement/15_review_improve_ai_4_enablement_6.md`)
-- 16. **One-Pager Builder (AI 4 ENABLEMENT) #7** (`ai4_enablement/16_one_pager_builder_ai_4_enablement_7.md`)
-- 17. **Checklist Generator (AI 4 ENABLEMENT) #8** (`ai4_enablement/17_checklist_generator_ai_4_enablement_8.md`)
-- 18. **Template Pack (AI 4 ENABLEMENT) #9** (`ai4_enablement/18_template_pack_ai_4_enablement_9.md`)
-- 19. **FAQ & Objections (AI 4 ENABLEMENT) #10** (`ai4_enablement/19_faq_objections_ai_4_enablement_10.md`)
-- 20. **Review & Improve (AI 4 ENABLEMENT) #11** (`ai4_enablement/20_review_improve_ai_4_enablement_11.md`)
-- 21. **One-Pager Builder (AI 4 ENABLEMENT) #12** (`ai4_enablement/21_one_pager_builder_ai_4_enablement_12.md`)
-- 22. **Checklist Generator (AI 4 ENABLEMENT) #13** (`ai4_enablement/22_checklist_generator_ai_4_enablement_13.md`)
-- 23. **Template Pack (AI 4 ENABLEMENT) #14** (`ai4_enablement/23_template_pack_ai_4_enablement_14.md`)
-- 24. **FAQ & Objections (AI 4 ENABLEMENT) #15** (`ai4_enablement/24_faq_objections_ai_4_enablement_15.md`)
-- 25. **Review & Improve (AI 4 ENABLEMENT) #16** (`ai4_enablement/25_review_improve_ai_4_enablement_16.md`)
-- 26. **One-Pager Builder (AI 4 ENABLEMENT) #17** (`ai4_enablement/26_one_pager_builder_ai_4_enablement_17.md`)
-- 27. **Checklist Generator (AI 4 ENABLEMENT) #18** (`ai4_enablement/27_checklist_generator_ai_4_enablement_18.md`)
-- 28. **Template Pack (AI 4 ENABLEMENT) #19** (`ai4_enablement/28_template_pack_ai_4_enablement_19.md`)
-- 29. **FAQ & Objections (AI 4 ENABLEMENT) #20** (`ai4_enablement/29_faq_objections_ai_4_enablement_20.md`)
-- 30. **Review & Improve (AI 4 ENABLEMENT) #21** (`ai4_enablement/30_review_improve_ai_4_enablement_21.md`)
+| Titel | Datei |
+|-------|-------|
+| AI-Policy in Klartext | 05_ai_policy_in_klartext.md |
+| Adoption KPI Dashboard | 06_adoption_kpi_dashboard.md |
+| Analyze Resume Transition | analyze_resume_transition.md |
+| Analyze Trading Card Sales | analyze_trading_card_sales.md |
+| Annual Training Strategy Plan | annual_training_strategy_plan.md |
+| Area Manager Plan | area_manager_plan.md |
+| Champion-Programm | 04_champion_programm.md |
+| Checklist Generator (AI 4 ENABLEMENT) #13 | 22_checklist_generator_ai_4_enablement_13.md |
+| Checklist Generator (AI 4 ENABLEMENT) #18 | 27_checklist_generator_ai_4_enablement_18.md |
+| Checklist Generator (AI 4 ENABLEMENT) #3 | 12_checklist_generator_ai_4_enablement_3.md |
+| Checklist Generator (AI 4 ENABLEMENT) #8 | 17_checklist_generator_ai_4_enablement_8.md |
+| Create Privacy Policy | create_privacy_policy.md |
+| Create Terms And Conditions | create_terms_and_conditions.md |
+| Create Timetable For Training | create_timetable_for_training.md |
+| Create Training Materials | create_training_materials.md |
+| Design Dei Course Structure | design_dei_course_structure.md |
+| Dialogue Optimization For Screenplays | dialogue_optimization_for_screenplays.md |
+| Dietary Supplements Regulation Overview | dietary_supplements_regulation_overview.md |
+| Enablement Playbook (SOPs) | 08_enablement_playbook_sops.md |
+| Enablement-Training 75 Minuten | 03_enablement_training_75_minuten.md |
+| Extract Wisdom | extract_wisdom.md |
+| FAQ & Objections (AI 4 ENABLEMENT) #10 | 19_faq_objections_ai_4_enablement_10.md |
+| FAQ & Objections (AI 4 ENABLEMENT) #15 | 24_faq_objections_ai_4_enablement_15.md |
+| FAQ & Objections (AI 4 ENABLEMENT) #20 | 29_faq_objections_ai_4_enablement_20.md |
+| FAQ & Objections (AI 4 ENABLEMENT) #5 | 14_faq_objections_ai_4_enablement_5.md |
+| Game Mastery Assistant | game_mastery_assistant.md |
+| IDENTITY | summarize_debate.md |
+| IDENTITY | extract_extraordinary_claims.md |
+| IDENTITY AND PURPOSE | write_pull-request.md |
+| IDENTITY and PURPOSE | extract_algorithm_update_recommendations.md |
+| IDENTITY and PURPOSE | create_git_diff_commit.md |
+| IDENTITY and PURPOSE | analyze_debate.md |
+| IDENTITY and PURPOSE | clean_text.md |
+| IDENTITY and PURPOSE | summarize_git_diff.md |
+| IDENTITY and PURPOSE | create_show_intro.md |
+| IDENTITY and PURPOSE | summarize_git_changes.md |
+| Improve Fable Structure | improve_fable_structure.md |
+| Luxury Hospitality Training | Luxury Hospitality Training.md |
+| Medical Record Translation | medical_record_translation.md |
+| One-Pager Builder (AI 4 ENABLEMENT) #12 | 21_one_pager_builder_ai_4_enablement_12.md |
+| One-Pager Builder (AI 4 ENABLEMENT) #17 | 26_one_pager_builder_ai_4_enablement_17.md |
+| One-Pager Builder (AI 4 ENABLEMENT) #2 | 11_one_pager_builder_ai_4_enablement_2.md |
+| One-Pager Builder (AI 4 ENABLEMENT) #7 | 16_one_pager_builder_ai_4_enablement_7.md |
+| Predicting Road Deterioration | predicting_road_deterioration.md |
+| Prompt-Kit für Teams | 07_prompt_kit_fuer_teams.md |
+| Proofread Document | proofread_document.md |
+| Review & Improve (AI 4 ENABLEMENT) #1 | 10_review_improve_ai_4_enablement_1.md |
+| Review & Improve (AI 4 ENABLEMENT) #11 | 20_review_improve_ai_4_enablement_11.md |
+| Review & Improve (AI 4 ENABLEMENT) #16 | 25_review_improve_ai_4_enablement_16.md |
+| Review & Improve (AI 4 ENABLEMENT) #21 | 30_review_improve_ai_4_enablement_21.md |
+| Review & Improve (AI 4 ENABLEMENT) #6 | 15_review_improve_ai_4_enablement_6.md |
+| Reviewictpolicies | ReviewIctPolicies.md |
+| Service Desk Development Plan | service_desk_development_plan.md |
+| Stakeholder-Messaging Pack | 02_stakeholder_messaging_pack.md |
+| Strategic Plan For Ngo | strategic_plan_for_ngo.md |
+| Succession Planning For Schools | succession_planning_for_schools.md |
+| Template Pack (AI 4 ENABLEMENT) #14 | 23_template_pack_ai_4_enablement_14.md |
+| Template Pack (AI 4 ENABLEMENT) #19 | 28_template_pack_ai_4_enablement_19.md |
+| Template Pack (AI 4 ENABLEMENT) #4 | 13_template_pack_ai_4_enablement_4.md |
+| Template Pack (AI 4 ENABLEMENT) #9 | 18_template_pack_ai_4_enablement_9.md |
+| Usage-Gap Diagnose | 01_usage_gap_diagnose.md |
+| Visualize Diabetes Manuscript | visualize_diabetes_manuscript.md |
+| Wellness Guide | wellness_guide.md |
+| Widerstand & Einwände | 09_widerstand_einwaende.md |
+
+---
+*Aktualisiert: 2025-12-24*
