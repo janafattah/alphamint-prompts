@@ -1,36 +1,16 @@
-# AI 4 LITERACY – Core Prompt Library (DE)
+# Ai4 Literacy
 
-Stand: 2025-12-23
+Prompts für AI-Grundlagen und Sicherheit.
 
-## Inhalte
+## Enthaltene Prompts (5)
 
-- 01. **AI Basics in 30 Minuten (Crashkurs)** (`ai4_literacy/01_ai_basics_in_30_minuten_crashkurs.md`)
-- 02. **Prompting 101: Inputs, Rollen, Output** (`ai4_literacy/02_prompting_101_inputs_rollen_output.md`)
-- 03. **Fact-Checking Workflow** (`ai4_literacy/03_fact_checking_workflow.md`)
-- 04. **Data Safety: Was darf ich eingeben?** (`ai4_literacy/04_data_safety_was_darf_ich_eingeben.md`)
-- 05. **AI Mythen entkräften** (`ai4_literacy/05_ai_mythen_entkraeften.md`)
-- 06. **AI Skill Ladder (4 Wochen)** (`ai4_literacy/06_ai_skill_ladder_4_wochen.md`)
-- 07. **AI in Meetings: Live Assist** (`ai4_literacy/07_ai_in_meetings_live_assist.md`)
-- 08. **AI für Recherche: Query-Design** (`ai4_literacy/08_ai_fuer_recherche_query_design.md`)
-- 09. **Bias & Fairness Basics** (`ai4_literacy/09_bias_fairness_basics.md`)
-- 10. **AI Glossar in Klartext** (`ai4_literacy/10_ai_glossar_in_klartext.md`)
-- 11. **Review & Improve (AI 4 LITERACY) #1** (`ai4_literacy/11_review_improve_ai_4_literacy_1.md`)
-- 12. **One-Pager Builder (AI 4 LITERACY) #2** (`ai4_literacy/12_one_pager_builder_ai_4_literacy_2.md`)
-- 13. **Checklist Generator (AI 4 LITERACY) #3** (`ai4_literacy/13_checklist_generator_ai_4_literacy_3.md`)
-- 14. **Template Pack (AI 4 LITERACY) #4** (`ai4_literacy/14_template_pack_ai_4_literacy_4.md`)
-- 15. **FAQ & Objections (AI 4 LITERACY) #5** (`ai4_literacy/15_faq_objections_ai_4_literacy_5.md`)
-- 16. **Workshop Plan (AI 4 LITERACY) #6** (`ai4_literacy/16_workshop_plan_ai_4_literacy_6.md`)
-- 17. **Prompt Kit (10 Stück) (AI 4 LITERACY) #7** (`ai4_literacy/17_prompt_kit_10_stueck_ai_4_literacy_7.md`)
-- 18. **Review & Improve (AI 4 LITERACY) #8** (`ai4_literacy/18_review_improve_ai_4_literacy_8.md`)
-- 19. **One-Pager Builder (AI 4 LITERACY) #9** (`ai4_literacy/19_one_pager_builder_ai_4_literacy_9.md`)
-- 20. **Checklist Generator (AI 4 LITERACY) #10** (`ai4_literacy/20_checklist_generator_ai_4_literacy_10.md`)
-- 21. **Template Pack (AI 4 LITERACY) #11** (`ai4_literacy/21_template_pack_ai_4_literacy_11.md`)
-- 22. **FAQ & Objections (AI 4 LITERACY) #12** (`ai4_literacy/22_faq_objections_ai_4_literacy_12.md`)
-- 23. **Workshop Plan (AI 4 LITERACY) #13** (`ai4_literacy/23_workshop_plan_ai_4_literacy_13.md`)
-- 24. **Prompt Kit (10 Stück) (AI 4 LITERACY) #14** (`ai4_literacy/24_prompt_kit_10_stueck_ai_4_literacy_14.md`)
-- 25. **Review & Improve (AI 4 LITERACY) #15** (`ai4_literacy/25_review_improve_ai_4_literacy_15.md`)
-- 26. **One-Pager Builder (AI 4 LITERACY) #16** (`ai4_literacy/26_one_pager_builder_ai_4_literacy_16.md`)
-- 27. **Checklist Generator (AI 4 LITERACY) #17** (`ai4_literacy/27_checklist_generator_ai_4_literacy_17.md`)
-- 28. **Template Pack (AI 4 LITERACY) #18** (`ai4_literacy/28_template_pack_ai_4_literacy_18.md`)
-- 29. **FAQ & Objections (AI 4 LITERACY) #19** (`ai4_literacy/29_faq_objections_ai_4_literacy_19.md`)
-- 30. **Workshop Plan (AI 4 LITERACY) #20** (`ai4_literacy/30_workshop_plan_ai_4_literacy_20.md`)
+| Titel | Datei |
+|-------|-------|
+| Ai Fundamentals And Resources | ai_fundamentals_and_resources.md |
+| Blog Creation Tasks | blog_creation_tasks.md |
+| Create Technology Course Outline | create_technology_course_outline.md |
+| Poker Guide | poker_guide.md |
+| Signal Analysis Curriculum | signal_analysis_curriculum.md |
+
+---
+*Aktualisiert: 2025-12-24*

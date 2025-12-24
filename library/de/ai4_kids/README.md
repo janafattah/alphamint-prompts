@@ -1,36 +1,56 @@
-# AI 4 KIDS – Core Prompt Library (DE)
+# Ai4 Kids
 
-Stand: 2025-12-23
+Prompts für Bildung und Kinder-Themen.
 
-## Inhalte
+## Enthaltene Prompts (45)
 
-- 01. **AI-Sicherheitsregeln für Kinder** (`ai4_kids/01_ai_sicherheitsregeln_fuer_kinder.md`)
-- 02. **Lernkarten Generator** (`ai4_kids/02_lernkarten_generator.md`)
-- 03. **Geschichte zum Lernen** (`ai4_kids/03_geschichte_zum_lernen.md`)
-- 04. **Hausaufgaben-Hilfe ohne Lösung verraten** (`ai4_kids/04_hausaufgaben_hilfe_ohne_loesung_verraten.md`)
-- 05. **Vibe Coding Mini-Projekt** (`ai4_kids/05_vibe_coding_mini_projekt.md`)
-- 06. **Mathe erklären** (`ai4_kids/06_mathe_erklaeren.md`)
-- 07. **Eltern-Check: AI im Alltag** (`ai4_kids/07_eltern_check_ai_im_alltag.md`)
-- 08. **Fake vs Echt Training** (`ai4_kids/08_fake_vs_echt_training.md`)
-- 09. **Sprachtraining** (`ai4_kids/09_sprachtraining.md`)
-- 10. **Kreativ-Challenge** (`ai4_kids/10_kreativ_challenge.md`)
-- 11. **Review & Improve (AI 4 KIDS) #1** (`ai4_kids/11_review_improve_ai_4_kids_1.md`)
-- 12. **One-Pager Builder (AI 4 KIDS) #2** (`ai4_kids/12_one_pager_builder_ai_4_kids_2.md`)
-- 13. **Checklist Generator (AI 4 KIDS) #3** (`ai4_kids/13_checklist_generator_ai_4_kids_3.md`)
-- 14. **Template Pack (AI 4 KIDS) #4** (`ai4_kids/14_template_pack_ai_4_kids_4.md`)
-- 15. **FAQ & Objections (AI 4 KIDS) #5** (`ai4_kids/15_faq_objections_ai_4_kids_5.md`)
-- 16. **Review & Improve (AI 4 KIDS) #6** (`ai4_kids/16_review_improve_ai_4_kids_6.md`)
-- 17. **One-Pager Builder (AI 4 KIDS) #7** (`ai4_kids/17_one_pager_builder_ai_4_kids_7.md`)
-- 18. **Checklist Generator (AI 4 KIDS) #8** (`ai4_kids/18_checklist_generator_ai_4_kids_8.md`)
-- 19. **Template Pack (AI 4 KIDS) #9** (`ai4_kids/19_template_pack_ai_4_kids_9.md`)
-- 20. **FAQ & Objections (AI 4 KIDS) #10** (`ai4_kids/20_faq_objections_ai_4_kids_10.md`)
-- 21. **Review & Improve (AI 4 KIDS) #11** (`ai4_kids/21_review_improve_ai_4_kids_11.md`)
-- 22. **One-Pager Builder (AI 4 KIDS) #12** (`ai4_kids/22_one_pager_builder_ai_4_kids_12.md`)
-- 23. **Checklist Generator (AI 4 KIDS) #13** (`ai4_kids/23_checklist_generator_ai_4_kids_13.md`)
-- 24. **Template Pack (AI 4 KIDS) #14** (`ai4_kids/24_template_pack_ai_4_kids_14.md`)
-- 25. **FAQ & Objections (AI 4 KIDS) #15** (`ai4_kids/25_faq_objections_ai_4_kids_15.md`)
-- 26. **Review & Improve (AI 4 KIDS) #16** (`ai4_kids/26_review_improve_ai_4_kids_16.md`)
-- 27. **One-Pager Builder (AI 4 KIDS) #17** (`ai4_kids/27_one_pager_builder_ai_4_kids_17.md`)
-- 28. **Checklist Generator (AI 4 KIDS) #18** (`ai4_kids/28_checklist_generator_ai_4_kids_18.md`)
-- 29. **Template Pack (AI 4 KIDS) #19** (`ai4_kids/29_template_pack_ai_4_kids_19.md`)
-- 30. **FAQ & Objections (AI 4 KIDS) #20** (`ai4_kids/30_faq_objections_ai_4_kids_20.md`)
+| Titel | Datei |
+|-------|-------|
+| Ai Academy Setup Plan | ai_academy_setup_plan.md |
+| Analyze Taking Course | analyze_taking_course.md |
+| Apply Financial Aid Private Schools | apply_financial_aid_private_schools.md |
+| Bird And Insect Identification Course | Bird And Insect Identification Course.md |
+| Book Finding Challenges | Book Finding Challenges.md |
+| Build Custom College List | build_custom_college_list.md |
+| Careers Presentation Overview | careers_presentation_overview.md |
+| Create Ad Strategy For Schools | create_ad_strategy_for_schools.md |
+| Create E Learning Training Manuals | create_e_learning_training_manuals.md |
+| Create Educational Activity | create_educational_activity.md |
+| Create Engaging Content For Kids | create_engaging_content_for_kids.md |
+| Create Financial Literacy Course | Create Financial Literacy Course.md |
+| Create Merit File Guidelines | create_merit_file_guidelines.md |
+| Create Nclex Study Guide | create_nclex_study_guide.md |
+| Create Practice Tests | create_practice_tests.md |
+| Create Presentation Outline | create_presentation_outline.md |
+| Departmental Head Job Description | departmental_head_job_description.md |
+| Dyslexia Reading Tutor Plan | dyslexia_reading_tutor_plan.md |
+| Early Childhood Curriculum | Early Childhood Curriculum.md |
+| Edit Kids Fantasy Book | edit_kids_fantasy_book.md |
+| Engaging Writing Prompts | engaging_writing_prompts.md |
+| Family Wellness Resource | family_wellness_resource.md |
+| Farm Marketing Strategy | farm_marketing_strategy.md |
+| Finding Suitable Childrens Books | finding_suitable_childrens_books.md |
+| Home Daycare Lesson Plan | home_daycare_lesson_plan.md |
+| Homeschooling Special Needs Guide | homeschooling_special_needs_guide.md |
+| IDENTITY AND GOALS | find_hidden_message.md |
+| IDENTITY and PURPOSE | write_essay.md |
+| IDENTITY and PURPOSE | create_quiz.md |
+| IDENTITY and PURPOSE | write_micro_essay.md |
+| IDENTITY and PURPOSE | analyze_answers.md |
+| IDENTITY and PURPOSE | extract_ideas.md |
+| IDENTITY and PURPOSE | extract_insights.md |
+| IDENTITY and PURPOSE | create_video_chapters.md |
+| Independent Educational Consultants Challenges | independent_educational_consultants_challenges.md |
+| Language Learning Activities | language_learning_activities.md |
+| Mathematics Lesson Plan | mathematics_lesson_plan.md |
+| Meal Plan For Daycares | meal_plan_for_daycares.md |
+| Nursingstudyguide | NursingStudyGuide.md |
+| Nutrition And Fitness Course | Nutrition And Fitness Course.md |
+| Online Education Guide | online_education_guide.md |
+| Social Media Strategy | Social Media Strategy.md |
+| Storytelling Course | storytelling_course.md |
+| Wharton Mba Finance Guide | wharton_mba_finance_guide.md |
+| Write Cover Letter | write_cover_letter.md |
+
+---
+*Aktualisiert: 2025-12-24*
