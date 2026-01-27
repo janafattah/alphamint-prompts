@@ -1,0 +1,6 @@
+# MCP configuration (contains tokens)
+.mcp.json
+
+# Environment files
+.env
+.env.local
